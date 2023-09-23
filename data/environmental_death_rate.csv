@@ -1,876 +1,876 @@
-Continent_region,Year,Total_death_rate,Population,Environmental_factor,Death_rate
-Asia,2019,209370,37769499,Outdoor_air_pollution,24.23648775
-Asia,2019,209370,37769499,Unsafe_water_source,9.931294032
-Asia,2019,209370,37769499,Secondhand_smoke,16.04998785
-Asia,2019,209370,37769499,Household_air_pollution_from_solid_fuels,74.57869642
-Asia,2019,209370,37769499,Air_pollution,98.0500165
-Europe,2019,28500,2854191,Outdoor_air_pollution,54.51632354
-Europe,2019,28500,2854191,Unsafe_water_source,0.140144791
-Europe,2019,28500,2854191,Secondhand_smoke,27.11801698
-Europe,2019,28500,2854191,Household_air_pollution_from_solid_fuels,25.3662071
-Europe,2019,28500,2854191,Air_pollution,79.74238585
-Africa,2019,248758,42705368,Outdoor_air_pollution,52.05200433
-Africa,2019,248758,42705368,Unsafe_water_source,0.648630402
-Africa,2019,248758,42705368,Secondhand_smoke,17.96027141
-Africa,2019,248758,42705368,Household_air_pollution_from_solid_fuels,0.154547316
-Africa,2019,248758,42705368,Air_pollution,51.89511539
-Oceania,2019,440,47321,Outdoor_air_pollution,16.90581349
-Oceania,2019,440,47321,Unsafe_water_source,4.226453372
-Oceania,2019,440,47321,Secondhand_smoke,31.69840029
-Oceania,2019,440,47321,Household_air_pollution_from_solid_fuels,12.67936011
-Oceania,2019,440,47321,Air_pollution,29.5851736
-Europe,2019,461,76343,Outdoor_air_pollution,18.33828904
-Europe,2019,461,76343,Unsafe_water_source,0
-Europe,2019,461,76343,Secondhand_smoke,10.47902231
-Europe,2019,461,76343,Household_air_pollution_from_solid_fuels,0
-Europe,2019,461,76343,Air_pollution,18.33828904
-Africa,2019,105877,32353588,Outdoor_air_pollution,17.6580106
-Africa,2019,105877,32353588,Unsafe_water_source,34.44131142
-Africa,2019,105877,32353588,Secondhand_smoke,5.050444482
-Africa,2019,105877,32353588,Household_air_pollution_from_solid_fuels,26.97073351
-Africa,2019,105877,32353588,Air_pollution,44.45874751
-North America,2019,562,92117,Outdoor_air_pollution,32.56727857
-North America,2019,562,92117,Unsafe_water_source,1.085575952
-North America,2019,562,92117,Secondhand_smoke,8.684607619
-North America,2019,562,92117,Household_air_pollution_from_solid_fuels,0
-North America,2019,562,92117,Air_pollution,32.56727857
-South America,2019,279007,44938712,Outdoor_air_pollution,29.19531828
-South America,2019,279007,44938712,Unsafe_water_source,0.700954669
-South America,2019,279007,44938712,Secondhand_smoke,19.08821953
-South America,2019,279007,44938712,Household_air_pollution_from_solid_fuels,1.575479066
-South America,2019,279007,44938712,Air_pollution,30.6595347
-Asia,2019,36622,2820602,Outdoor_air_pollution,114.9754556
-Asia,2019,36622,2820602,Unsafe_water_source,0.106360273
-Asia,2019,36622,2820602,Secondhand_smoke,35.66614503
-Asia,2019,36622,2820602,Household_air_pollution_from_solid_fuels,2.76536711
-Asia,2019,36622,2820602,Air_pollution,116.5354063
-Oceania,2019,115179,25340217,Outdoor_air_pollution,7.486123738
-Oceania,2019,115179,25340217,Unsafe_water_source,0.157851845
-Oceania,2019,115179,25340217,Secondhand_smoke,6.24304046
-Oceania,2019,115179,25340217,Household_air_pollution_from_solid_fuels,0.05130185
-Oceania,2019,115179,25340217,Air_pollution,7.525586699
-Europe,2019,74571,8879920,Outdoor_air_pollution,30.04531572
-Europe,2019,74571,8879920,Unsafe_water_source,0.033784088
-Europe,2019,74571,8879920,Secondhand_smoke,13.58120343
-Europe,2019,74571,8879920,Household_air_pollution_from_solid_fuels,0.101352264
-Europe,2019,74571,8879920,Air_pollution,29.89891801
-Asia,2019,105302,10024283,Outdoor_air_pollution,79.84610969
-Asia,2019,105302,10024283,Unsafe_water_source,0.598546549
-Asia,2019,105302,10024283,Secondhand_smoke,31.30398453
-Asia,2019,105302,10024283,Household_air_pollution_from_solid_fuels,6.643866698
-Asia,2019,105302,10024283,Air_pollution,86.22063044
-Asia,2019,5933,1494188,Outdoor_air_pollution,43.03340677
-Asia,2019,5933,1494188,Unsafe_water_source,0.401555895
-Asia,2019,5933,1494188,Secondhand_smoke,9.905045416
-Asia,2019,5933,1494188,Household_air_pollution_from_solid_fuels,0.133851965
-Asia,2019,5933,1494188,Air_pollution,42.69877686
-Asia,2019,970115,165516222,Outdoor_air_pollution,50.69714556
-Asia,2019,970115,165516222,Unsafe_water_source,17.01222977
-Asia,2019,970115,165516222,Secondhand_smoke,14.90125844
-Asia,2019,970115,165516222,Household_air_pollution_from_solid_fuels,57.26870687
-Asia,2019,970115,165516222,Air_pollution,104.8326248
-North America,2019,2666,280180,Outdoor_air_pollution,62.45984724
-North America,2019,2666,280180,Unsafe_water_source,1.070740238
-North America,2019,2666,280180,Secondhand_smoke,10.35048897
-North America,2019,2666,280180,Household_air_pollution_from_solid_fuels,0
-North America,2019,2666,280180,Air_pollution,62.45984724
-Europe,2019,153255,9419758,Outdoor_air_pollution,90.05539208
-Europe,2019,153255,9419758,Unsafe_water_source,0.042463936
-Europe,2019,153255,9419758,Secondhand_smoke,25.84992099
-Europe,2019,153255,9419758,Household_air_pollution_from_solid_fuels,1.019134462
-Europe,2019,153255,9419758,Air_pollution,90.97898269
-Europe,2019,86707,11488980,Outdoor_air_pollution,33.13610085
-Europe,2019,86707,11488980,Unsafe_water_source,0.2437118
-Europe,2019,86707,11488980,Secondhand_smoke,11.8374303
-Europe,2019,86707,11488980,Household_air_pollution_from_solid_fuels,0.052223957
-Europe,2019,86707,11488980,Air_pollution,32.962021
-North America,2019,1612,389095,Outdoor_air_pollution,24.41563114
-North America,2019,1612,389095,Unsafe_water_source,2.313059793
-North America,2019,1612,389095,Secondhand_smoke,7.196186021
-North America,2019,1612,389095,Household_air_pollution_from_solid_fuels,7.710199309
-North America,2019,1612,389095,Air_pollution,31.86882381
-Africa,2019,54239,12290444,Outdoor_air_pollution,19.68195779
-Africa,2019,54239,12290444,Unsafe_water_source,35.86526248
-Africa,2019,54239,12290444,Secondhand_smoke,5.337480078
-Africa,2019,54239,12290444,Household_air_pollution_from_solid_fuels,80.4771577
-Africa,2019,54239,12290444,Air_pollution,99.5732945
-North America,2019,469,63911,Outdoor_air_pollution,14.0820829
-North America,2019,469,63911,Unsafe_water_source,0
-North America,2019,469,63911,Secondhand_smoke,12.51740702
-North America,2019,469,63911,Household_air_pollution_from_solid_fuels,1.564675877
-North America,2019,469,63911,Air_pollution,15.64675877
-Asia,2019,3938,767459,Outdoor_air_pollution,43.78084041
-Asia,2019,3938,767459,Unsafe_water_source,9.77250902
-Asia,2019,3938,767459,Secondhand_smoke,8.860408178
-Asia,2019,3938,767459,Household_air_pollution_from_solid_fuels,45.86564233
-Asia,2019,3938,767459,Air_pollution,85.99807938
-South America,2019,53929,11777315,Outdoor_air_pollution,34.05699856
-South America,2019,53929,11777315,Unsafe_water_source,3.727504953
-South America,2019,53929,11777315,Secondhand_smoke,4.924721806
-South America,2019,53929,11777315,Household_air_pollution_from_solid_fuels,19.32528764
-South America,2019,53929,11777315,Air_pollution,53.11057741
-Europe,2019,54412,3360711,Outdoor_air_pollution,110.3933067
-Europe,2019,54412,3360711,Unsafe_water_source,0.089266825
-Europe,2019,54412,3360711,Secondhand_smoke,38.97984682
-Europe,2019,54412,3360711,Household_air_pollution_from_solid_fuels,34.15943829
-Europe,2019,54412,3360711,Air_pollution,143.9278772
-Africa,2019,15296,2499702,Outdoor_air_pollution,38.64460644
-Africa,2019,15296,2499702,Unsafe_water_source,15.92189789
-Africa,2019,15296,2499702,Secondhand_smoke,17.08203618
-Africa,2019,15296,2499702,Household_air_pollution_from_solid_fuels,25.44303281
-Africa,2019,15296,2499702,Air_pollution,63.84761064
-South America,2019,1152449,211782878,Outdoor_air_pollution,22.31389074
-South America,2019,1152449,211782878,Unsafe_water_source,2.034630958
-South America,2019,1152449,211782878,Secondhand_smoke,13.12098516
-South America,2019,1152449,211782878,Household_air_pollution_from_solid_fuels,6.618098749
-South America,2019,1152449,211782878,Air_pollution,28.76294844
-Europe,2019,177175,6975761,Outdoor_air_pollution,132.2579716
-Europe,2019,177175,6975761,Unsafe_water_source,0.129018182
-Europe,2019,177175,6975761,Secondhand_smoke,43.33577369
-Europe,2019,177175,6975761,Household_air_pollution_from_solid_fuels,25.97566058
-Europe,2019,177175,6975761,Air_pollution,157.8752483
-Africa,2019,116939,20951639,Outdoor_air_pollution,16.70036411
-Africa,2019,116939,20951639,Unsafe_water_source,61.79946113
-Africa,2019,116939,20951639,Secondhand_smoke,7.923007837
-Africa,2019,116939,20951639,Household_air_pollution_from_solid_fuels,115.9956985
-Africa,2019,116939,20951639,Air_pollution,132.2903664
-Africa,2019,55599,11874838,Outdoor_air_pollution,9.195914925
-Africa,2019,55599,11874838,Unsafe_water_source,68.18619336
-Africa,2019,55599,11874838,Secondhand_smoke,3.18320132
-Africa,2019,55599,11874838,Household_air_pollution_from_solid_fuels,84.24535981
-Africa,2019,55599,11874838,Air_pollution,92.750739
-Asia,2019,113008,16207746,Outdoor_air_pollution,22.60030482
-Asia,2019,113008,16207746,Unsafe_water_source,8.22446255
-Asia,2019,113008,16207746,Secondhand_smoke,20.81720678
-Asia,2019,113008,16207746,Household_air_pollution_from_solid_fuels,86.58822763
-Asia,2019,113008,16207746,Air_pollution,108.7257907
-Africa,2019,128405,25782341,Outdoor_air_pollution,40.65573409
-Africa,2019,128405,25782341,Unsafe_water_source,58.68357726
-Africa,2019,128405,25782341,Secondhand_smoke,5.28268554
-Africa,2019,128405,25782341,Household_air_pollution_from_solid_fuels,46.80723135
-Africa,2019,128405,25782341,Air_pollution,87.00916647
-North America,2019,212170,37601230,Outdoor_air_pollution,11.68312845
-North America,2019,212170,37601230,Unsafe_water_source,0.156909761
-North America,2019,212170,37601230,Secondhand_smoke,8.624717862
-North America,2019,212170,37601230,Household_air_pollution_from_solid_fuels,0.0212759
-North America,2019,212170,37601230,Air_pollution,11.6512146
-Africa,2019,40797,5209324,Outdoor_air_pollution,19.71465012
-Africa,2019,40797,5209324,Unsafe_water_source,141.4003045
-Africa,2019,40797,5209324,Secondhand_smoke,7.524968691
-Africa,2019,40797,5209324,Household_air_pollution_from_solid_fuels,133.6257833
-Africa,2019,40797,5209324,Air_pollution,152.0158854
-Africa,2019,102015,16126866,Outdoor_air_pollution,16.95307693
-Africa,2019,102015,16126866,Unsafe_water_source,164.055434
-Africa,2019,102015,16126866,Secondhand_smoke,8.067283501
-Africa,2019,102015,16126866,Household_air_pollution_from_solid_fuels,118.2250786
-Africa,2019,102015,16126866,Air_pollution,134.6138797
-South America,2019,98543,19039485,Outdoor_air_pollution,31.17206164
-South America,2019,98543,19039485,Unsafe_water_source,0.582998962
-South America,2019,98543,19039485,Secondhand_smoke,12.21146475
-South America,2019,98543,19039485,Household_air_pollution_from_solid_fuels,1.733240159
-South America,2019,98543,19039485,Air_pollution,32.7950047
-Asia,2019,13409833,1407745000,Outdoor_air_pollution,107.7541742
-Asia,2019,13409833,1407745000,Unsafe_water_source,0.232286387
-Asia,2019,13409833,1407745000,Secondhand_smoke,29.55464235
-Asia,2019,13409833,1407745000,Household_air_pollution_from_solid_fuels,25.78798007
-Asia,2019,13409833,1407745000,Air_pollution,131.2932385
-South America,2019,191401,50187406,Outdoor_air_pollution,26.51262749
-South America,2019,191401,50187406,Unsafe_water_source,1.052056765
-South America,2019,191401,50187406,Secondhand_smoke,7.08544291
-South America,2019,191401,50187406,Household_air_pollution_from_solid_fuels,4.889672919
-South America,2019,191401,50187406,Air_pollution,31.30466635
-Africa,2019,3767,790986,Outdoor_air_pollution,12.01032635
-Africa,2019,3767,790986,Unsafe_water_source,28.57193427
-Africa,2019,3767,790986,Secondhand_smoke,9.355412106
-Africa,2019,3767,790986,Household_air_pollution_from_solid_fuels,69.78631733
-Africa,2019,3767,790986,Air_pollution,81.67021919
-North America,2019,19431,5084532,Outdoor_air_pollution,19.0381337
-North America,2019,19431,5084532,Unsafe_water_source,1.081712142
-North America,2019,19431,5084532,Secondhand_smoke,6.332932903
-North America,2019,19431,5084532,Household_air_pollution_from_solid_fuels,2.045419323
-North America,2019,19431,5084532,Air_pollution,21.00488305
-Africa,2019,111121,26147551,Outdoor_air_pollution,26.26632223
-Africa,2019,111121,26147551,Unsafe_water_source,23.76513196
-Africa,2019,111121,26147551,Secondhand_smoke,8.995106272
-Africa,2019,111121,26147551,Household_air_pollution_from_solid_fuels,62.19320502
-Africa,2019,111121,26147551,Air_pollution,88.1650446
-Europe,2019,63838,4065253,Outdoor_air_pollution,79.7982315
-Europe,2019,63838,4065253,Unsafe_water_source,0.19678972
-Europe,2019,63838,4065253,Secondhand_smoke,36.89807252
-Europe,2019,63838,4065253,Household_air_pollution_from_solid_fuels,4.157182837
-Europe,2019,63838,4065253,Air_pollution,83.38964389
-North America,2019,100247,11316697,Outdoor_air_pollution,52.65670716
-North America,2019,100247,11316697,Unsafe_water_source,1.758463622
-North America,2019,100247,11316697,Secondhand_smoke,19.23706184
-North America,2019,100247,11316697,Household_air_pollution_from_solid_fuels,1.767300123
-North America,2019,100247,11316697,Air_pollution,54.29145978
-Asia,2019,8293,1228836,Outdoor_air_pollution,37.59655479
-Asia,2019,8293,1228836,Unsafe_water_source,0.081377824
-Asia,2019,8293,1228836,Secondhand_smoke,13.02045187
-Asia,2019,8293,1228836,Household_air_pollution_from_solid_fuels,0.081377824
-Asia,2019,8293,1228836,Air_pollution,37.27104349
-Europe,2019,133620,10671870,Outdoor_air_pollution,61.48875502
-Europe,2019,133620,10671870,Unsafe_water_source,0.534114452
-Europe,2019,133620,10671870,Secondhand_smoke,22.39532528
-Europe,2019,133620,10671870,Household_air_pollution_from_solid_fuels,0.749634319
-Europe,2019,133620,10671870,Air_pollution,61.91042432
-Europe,2019,43825,5814422,Outdoor_air_pollution,25.36795575
-Europe,2019,43825,5814422,Unsafe_water_source,0.171986141
-Europe,2019,43825,5814422,Secondhand_smoke,12.3486049
-Europe,2019,43825,5814422,Household_air_pollution_from_solid_fuels,0.034397228
-Europe,2019,43825,5814422,Air_pollution,25.23036684
-Africa,2019,4551,1073994,Outdoor_air_pollution,42.83077932
-Africa,2019,4551,1073994,Unsafe_water_source,24.58114291
-Africa,2019,4551,1073994,Secondhand_smoke,10.80080522
-Africa,2019,4551,1073994,Household_air_pollution_from_solid_fuels,18.71518835
-Africa,2019,4551,1073994,Air_pollution,61.2666365
-North America,2019,635,71428,Outdoor_air_pollution,46.2003696
-North America,2019,635,71428,Unsafe_water_source,1.4000112
-North America,2019,635,71428,Secondhand_smoke,11.2000896
-North America,2019,635,71428,Household_air_pollution_from_solid_fuels,5.6000448
-North America,2019,635,71428,Air_pollution,51.8004144
-North America,2019,65898,10881882,Outdoor_air_pollution,35.2144969
-North America,2019,65898,10881882,Unsafe_water_source,4.135314094
-North America,2019,65898,10881882,Secondhand_smoke,9.180397288
-North America,2019,65898,10881882,Household_air_pollution_from_solid_fuels,8.629022075
-North America,2019,65898,10881882,Air_pollution,43.79757105
-South America,2019,68009,17343740,Outdoor_air_pollution,24.76397824
-South America,2019,68009,17343740,Unsafe_water_source,1.591352269
-South America,2019,68009,17343740,Secondhand_smoke,4.174416821
-South America,2019,68009,17343740,Household_air_pollution_from_solid_fuels,2.744506087
-South America,2019,68009,17343740,Air_pollution,27.45659241
-North America,2019,33639,6280217,Outdoor_air_pollution,31.35241983
-North America,2019,33639,6280217,Unsafe_water_source,3.518986685
-North America,2019,33639,6280217,Secondhand_smoke,5.955208236
-North America,2019,33639,6280217,Household_air_pollution_from_solid_fuels,9.840424304
-North America,2019,33639,6280217,Air_pollution,40.98584492
-Africa,2019,3674,1553031,Outdoor_air_pollution,25.94925665
-Africa,2019,3674,1553031,Unsafe_water_source,6.245850856
-Africa,2019,3674,1553031,Secondhand_smoke,3.026340105
-Africa,2019,3674,1553031,Household_air_pollution_from_solid_fuels,5.40877806
-Africa,2019,3674,1553031,Air_pollution,31.29364449
-Africa,2019,28504,3498818,Outdoor_air_pollution,40.69945907
-Africa,2019,28504,3498818,Unsafe_water_source,103.4920936
-Africa,2019,28504,3498818,Secondhand_smoke,10.63216206
-Africa,2019,28504,3498818,Household_air_pollution_from_solid_fuels,112.4951341
-Africa,2019,28504,3498818,Air_pollution,152.5086472
-Europe,2019,16275,1326898,Outdoor_air_pollution,12.5857451
-Europe,2019,16275,1326898,Unsafe_water_source,0.075363743
-Europe,2019,16275,1326898,Secondhand_smoke,15.37420359
-Europe,2019,16275,1326898,Household_air_pollution_from_solid_fuels,3.014549724
-Europe,2019,16275,1326898,Air_pollution,15.60029482
-Africa,2019,7449,1169613,Outdoor_air_pollution,30.26642146
-Africa,2019,7449,1169613,Unsafe_water_source,33.85735282
-Africa,2019,7449,1169613,Secondhand_smoke,7.438357816
-Africa,2019,7449,1169613,Household_air_pollution_from_solid_fuels,41.21021227
-Africa,2019,7449,1169613,Air_pollution,71.13464026
-Africa,2019,347063,114120594,Outdoor_air_pollution,8.462101065
-Africa,2019,347063,114120594,Unsafe_water_source,37.83190964
-Africa,2019,347063,114120594,Secondhand_smoke,1.566763664
-Africa,2019,347063,114120594,Household_air_pollution_from_solid_fuels,59.43449611
-Africa,2019,347063,114120594,Air_pollution,67.49000973
-Oceania,2019,11174,918465,Outdoor_air_pollution,36.03839014
-Oceania,2019,11174,918465,Unsafe_water_source,7.403657189
-Oceania,2019,11174,918465,Secondhand_smoke,37.45379519
-Oceania,2019,11174,918465,Household_air_pollution_from_solid_fuels,32.8809481
-Oceania,2019,11174,918465,Air_pollution,69.02821556
-Europe,2019,48634,5521606,Outdoor_air_pollution,7.515929242
-Europe,2019,48634,5521606,Unsafe_water_source,0.018110673
-Europe,2019,48634,5521606,Secondhand_smoke,7.280490495
-Europe,2019,48634,5521606,Household_air_pollution_from_solid_fuels,0.036221346
-Europe,2019,48634,5521606,Air_pollution,7.552150588
-Europe,2019,402771,67388001,Outdoor_air_pollution,21.33614262
-Europe,2019,402771,67388001,Unsafe_water_source,0.130587046
-Europe,2019,402771,67388001,Secondhand_smoke,6.015907788
-Europe,2019,402771,67388001,Household_air_pollution_from_solid_fuels,0.054905917
-Europe,2019,402771,67388001,Air_pollution,21.27084909
-Africa,2019,8831,2242785,Outdoor_air_pollution,36.91838495
-Africa,2019,8831,2242785,Unsafe_water_source,8.560784917
-Africa,2019,8831,2242785,Secondhand_smoke,5.216728309
-Africa,2019,8831,2242785,Household_air_pollution_from_solid_fuels,3.07653208
-Africa,2019,8831,2242785,Air_pollution,39.90574219
-Asia,2019,69032,3720161,Outdoor_air_pollution,86.31346869
-Asia,2019,69032,3720161,Unsafe_water_source,0.188163899
-Asia,2019,69032,3720161,Secondhand_smoke,42.41751903
-Asia,2019,69032,3720161,Household_air_pollution_from_solid_fuels,42.84760794
-Asia,2019,69032,3720161,Air_pollution,128.6772266
-Europe,2019,879851,83092962,Outdoor_air_pollution,35.38326146
-Europe,2019,879851,83092962,Unsafe_water_source,0.127567964
-Europe,2019,879851,83092962,Secondhand_smoke,9.702386106
-Europe,2019,879851,83092962,Household_air_pollution_from_solid_fuels,0.036104141
-Europe,2019,879851,83092962,Air_pollution,35.20394423
-Africa,2019,145698,31522290,Outdoor_air_pollution,40.82507965
-Africa,2019,145698,31522290,Unsafe_water_source,17.76203442
-Africa,2019,145698,31522290,Secondhand_smoke,3.908345491
-Africa,2019,145698,31522290,Household_air_pollution_from_solid_fuels,35.10214518
-Africa,2019,145698,31522290,Air_pollution,75.47674994
-Europe,2019,118223,10721582,Outdoor_air_pollution,58.06978858
-Europe,2019,118223,10721582,Unsafe_water_source,0.009326982
-Europe,2019,118223,10721582,Secondhand_smoke,24.39938434
-Europe,2019,118223,10721582,Household_air_pollution_from_solid_fuels,0.382406253
-Europe,2019,118223,10721582,Air_pollution,58.00449971
-North America,2019,391,56225,Outdoor_air_pollution,12.44997777
-North America,2019,391,56225,Unsafe_water_source,0
-North America,2019,391,56225,Secondhand_smoke,21.34281903
-North America,2019,391,56225,Household_air_pollution_from_solid_fuels,0
-North America,2019,391,56225,Air_pollution,12.44997777
-North America,2019,787,122724,Outdoor_air_pollution,41.55666373
-North America,2019,787,122724,Unsafe_water_source,0.814836544
-North America,2019,787,122724,Secondhand_smoke,8.963201982
-North America,2019,787,122724,Household_air_pollution_from_solid_fuels,1.629673088
-North America,2019,787,122724,Air_pollution,44.00117336
-Oceania,2019,1226,168624,Outdoor_air_pollution,18.38409716
-Oceania,2019,1226,168624,Unsafe_water_source,2.372141569
-Oceania,2019,1226,168624,Secondhand_smoke,24.90748648
-Oceania,2019,1226,168624,Household_air_pollution_from_solid_fuels,2.965176962
-Oceania,2019,1226,168624,Air_pollution,21.34927412
-North America,2019,72155,16604026,Outdoor_air_pollution,22.81976672
-North America,2019,72155,16604026,Unsafe_water_source,12.20788259
-North America,2019,72155,16604026,Secondhand_smoke,6.209337422
-North America,2019,72155,16604026,Household_air_pollution_from_solid_fuels,31.89587875
-North America,2019,72155,16604026,Air_pollution,54.59519276
-Africa,2019,68799,12877539,Outdoor_air_pollution,19.95722941
-Africa,2019,68799,12877539,Unsafe_water_source,43.19148247
-Africa,2019,68799,12877539,Secondhand_smoke,9.303019777
-Africa,2019,68799,12877539,Household_air_pollution_from_solid_fuels,106.790591
-Africa,2019,68799,12877539,Air_pollution,126.1265837
-Africa,2019,10013,1970457,Outdoor_air_pollution,18.72662027
-Africa,2019,10013,1970457,Unsafe_water_source,53.4393798
-Africa,2019,10013,1970457,Secondhand_smoke,7.257199726
-Africa,2019,10013,1970457,Household_air_pollution_from_solid_fuels,83.17867378
-Africa,2019,10013,1970457,Air_pollution,101.3977976
-South America,2019,6902,798753,Outdoor_air_pollution,51.4552058
-South America,2019,6902,798753,Unsafe_water_source,6.134562249
-South America,2019,6902,798753,Secondhand_smoke,14.64783231
-South America,2019,6902,798753,Household_air_pollution_from_solid_fuels,6.885733137
-South America,2019,6902,798753,Air_pollution,58.34093894
-North America,2019,85291,11160438,Outdoor_air_pollution,17.14090433
-North America,2019,85291,11160438,Unsafe_water_source,31.37869679
-North America,2019,85291,11160438,Secondhand_smoke,7.544506766
-North America,2019,85291,11160438,Household_air_pollution_from_solid_fuels,108.8756552
-North America,2019,85291,11160438,Air_pollution,125.6043894
-North America,2019,48852,9958829,Outdoor_air_pollution,18.89780415
-North America,2019,48852,9958829,Unsafe_water_source,7.822204799
-North America,2019,48852,9958829,Secondhand_smoke,8.203775765
-North America,2019,48852,9958829,Household_air_pollution_from_solid_fuels,38.91019717
-North America,2019,48852,9958829,Air_pollution,57.4364717
-Europe,2019,162490,9771141,Outdoor_air_pollution,74.93495386
-Europe,2019,162490,9771141,Unsafe_water_source,0.60381894
-Europe,2019,162490,9771141,Secondhand_smoke,36.84318955
-Europe,2019,162490,9771141,Household_air_pollution_from_solid_fuels,13.78549342
-Europe,2019,162490,9771141,Air_pollution,88.18826788
-Europe,2019,1598,360563,Outdoor_air_pollution,5.269536808
-Europe,2019,1598,360563,Unsafe_water_source,0
-Europe,2019,1598,360563,Secondhand_smoke,8.320321275
-Europe,2019,1598,360563,Household_air_pollution_from_solid_fuels,0
-Europe,2019,1598,360563,Air_pollution,5.269536808
-Asia,2019,9986827,1383112050,Outdoor_air_pollution,82.97729746
-Asia,2019,9986827,1383112050,Unsafe_water_source,36.74973405
-Asia,2019,9986827,1383112050,Secondhand_smoke,17.35925878
-Asia,2019,9986827,1383112050,Household_air_pollution_from_solid_fuels,43.87858525
-Asia,2019,9986827,1383112050,Air_pollution,120.5492353
-Asia,2019,1914553,269582878,Outdoor_air_pollution,40.85088816
-Asia,2019,1914553,269582878,Unsafe_water_source,16.979565
-Asia,2019,1914553,269582878,Secondhand_smoke,19.49493246
-Asia,2019,1914553,269582878,Household_air_pollution_from_solid_fuels,28.51330937
-Asia,2019,1914553,269582878,Air_pollution,69.09452165
-Asia,2019,250157,41563520,Outdoor_air_pollution,61.68149377
-Asia,2019,250157,41563520,Unsafe_water_source,0.919075189
-Asia,2019,250157,41563520,Secondhand_smoke,15.96351801
-Asia,2019,250157,41563520,Household_air_pollution_from_solid_fuels,0.153981183
-Asia,2019,250157,41563520,Air_pollution,61.65502826
-Europe,2019,25504,4934340,Outdoor_air_pollution,11.16664032
-Europe,2019,25504,4934340,Unsafe_water_source,0.020266135
-Europe,2019,25504,4934340,Secondhand_smoke,8.815768674
-Europe,2019,25504,4934340,Household_air_pollution_from_solid_fuels,0.04053227
-Europe,2019,25504,4934340,Air_pollution,11.18690646
-Asia,2019,37688,9054000,Outdoor_air_pollution,27.38016346
-Asia,2019,37688,9054000,Unsafe_water_source,0.143582947
-Asia,2019,37688,9054000,Secondhand_smoke,5.986304396
-Asia,2019,37688,9054000,Household_air_pollution_from_solid_fuels,0.044179368
-Asia,2019,37688,9054000,Air_pollution,27.1261321
-Europe,2019,558249,59729081,Outdoor_air_pollution,47.13449383
-Europe,2019,558249,59729081,Unsafe_water_source,0.078688637
-Europe,2019,558249,59729081,Secondhand_smoke,14.01997128
-Europe,2019,558249,59729081,Household_air_pollution_from_solid_fuels,0.202581386
-Europe,2019,558249,59729081,Air_pollution,46.71426302
-North America,2019,19347,2813773,Outdoor_air_pollution,34.2600487
-North America,2019,19347,2813773,Unsafe_water_source,1.137263027
-North America,2019,19347,2813773,Secondhand_smoke,12.08341966
-North America,2019,19347,2813773,Household_air_pollution_from_solid_fuels,7.072354451
-North America,2019,19347,2813773,Air_pollution,41.22578474
-Asia,2019,842925,126633000,Outdoor_air_pollution,33.75265531
-Asia,2019,842925,126633000,Unsafe_water_source,0.428008497
-Asia,2019,842925,126633000,Secondhand_smoke,13.26352531
-Asia,2019,842925,126633000,Household_air_pollution_from_solid_fuels,0.07501994
-Asia,2019,842925,126633000,Air_pollution,33.61288132
-Asia,2019,38837,10698683,Outdoor_air_pollution,29.39614156
-Asia,2019,38837,10698683,Unsafe_water_source,0.271061401
-Asia,2019,38837,10698683,Secondhand_smoke,9.477802081
-Asia,2019,38837,10698683,Household_air_pollution_from_solid_fuels,0.01869389
-Asia,2019,38837,10698683,Air_pollution,29.26528433
-Asia,2019,173146,18513673,Outdoor_air_pollution,57.81672821
-Asia,2019,173146,18513673,Unsafe_water_source,0.156640986
-Asia,2019,173146,18513673,Secondhand_smoke,19.20742578
-Asia,2019,173146,18513673,Household_air_pollution_from_solid_fuels,7.691612572
-Asia,2019,173146,18513673,Air_pollution,65.027615
-Africa,2019,175566,50951450,Outdoor_air_pollution,11.26170109
-Africa,2019,175566,50951450,Unsafe_water_source,30.23466457
-Africa,2019,175566,50951450,Secondhand_smoke,3.595579714
-Africa,2019,175566,50951450,Household_air_pollution_from_solid_fuels,43.39228815
-Africa,2019,175566,50951450,Air_pollution,54.44202275
-Oceania,2019,1521,124241,Outdoor_air_pollution,16.09774551
-Oceania,2019,1521,124241,Unsafe_water_source,27.36616737
-Oceania,2019,1521,124241,Secondhand_smoke,41.85413833
-Oceania,2019,1521,124241,Household_air_pollution_from_solid_fuels,107.0500076
-Oceania,2019,1521,124241,Air_pollution,122.3428659
-Asia,2019,13402,4441100,Outdoor_air_pollution,34.92378014
-Asia,2019,13402,4441100,Unsafe_water_source,0.045033888
-Asia,2019,13402,4441100,Secondhand_smoke,8.038549008
-Asia,2019,13402,4441100,Household_air_pollution_from_solid_fuels,0.022516944
-Asia,2019,13402,4441100,Air_pollution,34.74364459
-Europe,2019,30631,1913822,Outdoor_air_pollution,59.09640499
-Europe,2019,30631,1913822,Unsafe_water_source,0.052251463
-Europe,2019,30631,1913822,Secondhand_smoke,25.9167258
-Europe,2019,30631,1913822,Household_air_pollution_from_solid_fuels,5.434152183
-Europe,2019,30631,1913822,Air_pollution,64.47830571
-Asia,2019,45273,5781907,Outdoor_air_pollution,58.61387947
-Asia,2019,45273,5781907,Unsafe_water_source,0.691813272
-Asia,2019,45273,5781907,Secondhand_smoke,23.38328859
-Asia,2019,45273,5781907,Household_air_pollution_from_solid_fuels,0.172953318
-Asia,2019,45273,5781907,Air_pollution,58.49281215
-Africa,2019,20029,2225702,Outdoor_air_pollution,39.71780589
-Africa,2019,20029,2225702,Unsafe_water_source,54.72430721
-Africa,2019,20029,2225702,Secondhand_smoke,21.65608873
-Africa,2019,20029,2225702,Household_air_pollution_from_solid_fuels,73.37010975
-Africa,2019,20029,2225702,Air_pollution,112.279182
-Africa,2019,19372,4985289,Outdoor_air_pollution,13.47965986
-Africa,2019,19372,4985289,Unsafe_water_source,41.32157634
-Africa,2019,19372,4985289,Secondhand_smoke,3.470210052
-Africa,2019,19372,4985289,Household_air_pollution_from_solid_fuels,54.44017388
-Africa,2019,19372,4985289,Air_pollution,67.71924356
-Africa,2019,38115,6569088,Outdoor_air_pollution,52.67093393
-Africa,2019,38115,6569088,Unsafe_water_source,0.563244091
-Africa,2019,38115,6569088,Secondhand_smoke,17.67368621
-Africa,2019,38115,6569088,Household_air_pollution_from_solid_fuels,0.121782506
-Africa,2019,38115,6569088,Air_pollution,52.44259173
-Europe,2019,40225,2794137,Outdoor_air_pollution,45.81020902
-Europe,2019,40225,2794137,Unsafe_water_source,0.178946129
-Europe,2019,40225,2794137,Secondhand_smoke,20.61459406
-Europe,2019,40225,2794137,Household_air_pollution_from_solid_fuels,2.183142774
-Europe,2019,40225,2794137,Air_pollution,47.95756257
-Europe,2019,3398,620001,Outdoor_air_pollution,16.61287643
-Europe,2019,3398,620001,Unsafe_water_source,0
-Europe,2019,3398,620001,Secondhand_smoke,8.064503122
-Europe,2019,3398,620001,Household_air_pollution_from_solid_fuels,0
-Europe,2019,3398,620001,Air_pollution,16.45158637
-Africa,2019,127057,27533134,Outdoor_air_pollution,8.517010813
-Africa,2019,127057,27533134,Unsafe_water_source,56.93866888
-Africa,2019,127057,27533134,Secondhand_smoke,5.291805866
-Africa,2019,127057,27533134,Household_air_pollution_from_solid_fuels,77.93882091
-Africa,2019,127057,27533134,Air_pollution,86.25244042
-Africa,2019,72259,18867337,Outdoor_air_pollution,7.308927593
-Africa,2019,72259,18867337,Unsafe_water_source,34.30266815
-Africa,2019,72259,18867337,Secondhand_smoke,3.688914869
-Africa,2019,72259,18867337,Household_air_pollution_from_solid_fuels,65.61074305
-Africa,2019,72259,18867337,Air_pollution,72.70236388
-Asia,2019,168244,32804020,Outdoor_air_pollution,33.19105402
-Asia,2019,168244,32804020,Unsafe_water_source,2.213143389
-Asia,2019,168244,32804020,Secondhand_smoke,18.18069859
-Asia,2019,168244,32804020,Household_air_pollution_from_solid_fuels,0.338373163
-Asia,2019,168244,32804020,Air_pollution,33.41053932
-Asia,2019,1377,504508,Outdoor_air_pollution,11.69456183
-Asia,2019,1377,504508,Unsafe_water_source,1.783916211
-Asia,2019,1377,504508,Secondhand_smoke,9.11779397
-Asia,2019,1377,504508,Household_air_pollution_from_solid_fuels,4.558896985
-Asia,2019,1377,504508,Air_pollution,16.0552459
-Africa,2019,102732,20567424,Outdoor_air_pollution,16.64768519
-Africa,2019,102732,20567424,Unsafe_water_source,57.76610625
-Africa,2019,102732,20567424,Secondhand_smoke,6.004641126
-Africa,2019,102732,20567424,Household_air_pollution_from_solid_fuels,109.7852604
-Africa,2019,102732,20567424,Air_pollution,125.791154
-Europe,2019,3614,504062,Outdoor_air_pollution,32.33729184
-Europe,2019,3614,504062,Unsafe_water_source,0
-Europe,2019,3614,504062,Secondhand_smoke,10.71296785
-Europe,2019,3614,504062,Household_air_pollution_from_solid_fuels,0
-Europe,2019,3614,504062,Air_pollution,32.13890355
-Oceania,2019,493,44728,Outdoor_air_pollution,26.82883205
-Oceania,2019,493,44728,Unsafe_water_source,8.942944017
-Oceania,2019,493,44728,Secondhand_smoke,35.77177607
-Oceania,2019,493,44728,Household_air_pollution_from_solid_fuels,53.6576641
-Oceania,2019,493,44728,Air_pollution,80.48649615
-Africa,2019,15573,4383849,Outdoor_air_pollution,32.57411466
-Africa,2019,15573,4383849,Unsafe_water_source,29.17527497
-Africa,2019,15573,4383849,Secondhand_smoke,4.813121985
-Africa,2019,15573,4383849,Household_air_pollution_from_solid_fuels,27.55569364
-Africa,2019,15573,4383849,Air_pollution,59.94732027
-Africa,2019,13563,1265985,Outdoor_air_pollution,47.86786573
-Africa,2019,13563,1265985,Unsafe_water_source,0.473939265
-Africa,2019,13563,1265985,Secondhand_smoke,31.04302184
-Africa,2019,13563,1265985,Household_air_pollution_from_solid_fuels,1.105858284
-Africa,2019,13563,1265985,Air_pollution,49.05271389
-North America,2019,691863,125085311,Outdoor_air_pollution,31.06200056
-North America,2019,691863,125085311,Unsafe_water_source,1.91389379
-North America,2019,691863,125085311,Secondhand_smoke,8.360693927
-North America,2019,691863,125085311,Household_air_pollution_from_solid_fuels,7.87782348
-North America,2019,691863,125085311,Air_pollution,38.63922919
-Europe,2019,49878,2664224,Outdoor_air_pollution,80.36111078
-Europe,2019,49878,2664224,Unsafe_water_source,0.187671907
-Europe,2019,49878,2664224,Secondhand_smoke,27.43763287
-Europe,2019,49878,2664224,Household_air_pollution_from_solid_fuels,10.58469558
-Europe,2019,49878,2664224,Air_pollution,90.79566883
-Europe,2019,385,37034,Outdoor_air_pollution,45.90376411
-Europe,2019,385,37034,Unsafe_water_source,0
-Europe,2019,385,37034,Secondhand_smoke,18.90154993
-Europe,2019,385,37034,Household_air_pollution_from_solid_fuels,0
-Europe,2019,385,37034,Air_pollution,43.20354269
-Asia,2019,30623,3232430,Outdoor_air_pollution,70.10205944
-Asia,2019,30623,3232430,Unsafe_water_source,1.113713213
-Asia,2019,30623,3232430,Secondhand_smoke,16.45820636
-Asia,2019,30623,3232430,Household_air_pollution_from_solid_fuels,31.21490643
-Asia,2019,30623,3232430,Air_pollution,101.1004105
-Europe,2019,10287,622028,Outdoor_air_pollution,91.79651077
-Europe,2019,10287,622028,Unsafe_water_source,0
-Europe,2019,10287,622028,Secondhand_smoke,39.22653
-Europe,2019,10287,622028,Household_air_pollution_from_solid_fuels,27.00843049
-Europe,2019,10287,622028,Air_pollution,118.6441768
-Africa,2019,303235,36304408,Outdoor_air_pollution,76.37640035
-Africa,2019,303235,36304408,Unsafe_water_source,2.641552508
-Africa,2019,303235,36304408,Secondhand_smoke,18.22368237
-Africa,2019,303235,36304408,Household_air_pollution_from_solid_fuels,4.624782754
-Africa,2019,303235,36304408,Air_pollution,80.56597425
-Africa,2019,131532,30285595,Outdoor_air_pollution,6.458516004
-Africa,2019,131532,30285595,Unsafe_water_source,25.21991065
-Africa,2019,131532,30285595,Secondhand_smoke,4.40143243
-Africa,2019,131532,30285595,Household_air_pollution_from_solid_fuels,82.60362724
-Africa,2019,131532,30285595,Air_pollution,88.89044445
-Asia,2019,488029,53040212,Outdoor_air_pollution,49.29844549
-Asia,2019,488029,53040212,Unsafe_water_source,10.44679082
-Asia,2019,488029,53040212,Secondhand_smoke,20.52593606
-Asia,2019,488029,53040212,Household_air_pollution_from_solid_fuels,92.80317356
-Asia,2019,488029,53040212,Air_pollution,140.5424247
-Africa,2019,13500,2446644,Outdoor_air_pollution,33.80140306
-Africa,2019,13500,2446644,Unsafe_water_source,22.52064461
-Africa,2019,13500,2446644,Secondhand_smoke,9.318887423
-Africa,2019,13500,2446644,Household_air_pollution_from_solid_fuels,31.67604278
-Africa,2019,13500,2446644,Air_pollution,65.02785039
-Oceania,2019,78,12132,Outdoor_air_pollution,8.242664029
-Oceania,2019,78,12132,Unsafe_water_source,0
-Oceania,2019,78,12132,Secondhand_smoke,24.72799209
-Oceania,2019,78,12132,Household_air_pollution_from_solid_fuels,0
-Oceania,2019,78,12132,Air_pollution,16.48532806
-Asia,2019,205541,28832496,Outdoor_air_pollution,83.1492355
-Asia,2019,205541,28832496,Unsafe_water_source,16.31839297
-Asia,2019,205541,28832496,Secondhand_smoke,15.3854179
-Asia,2019,205541,28832496,Household_air_pollution_from_solid_fuels,74.9258753
-Asia,2019,205541,28832496,Air_pollution,146.0678257
-Europe,2019,114041,17344874,Outdoor_air_pollution,28.81542985
-Europe,2019,114041,17344874,Unsafe_water_source,0.057653921
-Europe,2019,114041,17344874,Secondhand_smoke,10.37194044
-Europe,2019,114041,17344874,Household_air_pollution_from_solid_fuels,0.034592353
-Europe,2019,114041,17344874,Air_pollution,28.65399887
-Oceania,2019,24383,4979200,Outdoor_air_pollution,6.687821337
-Oceania,2019,24383,4979200,Unsafe_water_source,0.261086118
-Oceania,2019,24383,4979200,Secondhand_smoke,6.968991003
-Oceania,2019,24383,4979200,Household_air_pollution_from_solid_fuels,0.060250643
-Oceania,2019,24383,4979200,Air_pollution,6.707904884
-North America,2019,30201,6663924,Outdoor_air_pollution,15.51638344
-North America,2019,30201,6663924,Unsafe_water_source,2.040839601
-North America,2019,30201,6663924,Secondhand_smoke,7.262987993
-North America,2019,30201,6663924,Household_air_pollution_from_solid_fuels,26.03571109
-North America,2019,30201,6663924,Air_pollution,41.41703897
-Africa,2019,118426,23443393,Outdoor_air_pollution,13.3427785
-Africa,2019,118426,23443393,Unsafe_water_source,105.428425
-Africa,2019,118426,23443393,Secondhand_smoke,6.095534038
-Africa,2019,118426,23443393,Household_air_pollution_from_solid_fuels,113.0681041
-Africa,2019,118426,23443393,Air_pollution,125.8563553
-Africa,2019,912981,203304492,Outdoor_air_pollution,34.52014233
-Africa,2019,912981,203304492,Unsafe_water_source,77.36769535
-Africa,2019,912981,203304492,Secondhand_smoke,4.87790501
-Africa,2019,912981,203304492,Household_air_pollution_from_solid_fuels,63.08714517
-Africa,2019,912981,203304492,Air_pollution,97.17788233
-Europe,2019,37970,2076694,Outdoor_air_pollution,133.4332357
-Europe,2019,37970,2076694,Unsafe_water_source,0.096306919
-Europe,2019,37970,2076694,Secondhand_smoke,42.85657877
-Europe,2019,37970,2076694,Household_air_pollution_from_solid_fuels,25.76210072
-Europe,2019,37970,2076694,Air_pollution,158.9545691
-Oceania,2019,413,49858,Outdoor_air_pollution,22.06265795
-Oceania,2019,413,49858,Unsafe_water_source,2.005696177
-Oceania,2019,413,49858,Secondhand_smoke,24.06835413
-Oceania,2019,413,49858,Household_air_pollution_from_solid_fuels,10.02848089
-Oceania,2019,413,49858,Air_pollution,34.09683501
-Europe,2019,26992,5347896,Outdoor_air_pollution,8.489319912
-Europe,2019,26992,5347896,Unsafe_water_source,0.14959154
-Europe,2019,26992,5347896,Secondhand_smoke,8.059244234
-Europe,2019,26992,5347896,Household_air_pollution_from_solid_fuels,0.018698943
-Europe,2019,26992,5347896,Air_pollution,8.489319912
-Asia,2019,14256,4602768,Outdoor_air_pollution,34.24026586
-Asia,2019,14256,4602768,Unsafe_water_source,0.456247197
-Asia,2019,14256,4602768,Secondhand_smoke,6.62644739
-Asia,2019,14256,4602768,Household_air_pollution_from_solid_fuels,0.130356342
-Asia,2019,14256,4602768,Air_pollution,34.24026586
-Asia,2019,1375527,223293280,Outdoor_air_pollution,55.94122671
-Asia,2019,1375527,223293280,Unsafe_water_source,29.31346613
-Asia,2019,1375527,223293280,Secondhand_smoke,13.84681169
-Asia,2019,1375527,223293280,Household_air_pollution_from_solid_fuels,51.98992106
-Asia,2019,1375527,223293280,Air_pollution,105.5369871
-Oceania,2019,237,17916,Outdoor_air_pollution,27.90801518
-Oceania,2019,237,17916,Unsafe_water_source,5.581603036
-Oceania,2019,237,17916,Secondhand_smoke,61.3976334
-Oceania,2019,237,17916,Household_air_pollution_from_solid_fuels,0
-Oceania,2019,237,17916,Air_pollution,27.90801518
-North America,2019,15185,4232532,Outdoor_air_pollution,15.87702113
-North America,2019,15185,4232532,Unsafe_water_source,2.622543669
-North America,2019,15185,4232532,Secondhand_smoke,4.678050869
-North America,2019,15185,4232532,Household_air_pollution_from_solid_fuels,3.638484009
-North America,2019,15185,4232532,Air_pollution,19.44462558
-Oceania,2019,66942,9542486,Outdoor_air_pollution,12.39718874
-Oceania,2019,66942,9542486,Unsafe_water_source,27.45615765
-Oceania,2019,66942,9542486,Secondhand_smoke,27.04745912
-Oceania,2019,66942,9542486,Household_air_pollution_from_solid_fuels,117.0449713
-Oceania,2019,66942,9542486,Air_pollution,129.4316806
-South America,2019,32784,6530026,Outdoor_air_pollution,16.8299483
-South America,2019,32784,6530026,Unsafe_water_source,1.715153967
-South America,2019,32784,6530026,Secondhand_smoke,10.55125967
-South America,2019,32784,6530026,Household_air_pollution_from_solid_fuels,18.2847664
-South America,2019,32784,6530026,Air_pollution,34.97688983
-South America,2019,95593,32824861,Outdoor_air_pollution,27.40910312
-South America,2019,95593,32824861,Unsafe_water_source,2.230017059
-South America,2019,95593,32824861,Secondhand_smoke,3.6313939
-South America,2019,95593,32824861,Household_air_pollution_from_solid_fuels,7.430343726
-South America,2019,95593,32824861,Air_pollution,34.77242447
-Asia,2019,661704,110380804,Outdoor_air_pollution,29.11556977
-Asia,2019,661704,110380804,Unsafe_water_source,6.028222081
-Asia,2019,661704,110380804,Secondhand_smoke,19.63113079
-Asia,2019,661704,110380804,Household_air_pollution_from_solid_fuels,38.66161366
-Asia,2019,661704,110380804,Air_pollution,67.75000479
-Europe,2019,460603,37965475,Outdoor_air_pollution,74.87328948
-Europe,2019,460603,37965475,Unsafe_water_source,0.200181876
-Europe,2019,460603,37965475,Secondhand_smoke,20.47649871
-Europe,2019,460603,37965475,Household_air_pollution_from_solid_fuels,7.396193515
-Europe,2019,460603,37965475,Air_pollution,81.96657621
-Europe,2019,85563,10286263,Outdoor_air_pollution,23.2445933
-Europe,2019,85563,10286263,Unsafe_water_source,0.233320886
-Europe,2019,85563,10286263,Secondhand_smoke,17.21713707
-Europe,2019,85563,10286263,Household_air_pollution_from_solid_fuels,0.330537922
-Europe,2019,85563,10286263,Air_pollution,23.43902737
-North America,2019,28480,3193694,Outdoor_air_pollution,13.58927937
-North America,2019,28480,3193694,Unsafe_water_source,2.129195847
-North America,2019,28480,3193694,Secondhand_smoke,12.77517508
-North America,2019,28480,3193694,Household_air_pollution_from_solid_fuels,0.031311704
-North America,2019,28480,3193694,Air_pollution,13.58927937
-Asia,2019,4788,2807235,Outdoor_air_pollution,19.52098773
-Asia,2019,4788,2807235,Unsafe_water_source,0.071244481
-Asia,2019,4788,2807235,Secondhand_smoke,4.167802126
-Asia,2019,4788,2807235,Household_air_pollution_from_solid_fuels,0
-Asia,2019,4788,2807235,Air_pollution,19.41412101
-Europe,2019,324945,19371648,Outdoor_air_pollution,76.0028264
-Europe,2019,324945,19371648,Unsafe_water_source,0.19616297
-Europe,2019,324945,19371648,Secondhand_smoke,32.22751105
-Europe,2019,324945,19371648,Household_air_pollution_from_solid_fuels,12.56475443
-Europe,2019,324945,19371648,Air_pollution,88.46949934
-Africa,2019,51184,12835028,Outdoor_air_pollution,14.80324001
-Africa,2019,51184,12835028,Unsafe_water_source,23.8020517
-Africa,2019,51184,12835028,Secondhand_smoke,4.324104318
-Africa,2019,51184,12835028,Household_air_pollution_from_solid_fuels,58.18452441
-Africa,2019,51184,12835028,Air_pollution,72.34888775
-Oceania,2019,1861,211905,Outdoor_air_pollution,19.82020245
-Oceania,2019,1861,211905,Unsafe_water_source,3.303367075
-Oceania,2019,1861,211905,Secondhand_smoke,31.14603242
-Oceania,2019,1861,211905,Household_air_pollution_from_solid_fuels,65.59543192
-Oceania,2019,1861,211905,Air_pollution,85.41563436
-Europe,2019,215,34178,Outdoor_air_pollution,20.48101118
-Europe,2019,215,34178,Unsafe_water_source,0
-Europe,2019,215,34178,Secondhand_smoke,8.777576219
-Europe,2019,215,34178,Household_air_pollution_from_solid_fuels,0
-Europe,2019,215,34178,Air_pollution,20.48101118
-Africa,2019,883,214599,Outdoor_air_pollution,25.62919678
-Africa,2019,883,214599,Unsafe_water_source,4.193868564
-Africa,2019,883,214599,Secondhand_smoke,2.795912376
-Africa,2019,883,214599,Household_air_pollution_from_solid_fuels,40.54072945
-Africa,2019,883,214599,Air_pollution,65.23795544
-Asia,2019,154143,35827362,Outdoor_air_pollution,50.53400248
-Asia,2019,154143,35827362,Unsafe_water_source,0.421465583
-Asia,2019,154143,35827362,Secondhand_smoke,11.26792422
-Asia,2019,154143,35827362,Household_air_pollution_from_solid_fuels,0.103273024
-Asia,2019,154143,35827362,Air_pollution,50.34141224
-Africa,2019,67119,16000781,Outdoor_air_pollution,21.66769235
-Africa,2019,67119,16000781,Unsafe_water_source,33.42336852
-Africa,2019,67119,16000781,Secondhand_smoke,9.455788439
-Africa,2019,67119,16000781,Household_air_pollution_from_solid_fuels,56.71598155
-Africa,2019,67119,16000781,Air_pollution,78.0149419
-Europe,2019,168706,6945235,Outdoor_air_pollution,154.3648271
-Europe,2019,168706,6945235,Unsafe_water_source,0.201577052
-Europe,2019,168706,6945235,Secondhand_smoke,50.1062959
-Europe,2019,168706,6945235,Household_air_pollution_from_solid_fuels,28.35037259
-Europe,2019,168706,6945235,Air_pollution,182.3984358
-Africa,2019,740,97625,Outdoor_air_pollution,35.85147247
-Africa,2019,740,97625,Unsafe_water_source,4.09731114
-Africa,2019,740,97625,Secondhand_smoke,19.46222791
-Africa,2019,740,97625,Household_air_pollution_from_solid_fuels,0
-Africa,2019,740,97625,Air_pollution,36.87580026
-Africa,2019,41403,8046828,Outdoor_air_pollution,19.77176597
-Africa,2019,41403,8046828,Unsafe_water_source,40.38858542
-Africa,2019,41403,8046828,Secondhand_smoke,10.33947787
-Africa,2019,41403,8046828,Household_air_pollution_from_solid_fuels,97.09415934
-Africa,2019,41403,8046828,Air_pollution,116.4558258
-Asia,2019,16423,5703569,Outdoor_air_pollution,24.16031085
-Asia,2019,16423,5703569,Unsafe_water_source,0.087664408
-Asia,2019,16423,5703569,Secondhand_smoke,5.189732955
-Asia,2019,16423,5703569,Household_air_pollution_from_solid_fuels,0.035065763
-Asia,2019,16423,5703569,Air_pollution,24.09017932
-Europe,2019,18849,2088385,Outdoor_air_pollution,42.42512755
-Europe,2019,18849,2088385,Unsafe_water_source,0.047883891
-Europe,2019,18849,2088385,Secondhand_smoke,16.47205855
-Europe,2019,18849,2088385,Household_air_pollution_from_solid_fuels,2.968801251
-Europe,2019,18849,2088385,Air_pollution,45.01085767
-Oceania,2019,8419,674993,Outdoor_air_pollution,16.14831561
-Oceania,2019,8419,674993,Unsafe_water_source,27.11139227
-Oceania,2019,8419,674993,Secondhand_smoke,40.29671419
-Oceania,2019,8419,674993,Household_air_pollution_from_solid_fuels,179.4092679
-Oceania,2019,8419,674993,Air_pollution,195.5575836
-Africa,2019,109541,15981300,Outdoor_air_pollution,5.324973563
-Africa,2019,109541,15981300,Unsafe_water_source,90.41191893
-Africa,2019,109541,15981300,Secondhand_smoke,8.378542421
-Africa,2019,109541,15981300,Household_air_pollution_from_solid_fuels,172.4077516
-Africa,2019,109541,15981300,Air_pollution,177.2947132
-Africa,2019,346018,58087055,Outdoor_air_pollution,43.69476125
-Africa,2019,346018,58087055,Unsafe_water_source,16.36509202
-Africa,2019,346018,58087055,Secondhand_smoke,12.5621793
-Africa,2019,346018,58087055,Household_air_pollution_from_solid_fuels,7.901932711
-Africa,2019,346018,58087055,Air_pollution,51.35395485
-Africa,2019,39825,10447666,Outdoor_air_pollution,13.79255424
-Africa,2019,39825,10447666,Unsafe_water_source,57.40038014
-Africa,2019,39825,10447666,Secondhand_smoke,5.005902754
-Africa,2019,39825,10447666,Household_air_pollution_from_solid_fuels,73.49009817
-Africa,2019,39825,10447666,Air_pollution,86.98593542
-Europe,2019,319980,47134837,Outdoor_air_pollution,24.97940112
-Europe,2019,319980,47134837,Unsafe_water_source,0.110321799
-Europe,2019,319980,47134837,Secondhand_smoke,12.00386033
-Europe,2019,319980,47134837,Household_air_pollution_from_solid_fuels,0.377640003
-Europe,2019,319980,47134837,Air_pollution,25.00273842
-Asia,2019,147936,21803000,Outdoor_air_pollution,34.57322387
-Asia,2019,147936,21803000,Unsafe_water_source,3.430720543
-Asia,2019,147936,21803000,Secondhand_smoke,13.88341054
-Asia,2019,147936,21803000,Household_air_pollution_from_solid_fuels,30.46828418
-Asia,2019,147936,21803000,Air_pollution,64.73421089
-Africa,2019,220694,43232093,Outdoor_air_pollution,39.3365179
-Africa,2019,220694,43232093,Unsafe_water_source,12.67576844
-Africa,2019,220694,43232093,Secondhand_smoke,10.56622449
-Africa,2019,220694,43232093,Household_air_pollution_from_solid_fuels,26.16112063
-Africa,2019,220694,43232093,Air_pollution,65.14373477
-South America,2019,4240,600301,Outdoor_air_pollution,43.47818844
-South America,2019,4240,600301,Unsafe_water_source,4.830909827
-South America,2019,4240,600301,Secondhand_smoke,15.82539426
-South America,2019,4240,600301,Household_air_pollution_from_solid_fuels,7.829405582
-South America,2019,4240,600301,Air_pollution,51.30759402
-Europe,2019,73216,10278887,Outdoor_air_pollution,7.364610585
-Europe,2019,73216,10278887,Unsafe_water_source,0.184844916
-Europe,2019,73216,10278887,Secondhand_smoke,7.189494349
-Europe,2019,73216,10278887,Household_air_pollution_from_solid_fuels,0.029186039
-Europe,2019,73216,10278887,Air_pollution,7.374339265
-Europe,2019,53783,8575280,Outdoor_air_pollution,18.90317284
-Europe,2019,53783,8575280,Unsafe_water_source,0.058307134
-Europe,2019,53783,8575280,Secondhand_smoke,7.894785943
-Europe,2019,53783,8575280,Household_air_pollution_from_solid_fuels,0.011661427
-Europe,2019,53783,8575280,Air_pollution,18.75157429
-Asia,2019,58568,9337003,Outdoor_air_pollution,52.37226549
-Asia,2019,58568,9337003,Unsafe_water_source,5.890541108
-Asia,2019,58568,9337003,Secondhand_smoke,14.60854195
-Asia,2019,58568,9337003,Household_air_pollution_from_solid_fuels,27.92116485
-Asia,2019,58568,9337003,Air_pollution,79.8436072
-Africa,2019,243035,59872579,Outdoor_air_pollution,10.73446327
-Africa,2019,243035,59872579,Unsafe_water_source,22.05183111
-Africa,2019,243035,59872579,Secondhand_smoke,6.039492637
-Africa,2019,243035,59872579,Household_air_pollution_from_solid_fuels,65.41391845
-Africa,2019,243035,59872579,Air_pollution,75.97969013
-Asia,2019,430315,71307763,Outdoor_air_pollution,47.36090235
-Asia,2019,430315,71307763,Unsafe_water_source,7.025883002
-Asia,2019,430315,71307763,Secondhand_smoke,13.23137847
-Asia,2019,430315,71307763,Household_air_pollution_from_solid_fuels,10.44767033
-Asia,2019,430315,71307763,Air_pollution,57.32615676
-Africa,2019,37193,8243094,Outdoor_air_pollution,20.61119284
-Africa,2019,37193,8243094,Unsafe_water_source,61.11782784
-Africa,2019,37193,8243094,Secondhand_smoke,6.211259995
-Africa,2019,37193,8243094,Household_air_pollution_from_solid_fuels,61.38471792
-Africa,2019,37193,8243094,Air_pollution,81.43786787
-Oceania,2019,735,104951,Outdoor_air_pollution,20.00933769
-Oceania,2019,735,104951,Unsafe_water_source,1.905651209
-Oceania,2019,735,104951,Secondhand_smoke,24.77346571
-Oceania,2019,735,104951,Household_air_pollution_from_solid_fuels,29.53759373
-Oceania,2019,735,104951,Air_pollution,49.54693143
-North America,2019,14279,1519955,Outdoor_air_pollution,58.62015652
-North America,2019,14279,1519955,Unsafe_water_source,1.118454165
-North America,2019,14279,1519955,Secondhand_smoke,18.75055512
-North America,2019,14279,1519955,Household_air_pollution_from_solid_fuels,0.065791421
-North America,2019,14279,1519955,Air_pollution,58.68594794
-Africa,2019,85516,12049314,Outdoor_air_pollution,62.6840665
-Africa,2019,85516,12049314,Unsafe_water_source,0.630741302
-Africa,2019,85516,12049314,Secondhand_smoke,19.95964252
-Africa,2019,85516,12049314,Household_air_pollution_from_solid_fuels,0.174283781
-Africa,2019,85516,12049314,Air_pollution,62.49318426
-Asia,2019,46117,6158420,Outdoor_air_pollution,58.58645562
-Asia,2019,46117,6158420,Unsafe_water_source,0.763182764
-Asia,2019,46117,6158420,Secondhand_smoke,23.96718639
-Asia,2019,46117,6158420,Household_air_pollution_from_solid_fuels,0.081189656
-Asia,2019,46117,6158420,Air_pollution,58.58645562
-Oceania,2019,124,10956,Outdoor_air_pollution,18.25483753
-Oceania,2019,124,10956,Unsafe_water_source,9.127418766
-Oceania,2019,124,10956,Secondhand_smoke,45.63709383
-Oceania,2019,124,10956,Household_air_pollution_from_solid_fuels,18.25483753
-Oceania,2019,124,10956,Air_pollution,36.50967506
-Africa,2019,136163,42949080,Outdoor_air_pollution,11.1946519
-Africa,2019,136163,42949080,Unsafe_water_source,21.41838661
-Africa,2019,136163,42949080,Secondhand_smoke,2.849886424
-Africa,2019,136163,42949080,Household_air_pollution_from_solid_fuels,53.55411571
-Africa,2019,136163,42949080,Air_pollution,64.44142692
-Europe,2019,856572,44386203,Outdoor_air_pollution,97.90880288
-Europe,2019,856572,44386203,Unsafe_water_source,0.099129903
-Europe,2019,856572,44386203,Secondhand_smoke,36.22296775
-Europe,2019,856572,44386203,Household_air_pollution_from_solid_fuels,6.146053989
-Europe,2019,856572,44386203,Air_pollution,103.9264386
-Asia,2019,34788,9211657,Outdoor_air_pollution,36.92061048
-Asia,2019,34788,9211657,Unsafe_water_source,0.282251065
-Asia,2019,34788,9211657,Secondhand_smoke,10.17189416
-Asia,2019,34788,9211657,Household_air_pollution_from_solid_fuels,0
-Asia,2019,34788,9211657,Air_pollution,36.48637808
-Europe,2019,481831,66836327,Outdoor_air_pollution,22.51769461
-Europe,2019,481831,66836327,Unsafe_water_source,0.059847693
-Europe,2019,481831,66836327,Secondhand_smoke,12.38398394
-Europe,2019,481831,66836327,Household_air_pollution_from_solid_fuels,0.017954308
-Europe,2019,481831,66836327,Air_pollution,22.48178599
-North America,2019,2549358,328329953,Outdoor_air_pollution,18.44851481
-North America,2019,2549358,328329953,Unsafe_water_source,0.116346376
-North America,2019,2549358,328329953,Secondhand_smoke,10.83757351
-North America,2019,2549358,328329953,Household_air_pollution_from_solid_fuels,0.04568575
-North America,2019,2549358,328329953,Air_pollution,18.34404673
-South America,2019,25129,3428409,Outdoor_air_pollution,22.4302293
-South America,2019,25129,3428409,Unsafe_water_source,1.662578765
-South America,2019,25129,3428409,Secondhand_smoke,23.01359027
-South America,2019,25129,3428409,Household_air_pollution_from_solid_fuels,1.545906571
-South America,2019,25129,3428409,Air_pollution,23.91779977
-Asia,2019,290223,33580350,Outdoor_air_pollution,80.37736355
-Asia,2019,290223,33580350,Unsafe_water_source,0.256102155
-Asia,2019,290223,33580350,Secondhand_smoke,18.09987091
-Asia,2019,290223,33580350,Household_air_pollution_from_solid_fuels,9.422176958
-Asia,2019,290223,33580350,Air_pollution,89.62384252
-Oceania,2019,2975,304404,Outdoor_air_pollution,18.06809372
-Oceania,2019,2975,304404,Unsafe_water_source,18.39660451
-Oceania,2019,2975,304404,Secondhand_smoke,21.02469087
-Oceania,2019,2975,304404,Household_air_pollution_from_solid_fuels,118.5923969
-Oceania,2019,2975,304404,Air_pollution,136.6604907
-Asia,2019,706638,95776716,Outdoor_air_pollution,40.48583165
-Asia,2019,706638,95776716,Unsafe_water_source,1.306162972
-Asia,2019,706638,95776716,Secondhand_smoke,19.92655501
-Asia,2019,706638,95776716,Household_air_pollution_from_solid_fuels,34.71302983
-Asia,2019,706638,95776716,Air_pollution,74.86266286
-Africa,2019,72280,18380477,Outdoor_air_pollution,16.5828123
-Africa,2019,72280,18380477,Unsafe_water_source,32.1808841
-Africa,2019,72280,18380477,Secondhand_smoke,4.999870243
-Africa,2019,72280,18380477,Household_air_pollution_from_solid_fuels,47.99657811
-Africa,2019,72280,18380477,Air_pollution,64.34000597
-Africa,2019,81732,15354608,Outdoor_air_pollution,17.45404376
-Africa,2019,81732,15354608,Unsafe_water_source,25.49071914
-Africa,2019,81732,15354608,Secondhand_smoke,10.71990897
-Africa,2019,81732,15354608,Household_air_pollution_from_solid_fuels,65.25077032
-Africa,2019,81732,15354608,Air_pollution,82.49640759
+Country,Code,Continent_region,Year,Environmental_factor,Death_rate
+Afghanistan,AFG,Asia,2019,Outdoor_air_pollution,24.23648775
+Afghanistan,AFG,Asia,2019,Unsafe_water_source,9.931294032
+Afghanistan,AFG,Asia,2019,Secondhand_smoke,16.04998785
+Afghanistan,AFG,Asia,2019,Household_air_pollution_from_solid_fuels,74.57869642
+Afghanistan,AFG,Asia,2019,Air_pollution,98.0500165
+Albania,ALB,Europe,2019,Outdoor_air_pollution,54.51632354
+Albania,ALB,Europe,2019,Unsafe_water_source,0.140144791
+Albania,ALB,Europe,2019,Secondhand_smoke,27.11801698
+Albania,ALB,Europe,2019,Household_air_pollution_from_solid_fuels,25.3662071
+Albania,ALB,Europe,2019,Air_pollution,79.74238585
+Algeria,DZA,Africa,2019,Outdoor_air_pollution,52.05200433
+Algeria,DZA,Africa,2019,Unsafe_water_source,0.648630402
+Algeria,DZA,Africa,2019,Secondhand_smoke,17.96027141
+Algeria,DZA,Africa,2019,Household_air_pollution_from_solid_fuels,0.154547316
+Algeria,DZA,Africa,2019,Air_pollution,51.89511539
+American Samoa,ASM,Oceania,2019,Outdoor_air_pollution,16.90581349
+American Samoa,ASM,Oceania,2019,Unsafe_water_source,4.226453372
+American Samoa,ASM,Oceania,2019,Secondhand_smoke,31.69840029
+American Samoa,ASM,Oceania,2019,Household_air_pollution_from_solid_fuels,12.67936011
+American Samoa,ASM,Oceania,2019,Air_pollution,29.5851736
+Andorra,AND,Europe,2019,Outdoor_air_pollution,18.33828904
+Andorra,AND,Europe,2019,Unsafe_water_source,0
+Andorra,AND,Europe,2019,Secondhand_smoke,10.47902231
+Andorra,AND,Europe,2019,Household_air_pollution_from_solid_fuels,0
+Andorra,AND,Europe,2019,Air_pollution,18.33828904
+Angola,AGO,Africa,2019,Outdoor_air_pollution,17.6580106
+Angola,AGO,Africa,2019,Unsafe_water_source,34.44131142
+Angola,AGO,Africa,2019,Secondhand_smoke,5.050444482
+Angola,AGO,Africa,2019,Household_air_pollution_from_solid_fuels,26.97073351
+Angola,AGO,Africa,2019,Air_pollution,44.45874751
+Antigua and Barbuda,ATG,North America,2019,Outdoor_air_pollution,32.56727857
+Antigua and Barbuda,ATG,North America,2019,Unsafe_water_source,1.085575952
+Antigua and Barbuda,ATG,North America,2019,Secondhand_smoke,8.684607619
+Antigua and Barbuda,ATG,North America,2019,Household_air_pollution_from_solid_fuels,0
+Antigua and Barbuda,ATG,North America,2019,Air_pollution,32.56727857
+Argentina,ARG,South America,2019,Outdoor_air_pollution,29.19531828
+Argentina,ARG,South America,2019,Unsafe_water_source,0.700954669
+Argentina,ARG,South America,2019,Secondhand_smoke,19.08821953
+Argentina,ARG,South America,2019,Household_air_pollution_from_solid_fuels,1.575479066
+Argentina,ARG,South America,2019,Air_pollution,30.6595347
+Armenia,ARM,Asia,2019,Outdoor_air_pollution,114.9754556
+Armenia,ARM,Asia,2019,Unsafe_water_source,0.106360273
+Armenia,ARM,Asia,2019,Secondhand_smoke,35.66614503
+Armenia,ARM,Asia,2019,Household_air_pollution_from_solid_fuels,2.76536711
+Armenia,ARM,Asia,2019,Air_pollution,116.5354063
+Australia,AUS,Oceania,2019,Outdoor_air_pollution,7.486123738
+Australia,AUS,Oceania,2019,Unsafe_water_source,0.157851845
+Australia,AUS,Oceania,2019,Secondhand_smoke,6.24304046
+Australia,AUS,Oceania,2019,Household_air_pollution_from_solid_fuels,0.05130185
+Australia,AUS,Oceania,2019,Air_pollution,7.525586699
+Austria,AUT,Europe,2019,Outdoor_air_pollution,30.04531572
+Austria,AUT,Europe,2019,Unsafe_water_source,0.033784088
+Austria,AUT,Europe,2019,Secondhand_smoke,13.58120343
+Austria,AUT,Europe,2019,Household_air_pollution_from_solid_fuels,0.101352264
+Austria,AUT,Europe,2019,Air_pollution,29.89891801
+Azerbaijan,AZE,Asia,2019,Outdoor_air_pollution,79.84610969
+Azerbaijan,AZE,Asia,2019,Unsafe_water_source,0.598546549
+Azerbaijan,AZE,Asia,2019,Secondhand_smoke,31.30398453
+Azerbaijan,AZE,Asia,2019,Household_air_pollution_from_solid_fuels,6.643866698
+Azerbaijan,AZE,Asia,2019,Air_pollution,86.22063044
+Bahrain,BHR,Asia,2019,Outdoor_air_pollution,43.03340677
+Bahrain,BHR,Asia,2019,Unsafe_water_source,0.401555895
+Bahrain,BHR,Asia,2019,Secondhand_smoke,9.905045416
+Bahrain,BHR,Asia,2019,Household_air_pollution_from_solid_fuels,0.133851965
+Bahrain,BHR,Asia,2019,Air_pollution,42.69877686
+Bangladesh,BGD,Asia,2019,Outdoor_air_pollution,50.69714556
+Bangladesh,BGD,Asia,2019,Unsafe_water_source,17.01222977
+Bangladesh,BGD,Asia,2019,Secondhand_smoke,14.90125844
+Bangladesh,BGD,Asia,2019,Household_air_pollution_from_solid_fuels,57.26870687
+Bangladesh,BGD,Asia,2019,Air_pollution,104.8326248
+Barbados,BRB,North America,2019,Outdoor_air_pollution,62.45984724
+Barbados,BRB,North America,2019,Unsafe_water_source,1.070740238
+Barbados,BRB,North America,2019,Secondhand_smoke,10.35048897
+Barbados,BRB,North America,2019,Household_air_pollution_from_solid_fuels,0
+Barbados,BRB,North America,2019,Air_pollution,62.45984724
+Belarus,BLR,Europe,2019,Outdoor_air_pollution,90.05539208
+Belarus,BLR,Europe,2019,Unsafe_water_source,0.042463936
+Belarus,BLR,Europe,2019,Secondhand_smoke,25.84992099
+Belarus,BLR,Europe,2019,Household_air_pollution_from_solid_fuels,1.019134462
+Belarus,BLR,Europe,2019,Air_pollution,90.97898269
+Belgium,BEL,Europe,2019,Outdoor_air_pollution,33.13610085
+Belgium,BEL,Europe,2019,Unsafe_water_source,0.2437118
+Belgium,BEL,Europe,2019,Secondhand_smoke,11.8374303
+Belgium,BEL,Europe,2019,Household_air_pollution_from_solid_fuels,0.052223957
+Belgium,BEL,Europe,2019,Air_pollution,32.962021
+Belize,BLZ,North America,2019,Outdoor_air_pollution,24.41563114
+Belize,BLZ,North America,2019,Unsafe_water_source,2.313059793
+Belize,BLZ,North America,2019,Secondhand_smoke,7.196186021
+Belize,BLZ,North America,2019,Household_air_pollution_from_solid_fuels,7.710199309
+Belize,BLZ,North America,2019,Air_pollution,31.86882381
+Benin,BEN,Africa,2019,Outdoor_air_pollution,19.68195779
+Benin,BEN,Africa,2019,Unsafe_water_source,35.86526248
+Benin,BEN,Africa,2019,Secondhand_smoke,5.337480078
+Benin,BEN,Africa,2019,Household_air_pollution_from_solid_fuels,80.4771577
+Benin,BEN,Africa,2019,Air_pollution,99.5732945
+Bermuda,BMU,North America,2019,Outdoor_air_pollution,14.0820829
+Bermuda,BMU,North America,2019,Unsafe_water_source,0
+Bermuda,BMU,North America,2019,Secondhand_smoke,12.51740702
+Bermuda,BMU,North America,2019,Household_air_pollution_from_solid_fuels,1.564675877
+Bermuda,BMU,North America,2019,Air_pollution,15.64675877
+Bhutan,BTN,Asia,2019,Outdoor_air_pollution,43.78084041
+Bhutan,BTN,Asia,2019,Unsafe_water_source,9.77250902
+Bhutan,BTN,Asia,2019,Secondhand_smoke,8.860408178
+Bhutan,BTN,Asia,2019,Household_air_pollution_from_solid_fuels,45.86564233
+Bhutan,BTN,Asia,2019,Air_pollution,85.99807938
+Bolivia,BOL,South America,2019,Outdoor_air_pollution,34.05699856
+Bolivia,BOL,South America,2019,Unsafe_water_source,3.727504953
+Bolivia,BOL,South America,2019,Secondhand_smoke,4.924721806
+Bolivia,BOL,South America,2019,Household_air_pollution_from_solid_fuels,19.32528764
+Bolivia,BOL,South America,2019,Air_pollution,53.11057741
+Bosnia and Herzegovina,BIH,Europe,2019,Outdoor_air_pollution,110.3933067
+Bosnia and Herzegovina,BIH,Europe,2019,Unsafe_water_source,0.089266825
+Bosnia and Herzegovina,BIH,Europe,2019,Secondhand_smoke,38.97984682
+Bosnia and Herzegovina,BIH,Europe,2019,Household_air_pollution_from_solid_fuels,34.15943829
+Bosnia and Herzegovina,BIH,Europe,2019,Air_pollution,143.9278772
+Botswana,BWA,Africa,2019,Outdoor_air_pollution,38.64460644
+Botswana,BWA,Africa,2019,Unsafe_water_source,15.92189789
+Botswana,BWA,Africa,2019,Secondhand_smoke,17.08203618
+Botswana,BWA,Africa,2019,Household_air_pollution_from_solid_fuels,25.44303281
+Botswana,BWA,Africa,2019,Air_pollution,63.84761064
+Brazil,BRA,South America,2019,Outdoor_air_pollution,22.31389074
+Brazil,BRA,South America,2019,Unsafe_water_source,2.034630958
+Brazil,BRA,South America,2019,Secondhand_smoke,13.12098516
+Brazil,BRA,South America,2019,Household_air_pollution_from_solid_fuels,6.618098749
+Brazil,BRA,South America,2019,Air_pollution,28.76294844
+Bulgaria,BGR,Europe,2019,Outdoor_air_pollution,132.2579716
+Bulgaria,BGR,Europe,2019,Unsafe_water_source,0.129018182
+Bulgaria,BGR,Europe,2019,Secondhand_smoke,43.33577369
+Bulgaria,BGR,Europe,2019,Household_air_pollution_from_solid_fuels,25.97566058
+Bulgaria,BGR,Europe,2019,Air_pollution,157.8752483
+Burkina Faso,BFA,Africa,2019,Outdoor_air_pollution,16.70036411
+Burkina Faso,BFA,Africa,2019,Unsafe_water_source,61.79946113
+Burkina Faso,BFA,Africa,2019,Secondhand_smoke,7.923007837
+Burkina Faso,BFA,Africa,2019,Household_air_pollution_from_solid_fuels,115.9956985
+Burkina Faso,BFA,Africa,2019,Air_pollution,132.2903664
+Burundi,BDI,Africa,2019,Outdoor_air_pollution,9.195914925
+Burundi,BDI,Africa,2019,Unsafe_water_source,68.18619336
+Burundi,BDI,Africa,2019,Secondhand_smoke,3.18320132
+Burundi,BDI,Africa,2019,Household_air_pollution_from_solid_fuels,84.24535981
+Burundi,BDI,Africa,2019,Air_pollution,92.750739
+Cambodia,KHM,Asia,2019,Outdoor_air_pollution,22.60030482
+Cambodia,KHM,Asia,2019,Unsafe_water_source,8.22446255
+Cambodia,KHM,Asia,2019,Secondhand_smoke,20.81720678
+Cambodia,KHM,Asia,2019,Household_air_pollution_from_solid_fuels,86.58822763
+Cambodia,KHM,Asia,2019,Air_pollution,108.7257907
+Cameroon,CMR,Africa,2019,Outdoor_air_pollution,40.65573409
+Cameroon,CMR,Africa,2019,Unsafe_water_source,58.68357726
+Cameroon,CMR,Africa,2019,Secondhand_smoke,5.28268554
+Cameroon,CMR,Africa,2019,Household_air_pollution_from_solid_fuels,46.80723135
+Cameroon,CMR,Africa,2019,Air_pollution,87.00916647
+Canada,CAN,North America,2019,Outdoor_air_pollution,11.68312845
+Canada,CAN,North America,2019,Unsafe_water_source,0.156909761
+Canada,CAN,North America,2019,Secondhand_smoke,8.624717862
+Canada,CAN,North America,2019,Household_air_pollution_from_solid_fuels,0.0212759
+Canada,CAN,North America,2019,Air_pollution,11.6512146
+Central African Republic,CAF,Africa,2019,Outdoor_air_pollution,19.71465012
+Central African Republic,CAF,Africa,2019,Unsafe_water_source,141.4003045
+Central African Republic,CAF,Africa,2019,Secondhand_smoke,7.524968691
+Central African Republic,CAF,Africa,2019,Household_air_pollution_from_solid_fuels,133.6257833
+Central African Republic,CAF,Africa,2019,Air_pollution,152.0158854
+Chad,TCD,Africa,2019,Outdoor_air_pollution,16.95307693
+Chad,TCD,Africa,2019,Unsafe_water_source,164.055434
+Chad,TCD,Africa,2019,Secondhand_smoke,8.067283501
+Chad,TCD,Africa,2019,Household_air_pollution_from_solid_fuels,118.2250786
+Chad,TCD,Africa,2019,Air_pollution,134.6138797
+Chile,CHL,South America,2019,Outdoor_air_pollution,31.17206164
+Chile,CHL,South America,2019,Unsafe_water_source,0.582998962
+Chile,CHL,South America,2019,Secondhand_smoke,12.21146475
+Chile,CHL,South America,2019,Household_air_pollution_from_solid_fuels,1.733240159
+Chile,CHL,South America,2019,Air_pollution,32.7950047
+China,CHN,Asia,2019,Outdoor_air_pollution,107.7541742
+China,CHN,Asia,2019,Unsafe_water_source,0.232286387
+China,CHN,Asia,2019,Secondhand_smoke,29.55464235
+China,CHN,Asia,2019,Household_air_pollution_from_solid_fuels,25.78798007
+China,CHN,Asia,2019,Air_pollution,131.2932385
+Colombia,COL,South America,2019,Outdoor_air_pollution,26.51262749
+Colombia,COL,South America,2019,Unsafe_water_source,1.052056765
+Colombia,COL,South America,2019,Secondhand_smoke,7.08544291
+Colombia,COL,South America,2019,Household_air_pollution_from_solid_fuels,4.889672919
+Colombia,COL,South America,2019,Air_pollution,31.30466635
+Comoros,COM,Africa,2019,Outdoor_air_pollution,12.01032635
+Comoros,COM,Africa,2019,Unsafe_water_source,28.57193427
+Comoros,COM,Africa,2019,Secondhand_smoke,9.355412106
+Comoros,COM,Africa,2019,Household_air_pollution_from_solid_fuels,69.78631733
+Comoros,COM,Africa,2019,Air_pollution,81.67021919
+Costa Rica,CRI,North America,2019,Outdoor_air_pollution,19.0381337
+Costa Rica,CRI,North America,2019,Unsafe_water_source,1.081712142
+Costa Rica,CRI,North America,2019,Secondhand_smoke,6.332932903
+Costa Rica,CRI,North America,2019,Household_air_pollution_from_solid_fuels,2.045419323
+Costa Rica,CRI,North America,2019,Air_pollution,21.00488305
+Cote d'Ivoire,CIV,Africa,2019,Outdoor_air_pollution,26.26632223
+Cote d'Ivoire,CIV,Africa,2019,Unsafe_water_source,23.76513196
+Cote d'Ivoire,CIV,Africa,2019,Secondhand_smoke,8.995106272
+Cote d'Ivoire,CIV,Africa,2019,Household_air_pollution_from_solid_fuels,62.19320502
+Cote d'Ivoire,CIV,Africa,2019,Air_pollution,88.1650446
+Croatia,HRV,Europe,2019,Outdoor_air_pollution,79.7982315
+Croatia,HRV,Europe,2019,Unsafe_water_source,0.19678972
+Croatia,HRV,Europe,2019,Secondhand_smoke,36.89807252
+Croatia,HRV,Europe,2019,Household_air_pollution_from_solid_fuels,4.157182837
+Croatia,HRV,Europe,2019,Air_pollution,83.38964389
+Cuba,CUB,North America,2019,Outdoor_air_pollution,52.65670716
+Cuba,CUB,North America,2019,Unsafe_water_source,1.758463622
+Cuba,CUB,North America,2019,Secondhand_smoke,19.23706184
+Cuba,CUB,North America,2019,Household_air_pollution_from_solid_fuels,1.767300123
+Cuba,CUB,North America,2019,Air_pollution,54.29145978
+Cyprus,CYP,Asia,2019,Outdoor_air_pollution,37.59655479
+Cyprus,CYP,Asia,2019,Unsafe_water_source,0.081377824
+Cyprus,CYP,Asia,2019,Secondhand_smoke,13.02045187
+Cyprus,CYP,Asia,2019,Household_air_pollution_from_solid_fuels,0.081377824
+Cyprus,CYP,Asia,2019,Air_pollution,37.27104349
+Czechia,CZE,Europe,2019,Outdoor_air_pollution,61.48875502
+Czechia,CZE,Europe,2019,Unsafe_water_source,0.534114452
+Czechia,CZE,Europe,2019,Secondhand_smoke,22.39532528
+Czechia,CZE,Europe,2019,Household_air_pollution_from_solid_fuels,0.749634319
+Czechia,CZE,Europe,2019,Air_pollution,61.91042432
+Denmark,DNK,Europe,2019,Outdoor_air_pollution,25.36795575
+Denmark,DNK,Europe,2019,Unsafe_water_source,0.171986141
+Denmark,DNK,Europe,2019,Secondhand_smoke,12.3486049
+Denmark,DNK,Europe,2019,Household_air_pollution_from_solid_fuels,0.034397228
+Denmark,DNK,Europe,2019,Air_pollution,25.23036684
+Djibouti,DJI,Africa,2019,Outdoor_air_pollution,42.83077932
+Djibouti,DJI,Africa,2019,Unsafe_water_source,24.58114291
+Djibouti,DJI,Africa,2019,Secondhand_smoke,10.80080522
+Djibouti,DJI,Africa,2019,Household_air_pollution_from_solid_fuels,18.71518835
+Djibouti,DJI,Africa,2019,Air_pollution,61.2666365
+Dominica,DMA,North America,2019,Outdoor_air_pollution,46.2003696
+Dominica,DMA,North America,2019,Unsafe_water_source,1.4000112
+Dominica,DMA,North America,2019,Secondhand_smoke,11.2000896
+Dominica,DMA,North America,2019,Household_air_pollution_from_solid_fuels,5.6000448
+Dominica,DMA,North America,2019,Air_pollution,51.8004144
+Dominican Republic,DOM,North America,2019,Outdoor_air_pollution,35.2144969
+Dominican Republic,DOM,North America,2019,Unsafe_water_source,4.135314094
+Dominican Republic,DOM,North America,2019,Secondhand_smoke,9.180397288
+Dominican Republic,DOM,North America,2019,Household_air_pollution_from_solid_fuels,8.629022075
+Dominican Republic,DOM,North America,2019,Air_pollution,43.79757105
+Ecuador,ECU,South America,2019,Outdoor_air_pollution,24.76397824
+Ecuador,ECU,South America,2019,Unsafe_water_source,1.591352269
+Ecuador,ECU,South America,2019,Secondhand_smoke,4.174416821
+Ecuador,ECU,South America,2019,Household_air_pollution_from_solid_fuels,2.744506087
+Ecuador,ECU,South America,2019,Air_pollution,27.45659241
+El Salvador,SLV,North America,2019,Outdoor_air_pollution,31.35241983
+El Salvador,SLV,North America,2019,Unsafe_water_source,3.518986685
+El Salvador,SLV,North America,2019,Secondhand_smoke,5.955208236
+El Salvador,SLV,North America,2019,Household_air_pollution_from_solid_fuels,9.840424304
+El Salvador,SLV,North America,2019,Air_pollution,40.98584492
+Equatorial Guinea,GNQ,Africa,2019,Outdoor_air_pollution,25.94925665
+Equatorial Guinea,GNQ,Africa,2019,Unsafe_water_source,6.245850856
+Equatorial Guinea,GNQ,Africa,2019,Secondhand_smoke,3.026340105
+Equatorial Guinea,GNQ,Africa,2019,Household_air_pollution_from_solid_fuels,5.40877806
+Equatorial Guinea,GNQ,Africa,2019,Air_pollution,31.29364449
+Eritrea,ERI,Africa,2019,Outdoor_air_pollution,40.69945907
+Eritrea,ERI,Africa,2019,Unsafe_water_source,103.4920936
+Eritrea,ERI,Africa,2019,Secondhand_smoke,10.63216206
+Eritrea,ERI,Africa,2019,Household_air_pollution_from_solid_fuels,112.4951341
+Eritrea,ERI,Africa,2019,Air_pollution,152.5086472
+Estonia,EST,Europe,2019,Outdoor_air_pollution,12.5857451
+Estonia,EST,Europe,2019,Unsafe_water_source,0.075363743
+Estonia,EST,Europe,2019,Secondhand_smoke,15.37420359
+Estonia,EST,Europe,2019,Household_air_pollution_from_solid_fuels,3.014549724
+Estonia,EST,Europe,2019,Air_pollution,15.60029482
+Eswatini,SWZ,Africa,2019,Outdoor_air_pollution,30.26642146
+Eswatini,SWZ,Africa,2019,Unsafe_water_source,33.85735282
+Eswatini,SWZ,Africa,2019,Secondhand_smoke,7.438357816
+Eswatini,SWZ,Africa,2019,Household_air_pollution_from_solid_fuels,41.21021227
+Eswatini,SWZ,Africa,2019,Air_pollution,71.13464026
+Ethiopia,ETH,Africa,2019,Outdoor_air_pollution,8.462101065
+Ethiopia,ETH,Africa,2019,Unsafe_water_source,37.83190964
+Ethiopia,ETH,Africa,2019,Secondhand_smoke,1.566763664
+Ethiopia,ETH,Africa,2019,Household_air_pollution_from_solid_fuels,59.43449611
+Ethiopia,ETH,Africa,2019,Air_pollution,67.49000973
+Fiji,FJI,Oceania,2019,Outdoor_air_pollution,36.03839014
+Fiji,FJI,Oceania,2019,Unsafe_water_source,7.403657189
+Fiji,FJI,Oceania,2019,Secondhand_smoke,37.45379519
+Fiji,FJI,Oceania,2019,Household_air_pollution_from_solid_fuels,32.8809481
+Fiji,FJI,Oceania,2019,Air_pollution,69.02821556
+Finland,FIN,Europe,2019,Outdoor_air_pollution,7.515929242
+Finland,FIN,Europe,2019,Unsafe_water_source,0.018110673
+Finland,FIN,Europe,2019,Secondhand_smoke,7.280490495
+Finland,FIN,Europe,2019,Household_air_pollution_from_solid_fuels,0.036221346
+Finland,FIN,Europe,2019,Air_pollution,7.552150588
+France,FRA,Europe,2019,Outdoor_air_pollution,21.33614262
+France,FRA,Europe,2019,Unsafe_water_source,0.130587046
+France,FRA,Europe,2019,Secondhand_smoke,6.015907788
+France,FRA,Europe,2019,Household_air_pollution_from_solid_fuels,0.054905917
+France,FRA,Europe,2019,Air_pollution,21.27084909
+Gabon,GAB,Africa,2019,Outdoor_air_pollution,36.91838495
+Gabon,GAB,Africa,2019,Unsafe_water_source,8.560784917
+Gabon,GAB,Africa,2019,Secondhand_smoke,5.216728309
+Gabon,GAB,Africa,2019,Household_air_pollution_from_solid_fuels,3.07653208
+Gabon,GAB,Africa,2019,Air_pollution,39.90574219
+Georgia,GEO,Asia,2019,Outdoor_air_pollution,86.31346869
+Georgia,GEO,Asia,2019,Unsafe_water_source,0.188163899
+Georgia,GEO,Asia,2019,Secondhand_smoke,42.41751903
+Georgia,GEO,Asia,2019,Household_air_pollution_from_solid_fuels,42.84760794
+Georgia,GEO,Asia,2019,Air_pollution,128.6772266
+Germany,DEU,Europe,2019,Outdoor_air_pollution,35.38326146
+Germany,DEU,Europe,2019,Unsafe_water_source,0.127567964
+Germany,DEU,Europe,2019,Secondhand_smoke,9.702386106
+Germany,DEU,Europe,2019,Household_air_pollution_from_solid_fuels,0.036104141
+Germany,DEU,Europe,2019,Air_pollution,35.20394423
+Ghana,GHA,Africa,2019,Outdoor_air_pollution,40.82507965
+Ghana,GHA,Africa,2019,Unsafe_water_source,17.76203442
+Ghana,GHA,Africa,2019,Secondhand_smoke,3.908345491
+Ghana,GHA,Africa,2019,Household_air_pollution_from_solid_fuels,35.10214518
+Ghana,GHA,Africa,2019,Air_pollution,75.47674994
+Greece,GRC,Europe,2019,Outdoor_air_pollution,58.06978858
+Greece,GRC,Europe,2019,Unsafe_water_source,0.009326982
+Greece,GRC,Europe,2019,Secondhand_smoke,24.39938434
+Greece,GRC,Europe,2019,Household_air_pollution_from_solid_fuels,0.382406253
+Greece,GRC,Europe,2019,Air_pollution,58.00449971
+Greenland,GRL,North America,2019,Outdoor_air_pollution,12.44997777
+Greenland,GRL,North America,2019,Unsafe_water_source,0
+Greenland,GRL,North America,2019,Secondhand_smoke,21.34281903
+Greenland,GRL,North America,2019,Household_air_pollution_from_solid_fuels,0
+Greenland,GRL,North America,2019,Air_pollution,12.44997777
+Grenada,GRD,North America,2019,Outdoor_air_pollution,41.55666373
+Grenada,GRD,North America,2019,Unsafe_water_source,0.814836544
+Grenada,GRD,North America,2019,Secondhand_smoke,8.963201982
+Grenada,GRD,North America,2019,Household_air_pollution_from_solid_fuels,1.629673088
+Grenada,GRD,North America,2019,Air_pollution,44.00117336
+Guam,GUM,Oceania,2019,Outdoor_air_pollution,18.38409716
+Guam,GUM,Oceania,2019,Unsafe_water_source,2.372141569
+Guam,GUM,Oceania,2019,Secondhand_smoke,24.90748648
+Guam,GUM,Oceania,2019,Household_air_pollution_from_solid_fuels,2.965176962
+Guam,GUM,Oceania,2019,Air_pollution,21.34927412
+Guatemala,GTM,North America,2019,Outdoor_air_pollution,22.81976672
+Guatemala,GTM,North America,2019,Unsafe_water_source,12.20788259
+Guatemala,GTM,North America,2019,Secondhand_smoke,6.209337422
+Guatemala,GTM,North America,2019,Household_air_pollution_from_solid_fuels,31.89587875
+Guatemala,GTM,North America,2019,Air_pollution,54.59519276
+Guinea,GIN,Africa,2019,Outdoor_air_pollution,19.95722941
+Guinea,GIN,Africa,2019,Unsafe_water_source,43.19148247
+Guinea,GIN,Africa,2019,Secondhand_smoke,9.303019777
+Guinea,GIN,Africa,2019,Household_air_pollution_from_solid_fuels,106.790591
+Guinea,GIN,Africa,2019,Air_pollution,126.1265837
+Guinea-Bissau,GNB,Africa,2019,Outdoor_air_pollution,18.72662027
+Guinea-Bissau,GNB,Africa,2019,Unsafe_water_source,53.4393798
+Guinea-Bissau,GNB,Africa,2019,Secondhand_smoke,7.257199726
+Guinea-Bissau,GNB,Africa,2019,Household_air_pollution_from_solid_fuels,83.17867378
+Guinea-Bissau,GNB,Africa,2019,Air_pollution,101.3977976
+Guyana,GUY,South America,2019,Outdoor_air_pollution,51.4552058
+Guyana,GUY,South America,2019,Unsafe_water_source,6.134562249
+Guyana,GUY,South America,2019,Secondhand_smoke,14.64783231
+Guyana,GUY,South America,2019,Household_air_pollution_from_solid_fuels,6.885733137
+Guyana,GUY,South America,2019,Air_pollution,58.34093894
+Haiti,HTI,North America,2019,Outdoor_air_pollution,17.14090433
+Haiti,HTI,North America,2019,Unsafe_water_source,31.37869679
+Haiti,HTI,North America,2019,Secondhand_smoke,7.544506766
+Haiti,HTI,North America,2019,Household_air_pollution_from_solid_fuels,108.8756552
+Haiti,HTI,North America,2019,Air_pollution,125.6043894
+Honduras,HND,North America,2019,Outdoor_air_pollution,18.89780415
+Honduras,HND,North America,2019,Unsafe_water_source,7.822204799
+Honduras,HND,North America,2019,Secondhand_smoke,8.203775765
+Honduras,HND,North America,2019,Household_air_pollution_from_solid_fuels,38.91019717
+Honduras,HND,North America,2019,Air_pollution,57.4364717
+Hungary,HUN,Europe,2019,Outdoor_air_pollution,74.93495386
+Hungary,HUN,Europe,2019,Unsafe_water_source,0.60381894
+Hungary,HUN,Europe,2019,Secondhand_smoke,36.84318955
+Hungary,HUN,Europe,2019,Household_air_pollution_from_solid_fuels,13.78549342
+Hungary,HUN,Europe,2019,Air_pollution,88.18826788
+Iceland,ISL,Europe,2019,Outdoor_air_pollution,5.269536808
+Iceland,ISL,Europe,2019,Unsafe_water_source,0
+Iceland,ISL,Europe,2019,Secondhand_smoke,8.320321275
+Iceland,ISL,Europe,2019,Household_air_pollution_from_solid_fuels,0
+Iceland,ISL,Europe,2019,Air_pollution,5.269536808
+India,IND,Asia,2019,Outdoor_air_pollution,82.97729746
+India,IND,Asia,2019,Unsafe_water_source,36.74973405
+India,IND,Asia,2019,Secondhand_smoke,17.35925878
+India,IND,Asia,2019,Household_air_pollution_from_solid_fuels,43.87858525
+India,IND,Asia,2019,Air_pollution,120.5492353
+Indonesia,IDN,Asia,2019,Outdoor_air_pollution,40.85088816
+Indonesia,IDN,Asia,2019,Unsafe_water_source,16.979565
+Indonesia,IDN,Asia,2019,Secondhand_smoke,19.49493246
+Indonesia,IDN,Asia,2019,Household_air_pollution_from_solid_fuels,28.51330937
+Indonesia,IDN,Asia,2019,Air_pollution,69.09452165
+Iraq,IRQ,Asia,2019,Outdoor_air_pollution,61.68149377
+Iraq,IRQ,Asia,2019,Unsafe_water_source,0.919075189
+Iraq,IRQ,Asia,2019,Secondhand_smoke,15.96351801
+Iraq,IRQ,Asia,2019,Household_air_pollution_from_solid_fuels,0.153981183
+Iraq,IRQ,Asia,2019,Air_pollution,61.65502826
+Ireland,IRL,Europe,2019,Outdoor_air_pollution,11.16664032
+Ireland,IRL,Europe,2019,Unsafe_water_source,0.020266135
+Ireland,IRL,Europe,2019,Secondhand_smoke,8.815768674
+Ireland,IRL,Europe,2019,Household_air_pollution_from_solid_fuels,0.04053227
+Ireland,IRL,Europe,2019,Air_pollution,11.18690646
+Israel,ISR,Asia,2019,Outdoor_air_pollution,27.38016346
+Israel,ISR,Asia,2019,Unsafe_water_source,0.143582947
+Israel,ISR,Asia,2019,Secondhand_smoke,5.986304396
+Israel,ISR,Asia,2019,Household_air_pollution_from_solid_fuels,0.044179368
+Israel,ISR,Asia,2019,Air_pollution,27.1261321
+Italy,ITA,Europe,2019,Outdoor_air_pollution,47.13449383
+Italy,ITA,Europe,2019,Unsafe_water_source,0.078688637
+Italy,ITA,Europe,2019,Secondhand_smoke,14.01997128
+Italy,ITA,Europe,2019,Household_air_pollution_from_solid_fuels,0.202581386
+Italy,ITA,Europe,2019,Air_pollution,46.71426302
+Jamaica,JAM,North America,2019,Outdoor_air_pollution,34.2600487
+Jamaica,JAM,North America,2019,Unsafe_water_source,1.137263027
+Jamaica,JAM,North America,2019,Secondhand_smoke,12.08341966
+Jamaica,JAM,North America,2019,Household_air_pollution_from_solid_fuels,7.072354451
+Jamaica,JAM,North America,2019,Air_pollution,41.22578474
+Japan,JPN,Asia,2019,Outdoor_air_pollution,33.75265531
+Japan,JPN,Asia,2019,Unsafe_water_source,0.428008497
+Japan,JPN,Asia,2019,Secondhand_smoke,13.26352531
+Japan,JPN,Asia,2019,Household_air_pollution_from_solid_fuels,0.07501994
+Japan,JPN,Asia,2019,Air_pollution,33.61288132
+Jordan,JOR,Asia,2019,Outdoor_air_pollution,29.39614156
+Jordan,JOR,Asia,2019,Unsafe_water_source,0.271061401
+Jordan,JOR,Asia,2019,Secondhand_smoke,9.477802081
+Jordan,JOR,Asia,2019,Household_air_pollution_from_solid_fuels,0.01869389
+Jordan,JOR,Asia,2019,Air_pollution,29.26528433
+Kazakhstan,KAZ,Asia,2019,Outdoor_air_pollution,57.81672821
+Kazakhstan,KAZ,Asia,2019,Unsafe_water_source,0.156640986
+Kazakhstan,KAZ,Asia,2019,Secondhand_smoke,19.20742578
+Kazakhstan,KAZ,Asia,2019,Household_air_pollution_from_solid_fuels,7.691612572
+Kazakhstan,KAZ,Asia,2019,Air_pollution,65.027615
+Kenya,KEN,Africa,2019,Outdoor_air_pollution,11.26170109
+Kenya,KEN,Africa,2019,Unsafe_water_source,30.23466457
+Kenya,KEN,Africa,2019,Secondhand_smoke,3.595579714
+Kenya,KEN,Africa,2019,Household_air_pollution_from_solid_fuels,43.39228815
+Kenya,KEN,Africa,2019,Air_pollution,54.44202275
+Kiribati,KIR,Oceania,2019,Outdoor_air_pollution,16.09774551
+Kiribati,KIR,Oceania,2019,Unsafe_water_source,27.36616737
+Kiribati,KIR,Oceania,2019,Secondhand_smoke,41.85413833
+Kiribati,KIR,Oceania,2019,Household_air_pollution_from_solid_fuels,107.0500076
+Kiribati,KIR,Oceania,2019,Air_pollution,122.3428659
+Kuwait,KWT,Asia,2019,Outdoor_air_pollution,34.92378014
+Kuwait,KWT,Asia,2019,Unsafe_water_source,0.045033888
+Kuwait,KWT,Asia,2019,Secondhand_smoke,8.038549008
+Kuwait,KWT,Asia,2019,Household_air_pollution_from_solid_fuels,0.022516944
+Kuwait,KWT,Asia,2019,Air_pollution,34.74364459
+Latvia,LVA,Europe,2019,Outdoor_air_pollution,59.09640499
+Latvia,LVA,Europe,2019,Unsafe_water_source,0.052251463
+Latvia,LVA,Europe,2019,Secondhand_smoke,25.9167258
+Latvia,LVA,Europe,2019,Household_air_pollution_from_solid_fuels,5.434152183
+Latvia,LVA,Europe,2019,Air_pollution,64.47830571
+Lebanon,LBN,Asia,2019,Outdoor_air_pollution,58.61387947
+Lebanon,LBN,Asia,2019,Unsafe_water_source,0.691813272
+Lebanon,LBN,Asia,2019,Secondhand_smoke,23.38328859
+Lebanon,LBN,Asia,2019,Household_air_pollution_from_solid_fuels,0.172953318
+Lebanon,LBN,Asia,2019,Air_pollution,58.49281215
+Lesotho,LSO,Africa,2019,Outdoor_air_pollution,39.71780589
+Lesotho,LSO,Africa,2019,Unsafe_water_source,54.72430721
+Lesotho,LSO,Africa,2019,Secondhand_smoke,21.65608873
+Lesotho,LSO,Africa,2019,Household_air_pollution_from_solid_fuels,73.37010975
+Lesotho,LSO,Africa,2019,Air_pollution,112.279182
+Liberia,LBR,Africa,2019,Outdoor_air_pollution,13.47965986
+Liberia,LBR,Africa,2019,Unsafe_water_source,41.32157634
+Liberia,LBR,Africa,2019,Secondhand_smoke,3.470210052
+Liberia,LBR,Africa,2019,Household_air_pollution_from_solid_fuels,54.44017388
+Liberia,LBR,Africa,2019,Air_pollution,67.71924356
+Libya,LBY,Africa,2019,Outdoor_air_pollution,52.67093393
+Libya,LBY,Africa,2019,Unsafe_water_source,0.563244091
+Libya,LBY,Africa,2019,Secondhand_smoke,17.67368621
+Libya,LBY,Africa,2019,Household_air_pollution_from_solid_fuels,0.121782506
+Libya,LBY,Africa,2019,Air_pollution,52.44259173
+Lithuania,LTU,Europe,2019,Outdoor_air_pollution,45.81020902
+Lithuania,LTU,Europe,2019,Unsafe_water_source,0.178946129
+Lithuania,LTU,Europe,2019,Secondhand_smoke,20.61459406
+Lithuania,LTU,Europe,2019,Household_air_pollution_from_solid_fuels,2.183142774
+Lithuania,LTU,Europe,2019,Air_pollution,47.95756257
+Luxembourg,LUX,Europe,2019,Outdoor_air_pollution,16.61287643
+Luxembourg,LUX,Europe,2019,Unsafe_water_source,0
+Luxembourg,LUX,Europe,2019,Secondhand_smoke,8.064503122
+Luxembourg,LUX,Europe,2019,Household_air_pollution_from_solid_fuels,0
+Luxembourg,LUX,Europe,2019,Air_pollution,16.45158637
+Madagascar,MDG,Africa,2019,Outdoor_air_pollution,8.517010813
+Madagascar,MDG,Africa,2019,Unsafe_water_source,56.93866888
+Madagascar,MDG,Africa,2019,Secondhand_smoke,5.291805866
+Madagascar,MDG,Africa,2019,Household_air_pollution_from_solid_fuels,77.93882091
+Madagascar,MDG,Africa,2019,Air_pollution,86.25244042
+Malawi,MWI,Africa,2019,Outdoor_air_pollution,7.308927593
+Malawi,MWI,Africa,2019,Unsafe_water_source,34.30266815
+Malawi,MWI,Africa,2019,Secondhand_smoke,3.688914869
+Malawi,MWI,Africa,2019,Household_air_pollution_from_solid_fuels,65.61074305
+Malawi,MWI,Africa,2019,Air_pollution,72.70236388
+Malaysia,MYS,Asia,2019,Outdoor_air_pollution,33.19105402
+Malaysia,MYS,Asia,2019,Unsafe_water_source,2.213143389
+Malaysia,MYS,Asia,2019,Secondhand_smoke,18.18069859
+Malaysia,MYS,Asia,2019,Household_air_pollution_from_solid_fuels,0.338373163
+Malaysia,MYS,Asia,2019,Air_pollution,33.41053932
+Maldives,MDV,Asia,2019,Outdoor_air_pollution,11.69456183
+Maldives,MDV,Asia,2019,Unsafe_water_source,1.783916211
+Maldives,MDV,Asia,2019,Secondhand_smoke,9.11779397
+Maldives,MDV,Asia,2019,Household_air_pollution_from_solid_fuels,4.558896985
+Maldives,MDV,Asia,2019,Air_pollution,16.0552459
+Mali,MLI,Africa,2019,Outdoor_air_pollution,16.64768519
+Mali,MLI,Africa,2019,Unsafe_water_source,57.76610625
+Mali,MLI,Africa,2019,Secondhand_smoke,6.004641126
+Mali,MLI,Africa,2019,Household_air_pollution_from_solid_fuels,109.7852604
+Mali,MLI,Africa,2019,Air_pollution,125.791154
+Malta,MLT,Europe,2019,Outdoor_air_pollution,32.33729184
+Malta,MLT,Europe,2019,Unsafe_water_source,0
+Malta,MLT,Europe,2019,Secondhand_smoke,10.71296785
+Malta,MLT,Europe,2019,Household_air_pollution_from_solid_fuels,0
+Malta,MLT,Europe,2019,Air_pollution,32.13890355
+Marshall Islands,MHL,Oceania,2019,Outdoor_air_pollution,26.82883205
+Marshall Islands,MHL,Oceania,2019,Unsafe_water_source,8.942944017
+Marshall Islands,MHL,Oceania,2019,Secondhand_smoke,35.77177607
+Marshall Islands,MHL,Oceania,2019,Household_air_pollution_from_solid_fuels,53.6576641
+Marshall Islands,MHL,Oceania,2019,Air_pollution,80.48649615
+Mauritania,MRT,Africa,2019,Outdoor_air_pollution,32.57411466
+Mauritania,MRT,Africa,2019,Unsafe_water_source,29.17527497
+Mauritania,MRT,Africa,2019,Secondhand_smoke,4.813121985
+Mauritania,MRT,Africa,2019,Household_air_pollution_from_solid_fuels,27.55569364
+Mauritania,MRT,Africa,2019,Air_pollution,59.94732027
+Mauritius,MUS,Africa,2019,Outdoor_air_pollution,47.86786573
+Mauritius,MUS,Africa,2019,Unsafe_water_source,0.473939265
+Mauritius,MUS,Africa,2019,Secondhand_smoke,31.04302184
+Mauritius,MUS,Africa,2019,Household_air_pollution_from_solid_fuels,1.105858284
+Mauritius,MUS,Africa,2019,Air_pollution,49.05271389
+Mexico,MEX,North America,2019,Outdoor_air_pollution,31.06200056
+Mexico,MEX,North America,2019,Unsafe_water_source,1.91389379
+Mexico,MEX,North America,2019,Secondhand_smoke,8.360693927
+Mexico,MEX,North America,2019,Household_air_pollution_from_solid_fuels,7.87782348
+Mexico,MEX,North America,2019,Air_pollution,38.63922919
+Moldova,MDA,Europe,2019,Outdoor_air_pollution,80.36111078
+Moldova,MDA,Europe,2019,Unsafe_water_source,0.187671907
+Moldova,MDA,Europe,2019,Secondhand_smoke,27.43763287
+Moldova,MDA,Europe,2019,Household_air_pollution_from_solid_fuels,10.58469558
+Moldova,MDA,Europe,2019,Air_pollution,90.79566883
+Monaco,MCO,Europe,2019,Outdoor_air_pollution,45.90376411
+Monaco,MCO,Europe,2019,Unsafe_water_source,0
+Monaco,MCO,Europe,2019,Secondhand_smoke,18.90154993
+Monaco,MCO,Europe,2019,Household_air_pollution_from_solid_fuels,0
+Monaco,MCO,Europe,2019,Air_pollution,43.20354269
+Mongolia,MNG,Asia,2019,Outdoor_air_pollution,70.10205944
+Mongolia,MNG,Asia,2019,Unsafe_water_source,1.113713213
+Mongolia,MNG,Asia,2019,Secondhand_smoke,16.45820636
+Mongolia,MNG,Asia,2019,Household_air_pollution_from_solid_fuels,31.21490643
+Mongolia,MNG,Asia,2019,Air_pollution,101.1004105
+Montenegro,MNE,Europe,2019,Outdoor_air_pollution,91.79651077
+Montenegro,MNE,Europe,2019,Unsafe_water_source,0
+Montenegro,MNE,Europe,2019,Secondhand_smoke,39.22653
+Montenegro,MNE,Europe,2019,Household_air_pollution_from_solid_fuels,27.00843049
+Montenegro,MNE,Europe,2019,Air_pollution,118.6441768
+Morocco,MAR,Africa,2019,Outdoor_air_pollution,76.37640035
+Morocco,MAR,Africa,2019,Unsafe_water_source,2.641552508
+Morocco,MAR,Africa,2019,Secondhand_smoke,18.22368237
+Morocco,MAR,Africa,2019,Household_air_pollution_from_solid_fuels,4.624782754
+Morocco,MAR,Africa,2019,Air_pollution,80.56597425
+Mozambique,MOZ,Africa,2019,Outdoor_air_pollution,6.458516004
+Mozambique,MOZ,Africa,2019,Unsafe_water_source,25.21991065
+Mozambique,MOZ,Africa,2019,Secondhand_smoke,4.40143243
+Mozambique,MOZ,Africa,2019,Household_air_pollution_from_solid_fuels,82.60362724
+Mozambique,MOZ,Africa,2019,Air_pollution,88.89044445
+Myanmar,MMR,Asia,2019,Outdoor_air_pollution,49.29844549
+Myanmar,MMR,Asia,2019,Unsafe_water_source,10.44679082
+Myanmar,MMR,Asia,2019,Secondhand_smoke,20.52593606
+Myanmar,MMR,Asia,2019,Household_air_pollution_from_solid_fuels,92.80317356
+Myanmar,MMR,Asia,2019,Air_pollution,140.5424247
+Namibia,NAM,Africa,2019,Outdoor_air_pollution,33.80140306
+Namibia,NAM,Africa,2019,Unsafe_water_source,22.52064461
+Namibia,NAM,Africa,2019,Secondhand_smoke,9.318887423
+Namibia,NAM,Africa,2019,Household_air_pollution_from_solid_fuels,31.67604278
+Namibia,NAM,Africa,2019,Air_pollution,65.02785039
+Nauru,NRU,Oceania,2019,Outdoor_air_pollution,8.242664029
+Nauru,NRU,Oceania,2019,Unsafe_water_source,0
+Nauru,NRU,Oceania,2019,Secondhand_smoke,24.72799209
+Nauru,NRU,Oceania,2019,Household_air_pollution_from_solid_fuels,0
+Nauru,NRU,Oceania,2019,Air_pollution,16.48532806
+Nepal,NPL,Asia,2019,Outdoor_air_pollution,83.1492355
+Nepal,NPL,Asia,2019,Unsafe_water_source,16.31839297
+Nepal,NPL,Asia,2019,Secondhand_smoke,15.3854179
+Nepal,NPL,Asia,2019,Household_air_pollution_from_solid_fuels,74.9258753
+Nepal,NPL,Asia,2019,Air_pollution,146.0678257
+Netherlands,NLD,Europe,2019,Outdoor_air_pollution,28.81542985
+Netherlands,NLD,Europe,2019,Unsafe_water_source,0.057653921
+Netherlands,NLD,Europe,2019,Secondhand_smoke,10.37194044
+Netherlands,NLD,Europe,2019,Household_air_pollution_from_solid_fuels,0.034592353
+Netherlands,NLD,Europe,2019,Air_pollution,28.65399887
+New Zealand,NZL,Oceania,2019,Outdoor_air_pollution,6.687821337
+New Zealand,NZL,Oceania,2019,Unsafe_water_source,0.261086118
+New Zealand,NZL,Oceania,2019,Secondhand_smoke,6.968991003
+New Zealand,NZL,Oceania,2019,Household_air_pollution_from_solid_fuels,0.060250643
+New Zealand,NZL,Oceania,2019,Air_pollution,6.707904884
+Nicaragua,NIC,North America,2019,Outdoor_air_pollution,15.51638344
+Nicaragua,NIC,North America,2019,Unsafe_water_source,2.040839601
+Nicaragua,NIC,North America,2019,Secondhand_smoke,7.262987993
+Nicaragua,NIC,North America,2019,Household_air_pollution_from_solid_fuels,26.03571109
+Nicaragua,NIC,North America,2019,Air_pollution,41.41703897
+Niger,NER,Africa,2019,Outdoor_air_pollution,13.3427785
+Niger,NER,Africa,2019,Unsafe_water_source,105.428425
+Niger,NER,Africa,2019,Secondhand_smoke,6.095534038
+Niger,NER,Africa,2019,Household_air_pollution_from_solid_fuels,113.0681041
+Niger,NER,Africa,2019,Air_pollution,125.8563553
+Nigeria,NGA,Africa,2019,Outdoor_air_pollution,34.52014233
+Nigeria,NGA,Africa,2019,Unsafe_water_source,77.36769535
+Nigeria,NGA,Africa,2019,Secondhand_smoke,4.87790501
+Nigeria,NGA,Africa,2019,Household_air_pollution_from_solid_fuels,63.08714517
+Nigeria,NGA,Africa,2019,Air_pollution,97.17788233
+North Macedonia,MKD,Europe,2019,Outdoor_air_pollution,133.4332357
+North Macedonia,MKD,Europe,2019,Unsafe_water_source,0.096306919
+North Macedonia,MKD,Europe,2019,Secondhand_smoke,42.85657877
+North Macedonia,MKD,Europe,2019,Household_air_pollution_from_solid_fuels,25.76210072
+North Macedonia,MKD,Europe,2019,Air_pollution,158.9545691
+Northern Mariana Islands,MNP,Oceania,2019,Outdoor_air_pollution,22.06265795
+Northern Mariana Islands,MNP,Oceania,2019,Unsafe_water_source,2.005696177
+Northern Mariana Islands,MNP,Oceania,2019,Secondhand_smoke,24.06835413
+Northern Mariana Islands,MNP,Oceania,2019,Household_air_pollution_from_solid_fuels,10.02848089
+Northern Mariana Islands,MNP,Oceania,2019,Air_pollution,34.09683501
+Norway,NOR,Europe,2019,Outdoor_air_pollution,8.489319912
+Norway,NOR,Europe,2019,Unsafe_water_source,0.14959154
+Norway,NOR,Europe,2019,Secondhand_smoke,8.059244234
+Norway,NOR,Europe,2019,Household_air_pollution_from_solid_fuels,0.018698943
+Norway,NOR,Europe,2019,Air_pollution,8.489319912
+Oman,OMN,Asia,2019,Outdoor_air_pollution,34.24026586
+Oman,OMN,Asia,2019,Unsafe_water_source,0.456247197
+Oman,OMN,Asia,2019,Secondhand_smoke,6.62644739
+Oman,OMN,Asia,2019,Household_air_pollution_from_solid_fuels,0.130356342
+Oman,OMN,Asia,2019,Air_pollution,34.24026586
+Pakistan,PAK,Asia,2019,Outdoor_air_pollution,55.94122671
+Pakistan,PAK,Asia,2019,Unsafe_water_source,29.31346613
+Pakistan,PAK,Asia,2019,Secondhand_smoke,13.84681169
+Pakistan,PAK,Asia,2019,Household_air_pollution_from_solid_fuels,51.98992106
+Pakistan,PAK,Asia,2019,Air_pollution,105.5369871
+Palau,PLW,Oceania,2019,Outdoor_air_pollution,27.90801518
+Palau,PLW,Oceania,2019,Unsafe_water_source,5.581603036
+Palau,PLW,Oceania,2019,Secondhand_smoke,61.3976334
+Palau,PLW,Oceania,2019,Household_air_pollution_from_solid_fuels,0
+Palau,PLW,Oceania,2019,Air_pollution,27.90801518
+Panama,PAN,North America,2019,Outdoor_air_pollution,15.87702113
+Panama,PAN,North America,2019,Unsafe_water_source,2.622543669
+Panama,PAN,North America,2019,Secondhand_smoke,4.678050869
+Panama,PAN,North America,2019,Household_air_pollution_from_solid_fuels,3.638484009
+Panama,PAN,North America,2019,Air_pollution,19.44462558
+Papua New Guinea,PNG,Oceania,2019,Outdoor_air_pollution,12.39718874
+Papua New Guinea,PNG,Oceania,2019,Unsafe_water_source,27.45615765
+Papua New Guinea,PNG,Oceania,2019,Secondhand_smoke,27.04745912
+Papua New Guinea,PNG,Oceania,2019,Household_air_pollution_from_solid_fuels,117.0449713
+Papua New Guinea,PNG,Oceania,2019,Air_pollution,129.4316806
+Paraguay,PRY,South America,2019,Outdoor_air_pollution,16.8299483
+Paraguay,PRY,South America,2019,Unsafe_water_source,1.715153967
+Paraguay,PRY,South America,2019,Secondhand_smoke,10.55125967
+Paraguay,PRY,South America,2019,Household_air_pollution_from_solid_fuels,18.2847664
+Paraguay,PRY,South America,2019,Air_pollution,34.97688983
+Peru,PER,South America,2019,Outdoor_air_pollution,27.40910312
+Peru,PER,South America,2019,Unsafe_water_source,2.230017059
+Peru,PER,South America,2019,Secondhand_smoke,3.6313939
+Peru,PER,South America,2019,Household_air_pollution_from_solid_fuels,7.430343726
+Peru,PER,South America,2019,Air_pollution,34.77242447
+Philippines,PHL,Asia,2019,Outdoor_air_pollution,29.11556977
+Philippines,PHL,Asia,2019,Unsafe_water_source,6.028222081
+Philippines,PHL,Asia,2019,Secondhand_smoke,19.63113079
+Philippines,PHL,Asia,2019,Household_air_pollution_from_solid_fuels,38.66161366
+Philippines,PHL,Asia,2019,Air_pollution,67.75000479
+Poland,POL,Europe,2019,Outdoor_air_pollution,74.87328948
+Poland,POL,Europe,2019,Unsafe_water_source,0.200181876
+Poland,POL,Europe,2019,Secondhand_smoke,20.47649871
+Poland,POL,Europe,2019,Household_air_pollution_from_solid_fuels,7.396193515
+Poland,POL,Europe,2019,Air_pollution,81.96657621
+Portugal,PRT,Europe,2019,Outdoor_air_pollution,23.2445933
+Portugal,PRT,Europe,2019,Unsafe_water_source,0.233320886
+Portugal,PRT,Europe,2019,Secondhand_smoke,17.21713707
+Portugal,PRT,Europe,2019,Household_air_pollution_from_solid_fuels,0.330537922
+Portugal,PRT,Europe,2019,Air_pollution,23.43902737
+Puerto Rico,PRI,North America,2019,Outdoor_air_pollution,13.58927937
+Puerto Rico,PRI,North America,2019,Unsafe_water_source,2.129195847
+Puerto Rico,PRI,North America,2019,Secondhand_smoke,12.77517508
+Puerto Rico,PRI,North America,2019,Household_air_pollution_from_solid_fuels,0.031311704
+Puerto Rico,PRI,North America,2019,Air_pollution,13.58927937
+Qatar,QAT,Asia,2019,Outdoor_air_pollution,19.52098773
+Qatar,QAT,Asia,2019,Unsafe_water_source,0.071244481
+Qatar,QAT,Asia,2019,Secondhand_smoke,4.167802126
+Qatar,QAT,Asia,2019,Household_air_pollution_from_solid_fuels,0
+Qatar,QAT,Asia,2019,Air_pollution,19.41412101
+Romania,ROU,Europe,2019,Outdoor_air_pollution,76.0028264
+Romania,ROU,Europe,2019,Unsafe_water_source,0.19616297
+Romania,ROU,Europe,2019,Secondhand_smoke,32.22751105
+Romania,ROU,Europe,2019,Household_air_pollution_from_solid_fuels,12.56475443
+Romania,ROU,Europe,2019,Air_pollution,88.46949934
+Rwanda,RWA,Africa,2019,Outdoor_air_pollution,14.80324001
+Rwanda,RWA,Africa,2019,Unsafe_water_source,23.8020517
+Rwanda,RWA,Africa,2019,Secondhand_smoke,4.324104318
+Rwanda,RWA,Africa,2019,Household_air_pollution_from_solid_fuels,58.18452441
+Rwanda,RWA,Africa,2019,Air_pollution,72.34888775
+Samoa,WSM,Oceania,2019,Outdoor_air_pollution,19.82020245
+Samoa,WSM,Oceania,2019,Unsafe_water_source,3.303367075
+Samoa,WSM,Oceania,2019,Secondhand_smoke,31.14603242
+Samoa,WSM,Oceania,2019,Household_air_pollution_from_solid_fuels,65.59543192
+Samoa,WSM,Oceania,2019,Air_pollution,85.41563436
+San Marino,SMR,Europe,2019,Outdoor_air_pollution,20.48101118
+San Marino,SMR,Europe,2019,Unsafe_water_source,0
+San Marino,SMR,Europe,2019,Secondhand_smoke,8.777576219
+San Marino,SMR,Europe,2019,Household_air_pollution_from_solid_fuels,0
+San Marino,SMR,Europe,2019,Air_pollution,20.48101118
+Sao Tome and Principe,STP,Africa,2019,Outdoor_air_pollution,25.62919678
+Sao Tome and Principe,STP,Africa,2019,Unsafe_water_source,4.193868564
+Sao Tome and Principe,STP,Africa,2019,Secondhand_smoke,2.795912376
+Sao Tome and Principe,STP,Africa,2019,Household_air_pollution_from_solid_fuels,40.54072945
+Sao Tome and Principe,STP,Africa,2019,Air_pollution,65.23795544
+Saudi Arabia,SAU,Asia,2019,Outdoor_air_pollution,50.53400248
+Saudi Arabia,SAU,Asia,2019,Unsafe_water_source,0.421465583
+Saudi Arabia,SAU,Asia,2019,Secondhand_smoke,11.26792422
+Saudi Arabia,SAU,Asia,2019,Household_air_pollution_from_solid_fuels,0.103273024
+Saudi Arabia,SAU,Asia,2019,Air_pollution,50.34141224
+Senegal,SEN,Africa,2019,Outdoor_air_pollution,21.66769235
+Senegal,SEN,Africa,2019,Unsafe_water_source,33.42336852
+Senegal,SEN,Africa,2019,Secondhand_smoke,9.455788439
+Senegal,SEN,Africa,2019,Household_air_pollution_from_solid_fuels,56.71598155
+Senegal,SEN,Africa,2019,Air_pollution,78.0149419
+Serbia,SRB,Europe,2019,Outdoor_air_pollution,154.3648271
+Serbia,SRB,Europe,2019,Unsafe_water_source,0.201577052
+Serbia,SRB,Europe,2019,Secondhand_smoke,50.1062959
+Serbia,SRB,Europe,2019,Household_air_pollution_from_solid_fuels,28.35037259
+Serbia,SRB,Europe,2019,Air_pollution,182.3984358
+Seychelles,SYC,Africa,2019,Outdoor_air_pollution,35.85147247
+Seychelles,SYC,Africa,2019,Unsafe_water_source,4.09731114
+Seychelles,SYC,Africa,2019,Secondhand_smoke,19.46222791
+Seychelles,SYC,Africa,2019,Household_air_pollution_from_solid_fuels,0
+Seychelles,SYC,Africa,2019,Air_pollution,36.87580026
+Sierra Leone,SLE,Africa,2019,Outdoor_air_pollution,19.77176597
+Sierra Leone,SLE,Africa,2019,Unsafe_water_source,40.38858542
+Sierra Leone,SLE,Africa,2019,Secondhand_smoke,10.33947787
+Sierra Leone,SLE,Africa,2019,Household_air_pollution_from_solid_fuels,97.09415934
+Sierra Leone,SLE,Africa,2019,Air_pollution,116.4558258
+Singapore,SGP,Asia,2019,Outdoor_air_pollution,24.16031085
+Singapore,SGP,Asia,2019,Unsafe_water_source,0.087664408
+Singapore,SGP,Asia,2019,Secondhand_smoke,5.189732955
+Singapore,SGP,Asia,2019,Household_air_pollution_from_solid_fuels,0.035065763
+Singapore,SGP,Asia,2019,Air_pollution,24.09017932
+Slovenia,SVN,Europe,2019,Outdoor_air_pollution,42.42512755
+Slovenia,SVN,Europe,2019,Unsafe_water_source,0.047883891
+Slovenia,SVN,Europe,2019,Secondhand_smoke,16.47205855
+Slovenia,SVN,Europe,2019,Household_air_pollution_from_solid_fuels,2.968801251
+Slovenia,SVN,Europe,2019,Air_pollution,45.01085767
+Solomon Islands,SLB,Oceania,2019,Outdoor_air_pollution,16.14831561
+Solomon Islands,SLB,Oceania,2019,Unsafe_water_source,27.11139227
+Solomon Islands,SLB,Oceania,2019,Secondhand_smoke,40.29671419
+Solomon Islands,SLB,Oceania,2019,Household_air_pollution_from_solid_fuels,179.4092679
+Solomon Islands,SLB,Oceania,2019,Air_pollution,195.5575836
+Somalia,SOM,Africa,2019,Outdoor_air_pollution,5.324973563
+Somalia,SOM,Africa,2019,Unsafe_water_source,90.41191893
+Somalia,SOM,Africa,2019,Secondhand_smoke,8.378542421
+Somalia,SOM,Africa,2019,Household_air_pollution_from_solid_fuels,172.4077516
+Somalia,SOM,Africa,2019,Air_pollution,177.2947132
+South Africa,ZAF,Africa,2019,Outdoor_air_pollution,43.69476125
+South Africa,ZAF,Africa,2019,Unsafe_water_source,16.36509202
+South Africa,ZAF,Africa,2019,Secondhand_smoke,12.5621793
+South Africa,ZAF,Africa,2019,Household_air_pollution_from_solid_fuels,7.901932711
+South Africa,ZAF,Africa,2019,Air_pollution,51.35395485
+South Sudan,SSD,Africa,2019,Outdoor_air_pollution,13.79255424
+South Sudan,SSD,Africa,2019,Unsafe_water_source,57.40038014
+South Sudan,SSD,Africa,2019,Secondhand_smoke,5.005902754
+South Sudan,SSD,Africa,2019,Household_air_pollution_from_solid_fuels,73.49009817
+South Sudan,SSD,Africa,2019,Air_pollution,86.98593542
+Spain,ESP,Europe,2019,Outdoor_air_pollution,24.97940112
+Spain,ESP,Europe,2019,Unsafe_water_source,0.110321799
+Spain,ESP,Europe,2019,Secondhand_smoke,12.00386033
+Spain,ESP,Europe,2019,Household_air_pollution_from_solid_fuels,0.377640003
+Spain,ESP,Europe,2019,Air_pollution,25.00273842
+Sri Lanka,LKA,Asia,2019,Outdoor_air_pollution,34.57322387
+Sri Lanka,LKA,Asia,2019,Unsafe_water_source,3.430720543
+Sri Lanka,LKA,Asia,2019,Secondhand_smoke,13.88341054
+Sri Lanka,LKA,Asia,2019,Household_air_pollution_from_solid_fuels,30.46828418
+Sri Lanka,LKA,Asia,2019,Air_pollution,64.73421089
+Sudan,SDN,Africa,2019,Outdoor_air_pollution,39.3365179
+Sudan,SDN,Africa,2019,Unsafe_water_source,12.67576844
+Sudan,SDN,Africa,2019,Secondhand_smoke,10.56622449
+Sudan,SDN,Africa,2019,Household_air_pollution_from_solid_fuels,26.16112063
+Sudan,SDN,Africa,2019,Air_pollution,65.14373477
+Suriname,SUR,South America,2019,Outdoor_air_pollution,43.47818844
+Suriname,SUR,South America,2019,Unsafe_water_source,4.830909827
+Suriname,SUR,South America,2019,Secondhand_smoke,15.82539426
+Suriname,SUR,South America,2019,Household_air_pollution_from_solid_fuels,7.829405582
+Suriname,SUR,South America,2019,Air_pollution,51.30759402
+Sweden,SWE,Europe,2019,Outdoor_air_pollution,7.364610585
+Sweden,SWE,Europe,2019,Unsafe_water_source,0.184844916
+Sweden,SWE,Europe,2019,Secondhand_smoke,7.189494349
+Sweden,SWE,Europe,2019,Household_air_pollution_from_solid_fuels,0.029186039
+Sweden,SWE,Europe,2019,Air_pollution,7.374339265
+Switzerland,CHE,Europe,2019,Outdoor_air_pollution,18.90317284
+Switzerland,CHE,Europe,2019,Unsafe_water_source,0.058307134
+Switzerland,CHE,Europe,2019,Secondhand_smoke,7.894785943
+Switzerland,CHE,Europe,2019,Household_air_pollution_from_solid_fuels,0.011661427
+Switzerland,CHE,Europe,2019,Air_pollution,18.75157429
+Tajikistan,TJK,Asia,2019,Outdoor_air_pollution,52.37226549
+Tajikistan,TJK,Asia,2019,Unsafe_water_source,5.890541108
+Tajikistan,TJK,Asia,2019,Secondhand_smoke,14.60854195
+Tajikistan,TJK,Asia,2019,Household_air_pollution_from_solid_fuels,27.92116485
+Tajikistan,TJK,Asia,2019,Air_pollution,79.8436072
+Tanzania,TZA,Africa,2019,Outdoor_air_pollution,10.73446327
+Tanzania,TZA,Africa,2019,Unsafe_water_source,22.05183111
+Tanzania,TZA,Africa,2019,Secondhand_smoke,6.039492637
+Tanzania,TZA,Africa,2019,Household_air_pollution_from_solid_fuels,65.41391845
+Tanzania,TZA,Africa,2019,Air_pollution,75.97969013
+Thailand,THA,Asia,2019,Outdoor_air_pollution,47.36090235
+Thailand,THA,Asia,2019,Unsafe_water_source,7.025883002
+Thailand,THA,Asia,2019,Secondhand_smoke,13.23137847
+Thailand,THA,Asia,2019,Household_air_pollution_from_solid_fuels,10.44767033
+Thailand,THA,Asia,2019,Air_pollution,57.32615676
+Togo,TGO,Africa,2019,Outdoor_air_pollution,20.61119284
+Togo,TGO,Africa,2019,Unsafe_water_source,61.11782784
+Togo,TGO,Africa,2019,Secondhand_smoke,6.211259995
+Togo,TGO,Africa,2019,Household_air_pollution_from_solid_fuels,61.38471792
+Togo,TGO,Africa,2019,Air_pollution,81.43786787
+Tonga,TON,Oceania,2019,Outdoor_air_pollution,20.00933769
+Tonga,TON,Oceania,2019,Unsafe_water_source,1.905651209
+Tonga,TON,Oceania,2019,Secondhand_smoke,24.77346571
+Tonga,TON,Oceania,2019,Household_air_pollution_from_solid_fuels,29.53759373
+Tonga,TON,Oceania,2019,Air_pollution,49.54693143
+Trinidad and Tobago,TTO,North America,2019,Outdoor_air_pollution,58.62015652
+Trinidad and Tobago,TTO,North America,2019,Unsafe_water_source,1.118454165
+Trinidad and Tobago,TTO,North America,2019,Secondhand_smoke,18.75055512
+Trinidad and Tobago,TTO,North America,2019,Household_air_pollution_from_solid_fuels,0.065791421
+Trinidad and Tobago,TTO,North America,2019,Air_pollution,58.68594794
+Tunisia,TUN,Africa,2019,Outdoor_air_pollution,62.6840665
+Tunisia,TUN,Africa,2019,Unsafe_water_source,0.630741302
+Tunisia,TUN,Africa,2019,Secondhand_smoke,19.95964252
+Tunisia,TUN,Africa,2019,Household_air_pollution_from_solid_fuels,0.174283781
+Tunisia,TUN,Africa,2019,Air_pollution,62.49318426
+Turkmenistan,TKM,Asia,2019,Outdoor_air_pollution,58.58645562
+Turkmenistan,TKM,Asia,2019,Unsafe_water_source,0.763182764
+Turkmenistan,TKM,Asia,2019,Secondhand_smoke,23.96718639
+Turkmenistan,TKM,Asia,2019,Household_air_pollution_from_solid_fuels,0.081189656
+Turkmenistan,TKM,Asia,2019,Air_pollution,58.58645562
+Tuvalu,TUV,Oceania,2019,Outdoor_air_pollution,18.25483753
+Tuvalu,TUV,Oceania,2019,Unsafe_water_source,9.127418766
+Tuvalu,TUV,Oceania,2019,Secondhand_smoke,45.63709383
+Tuvalu,TUV,Oceania,2019,Household_air_pollution_from_solid_fuels,18.25483753
+Tuvalu,TUV,Oceania,2019,Air_pollution,36.50967506
+Uganda,UGA,Africa,2019,Outdoor_air_pollution,11.1946519
+Uganda,UGA,Africa,2019,Unsafe_water_source,21.41838661
+Uganda,UGA,Africa,2019,Secondhand_smoke,2.849886424
+Uganda,UGA,Africa,2019,Household_air_pollution_from_solid_fuels,53.55411571
+Uganda,UGA,Africa,2019,Air_pollution,64.44142692
+Ukraine,UKR,Europe,2019,Outdoor_air_pollution,97.90880288
+Ukraine,UKR,Europe,2019,Unsafe_water_source,0.099129903
+Ukraine,UKR,Europe,2019,Secondhand_smoke,36.22296775
+Ukraine,UKR,Europe,2019,Household_air_pollution_from_solid_fuels,6.146053989
+Ukraine,UKR,Europe,2019,Air_pollution,103.9264386
+United Arab Emirates,ARE,Asia,2019,Outdoor_air_pollution,36.92061048
+United Arab Emirates,ARE,Asia,2019,Unsafe_water_source,0.282251065
+United Arab Emirates,ARE,Asia,2019,Secondhand_smoke,10.17189416
+United Arab Emirates,ARE,Asia,2019,Household_air_pollution_from_solid_fuels,0
+United Arab Emirates,ARE,Asia,2019,Air_pollution,36.48637808
+United Kingdom,GBR,Europe,2019,Outdoor_air_pollution,22.51769461
+United Kingdom,GBR,Europe,2019,Unsafe_water_source,0.059847693
+United Kingdom,GBR,Europe,2019,Secondhand_smoke,12.38398394
+United Kingdom,GBR,Europe,2019,Household_air_pollution_from_solid_fuels,0.017954308
+United Kingdom,GBR,Europe,2019,Air_pollution,22.48178599
+United States,USA,North America,2019,Outdoor_air_pollution,18.44851481
+United States,USA,North America,2019,Unsafe_water_source,0.116346376
+United States,USA,North America,2019,Secondhand_smoke,10.83757351
+United States,USA,North America,2019,Household_air_pollution_from_solid_fuels,0.04568575
+United States,USA,North America,2019,Air_pollution,18.34404673
+Uruguay,URY,South America,2019,Outdoor_air_pollution,22.4302293
+Uruguay,URY,South America,2019,Unsafe_water_source,1.662578765
+Uruguay,URY,South America,2019,Secondhand_smoke,23.01359027
+Uruguay,URY,South America,2019,Household_air_pollution_from_solid_fuels,1.545906571
+Uruguay,URY,South America,2019,Air_pollution,23.91779977
+Uzbekistan,UZB,Asia,2019,Outdoor_air_pollution,80.37736355
+Uzbekistan,UZB,Asia,2019,Unsafe_water_source,0.256102155
+Uzbekistan,UZB,Asia,2019,Secondhand_smoke,18.09987091
+Uzbekistan,UZB,Asia,2019,Household_air_pollution_from_solid_fuels,9.422176958
+Uzbekistan,UZB,Asia,2019,Air_pollution,89.62384252
+Vanuatu,VUT,Oceania,2019,Outdoor_air_pollution,18.06809372
+Vanuatu,VUT,Oceania,2019,Unsafe_water_source,18.39660451
+Vanuatu,VUT,Oceania,2019,Secondhand_smoke,21.02469087
+Vanuatu,VUT,Oceania,2019,Household_air_pollution_from_solid_fuels,118.5923969
+Vanuatu,VUT,Oceania,2019,Air_pollution,136.6604907
+Vietnam,VNM,Asia,2019,Outdoor_air_pollution,40.48583165
+Vietnam,VNM,Asia,2019,Unsafe_water_source,1.306162972
+Vietnam,VNM,Asia,2019,Secondhand_smoke,19.92655501
+Vietnam,VNM,Asia,2019,Household_air_pollution_from_solid_fuels,34.71302983
+Vietnam,VNM,Asia,2019,Air_pollution,74.86266286
+Zambia,ZMB,Africa,2019,Outdoor_air_pollution,16.5828123
+Zambia,ZMB,Africa,2019,Unsafe_water_source,32.1808841
+Zambia,ZMB,Africa,2019,Secondhand_smoke,4.999870243
+Zambia,ZMB,Africa,2019,Household_air_pollution_from_solid_fuels,47.99657811
+Zambia,ZMB,Africa,2019,Air_pollution,64.34000597
+Zimbabwe,ZWE,Africa,2019,Outdoor_air_pollution,17.45404376
+Zimbabwe,ZWE,Africa,2019,Unsafe_water_source,25.49071914
+Zimbabwe,ZWE,Africa,2019,Secondhand_smoke,10.71990897
+Zimbabwe,ZWE,Africa,2019,Household_air_pollution_from_solid_fuels,65.25077032
+Zimbabwe,ZWE,Africa,2019,Air_pollution,82.49640759
