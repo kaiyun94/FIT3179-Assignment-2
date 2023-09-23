@@ -1,4 +1,4 @@
-Country,Code,Continent Region,Year,Environmental_factors,
+Country,Code,Continent_Region,Year,Environmental_factors,
 Afghanistan,AFG,Asia,2019,Outdoor_air_pollution_per_100k_people,24.23648775
 Afghanistan,AFG,Asia,2019,Unsafe_water_source_per_100k_people,9.931294032
 Afghanistan,AFG,Asia,2019,Secondhand_smoke_per_100k_people,16.04998785
