@@ -1,4 +1,4 @@
-Country,Code,Continent Region,Year,High.systolic.blood.pressure,Diet.high.in.sodium,High.fasting.plasma.glucose,Population,Total_Death_Rate,per/100k
+Country,Code,Continent Region,Year,High_systolic_blood_pressure,Diet_high_in_sodium,High_fasting_plasma_glucose,Population,Total_Death_Rate,per/100k
 Afghanistan,AFG,Asia,2019,36017,1422,24888,37769499,209370,554.3361854
 Albania,ALB,Europe,2019,7609,2445,2158,2854191,28500,998.531633
 Algeria,DZA,Africa,2019,58602,1910,38978,42705368,248758,582.4982002
