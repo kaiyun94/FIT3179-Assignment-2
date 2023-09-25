@@ -1,4 +1,4 @@
-Country,Code,Continent_region,Year,Alochol_use,Smoking,Drug_use,Population,Total_Death_Rate,per/100k
+Country,Code,Continent_region,Year,Alcohol_use,Smoking,Drug_use,Population,Total_Death_Rate,per/100k
 Afghanistan,AFG,Asia,2019,583,10306,700,37769499,209370,554.3361854
 Albania,ALB,Europe,2019,737,4425,130,2854191,28500,998.531633
 Algeria,DZA,Africa,2019,1285,21555,1030,42705368,248758,582.4982002
