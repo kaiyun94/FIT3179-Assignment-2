@@ -1,4 +1,4 @@
-Country,Code,Continent_region,Year,Diet_low_in_whole_grains,Diet_low_in_fruits,Diet_low_in_nuts_and_seeds,Diet_low_in_Vegetables,Population,Total_Death_Rate,Average_death_rate 
+Country,Code,Continent_region,Year,Diet_low_in_whole_grains,Diet_low_in_fruits,Diet_low_in_nuts_and_seeds,Diet_low_in_Vegetables,Population,Total_Death_Rate,Average_death_rate
 Afghanistan,AFG,Asia,2019,10335,4583,3269,5148,37769499,209370,61.7827
 Albania,ALB,Europe,2019,1520,217,379,51,2854191,28500,75.9234
 Algeria,DZA,Africa,2019,14772,2648,5697,2741,42705368,248758,60.5498
