@@ -19,9 +19,8 @@ h2 {
 
 .vis-container-full {
     justify-content: center;
-    width : 100%;
-    padding-left: 32px;
-    float : left;
+    width : 50%;
+    padding-left: 32px; 
     padding:0.01em 16px;
     color:#fff!important;
     background-color: #000!important
