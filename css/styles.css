@@ -27,14 +27,12 @@ h2 {
 
 .vis-container-left {
     width: 50%;
-    float: left;
     padding: 8px; 
     padding-bottom: 30px; 
 }
 
 .vis-container-right {
     width: 50%;
-    float: right;
     padding: 8px; 
     padding-bottom: 30px; 
 }
