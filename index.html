@@ -21,42 +21,215 @@
 </head>
 
 <body>
-  <div class="page">
+  <!-- Navbar -->
+  <div class="navbar">
+    <a href="#home">Home</a>
+    <a href="#intro" class="active">Introduction</a>
+    <a href="#map">Overall</a>
+    <a href="#enviromental">Environmental</a>
+    <a href="#nutritional">Nutritional</a>
+    <a href="#lifestyle">Lifestyle</a>
+    <a href="#summary">Summary</a>
+  </div>
 
-    <h2>TITLE</h2>
-    <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-            <div id="choropleth_map" class="vis-container"></div>
-        </div>
+  <!-- Page Content -->
+  <div style="max-width:2000px;margin-top:0px">
+    <!-- Main Cover -->
+    <div class="cover" id="home">
+      <div class="image-container">
+        <img src="components/cover.jpg" style="width:100%; height: 480px" alt="WORLD DEATH RATE IN 2019">
+      </div>
+      <div class="overlay-text">
+        <h1 class="main-title">GLOBAL DEATH RATE IN 2019</h1>
+        <p class="alt-text">"Understanding the leading causes of death is vital for shaping public health decisions and saving lives.</p>
+      </div>  
+    </div>
+
+    <!-- Introduction -->
+    <div class="intro" id="intro">
+      <br>
+      <div>
+        <h2 class="title">INTRODUCTION</h2>
+      </div>
+      <div>
+        <p class="para-1">The question of what causes people to lose their lives is of paramount importance, guiding critical decisions in public health and ultimately saving lives. Sadly, many of the leading causes of death often remain in the shadows, receiving insufficient mainstream attention. Over time, death rates stemming from these causes have witnessed significant declines on a global scale. A more profound understanding of the root causes of mortality has paved the way for technological advancements, preventative measures, and improved healthcare, offering a lifeline to individuals at risk across all age groups.
+        </p>
+      </div>
+    </div>
+
+    <div class="statistic" id="map">
+      <br>
+      <br>
+      <div class="title-emp">
+        <h2>HOW MANY PEOPLE <span class="emphasis">DIE</span> IN 2019?
+      </div>
+      <p class="para-1">The choropleth map visualizes the total death rate per 100,000 people in countries worldwide for the year 2019. Bulgaria stands out with the highest death rate, while Qatar reports the lowest. Notable variations are observed among focused countries; China has a relatively high death rate with 952.58 deaths per 100,000 people, followed by Malaysia with 512.88, and Australia with 454.53 deaths per 100,000 people. This geographical map representation highlights the significant differences in mortality rates between countries, prompting a deeper examination of the factors that drive these variations.</p>
+      <!-- Global Death Rate -->
+      <div class="pure-g">
+          <div class="pure-u-1-1">
+              <div id="choropleth_map" class="vis-container-full"></div>
+          </div>
+      </div>
     </div>
     <!-- end pure grid group -->
     <br>
-   
-    <hr class="hr3">
-    <h2>High BMI vs Death Rate</h2>
-    <!-- pure grid group -->
-    <div class="pure-g">
-        <div class="pure-u-1-1">
-            <div id="scatter_plot" class="vis-container"></div>
-        </div>
-    </div>
-    <!-- end pure grid group -->
     <br>
-    <hr class="hr3">
 
-</div>
+    <!-- Enviromental vs Death Rate -->
+    <div class="enviromental" id="enviromental">
+      <br>
+      <div>
+        <h2 class="title">ENVIRONMENTAL FACTOR VS DEATH RATE IN 2019</h2>
+      </div>
+      <p class="para-right" style="text-indent: 25px">
+        The stacked bar chart effectively illustrates the breakdown of death rates attributed to environmental factors. Notably, outdoor air pollution emerges as the predominant contributor, with the highest cumulative death rate observed across all continents. Conversely, unsafe water sources account for the lowest proportion of these deaths.
+      </p>
+
+      <p class="para-right" style="text-indent: 25px">
+        A closer examination of the Asian continent reveals a striking contrast: outdoor air pollution has a significantly higher death rate, approximately 2640 per 100,000 people, which is 14 times higher than that of unsafe water sources. This highlights the urgent need to address the substantial impact of outdoor air pollution on public health in Asia.
+      </p>
+
+      <!-- pure grid group -->
+      <div class="pure-g">
+          <div class="pure-u-1-1">
+              <div id="stacked_bar_chart" class="vis-container-left"></div>
+          </div>
+      </div>
+      <!-- end pure grid group -->
+      <br>
+      
+      <!-- Nutritional Health vs Death Rate -->
+      <div class="nutritional-health" id="nutritional">
+        <br>
+        <div>
+          <h2 class="title">NUTRITIONAL HEALTH VS DEATH RATE IN 2019</h2>
+        </div>
+        <p class="para-left" style="text-indent: 25px">
+          The bubble plot visualizes the correlation between death rates attributed to high systolic blood pressure, diets high in sodium, and high glucose levels across various countries and continents.</p>
+
+        <p class="para-left" style="text-indent: 25px;">
+          It is obvious that there is a positive correlation (R^2=0.56) between death rates due to high systolic blood pressure and diets high in sodium. Notably, the size of the data points increases proportionally with higher death rates associated with both high systolic blood pressure and high sodium intake.  This suggests a strong likelihood that individuals who succumb to high glucose consumption are also at risk of succumbing to high systolic blood pressure.
+        </p>
+          
+        <p class="para-left" style="text-indent: 25px;">
+          Zooming in on specific countries, such as Malaysia and Australia, further illuminates the disparities. Malaysia exhibits a higher death rate attributed to both high systolic blood pressure and high sodium diets compared to Australia. Additionally, Malaysia reports a slightly higher death rate due to high fasting plasma glucose levels than Australia.
+        </p>
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="bubble_plot" class="vis-container-right"></div>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+        <br>
+
+        <div class="low-diet">
+          <p class="para-right" style="text-indent: 25px">
+            Finally, let's delve into the bar chart displaying the top 10 countries with the highest death rates attributed to diets low in plant-based sources in 2019, with the ability to filter by continent.</p>
+
+          <p class="para-right" style="text-indent: 25px;">
+            Plant-based sources include whole grains, fruits, nuts and seeds, as well as vegetables.
+          </p>
+            
+          <p class="para-right" style="text-indent: 25px;">
+            Surprisingly, more than half of the countries on this list hail from Europe, with Ukraine claiming the top spot with a notably high average death rate of 288.65 per 100,000 people. It's worth noting that the global average death rate in this context stands at 57.37 per 100,000 people, putting these figures into perspective and highlighting the significance of dietary choices in influencing health outcomes worldwide.
+          </p>
+          
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="bar_chart" class="vis-container-left"></div>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+        <br>
+      </div>
+
+      <!-- Lifestyle vs Death Rate -->
+      <div class="lifestyle-health" id="lifestyle">
+        <br>
+        <div>
+          <h2 class="title">LIFESTYLE FACTOR VS DEATH RATE IN 2019</h2>
+        </div>
+        <p class="para-left" style="text-indent: 25px">
+          The waffle chart illustrates how various behaviors influenced death rates in different continents in 2019.  Notably, Europe emerges as the continent with the highest contribution to the total death rate at 46%, primarily attributed to smoking, which underscores the significant health impact of this behavior in the region. On the other hand, South America records the smallest percentage, accounting for a mere 4% of the total death rate.
+        </p>
+
+        <p class="para-left" style="text-indent: 25px">
+          Furthermore, Europe also leads in terms of death rates related to drug use and alcohol use, reinforcing the need for targeted interventions in these areas. However, Oceania stands out as the continent with the lowest death rate due to alcohol use, at just 4%. 
+        </p>
+
+        <p class="para-left" style="text-indent: 25px">
+          Taking a closer look at Asia, we find a variety of health challenges. Smoking contributes to 19% of deaths, drug use to 21%, and alcohol use to 15%. This underscores the range of health issues within the continent.
+        </p>
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1-1">
+                <div id="waffle_chart" class="vis-container-right"></div>
+            </div>
+        </div>
+        <!-- end pure grid group -->
+        <br>
+      </div>
+
+      <!-- Summary -->
+      <div class="summary" id="summary">
+        <br>
+        <div>
+          <h2 class="title">SUMMARY</h2>
+        </div>
+        <div>
+          <p class="para-1"> This exploration delves into the profound influence of distinct risk factor categories on death rates, with a specific focus on environmental, nutritional, and lifestyle factors. Environmental risks, including pollution and climate change, can contribute to respiratory ailments and injuries, elevating mortality rates. Nutritional factors, such as access to safe drinking water and balanced diets, are pivotal in preventing waterborne diseases and ensuring overall health. Additionally, lifestyle choices, like smoking and sedentary behavior, significantly impact mortality rates. Understanding these dynamics provides crucial insights for public health interventions and strategies to reduce preventable deaths.
+          </p>
+        </div>
+      </div>
+  
+      <!-- Footer -->
+      <footer>
+        <p>&copy; 2023 Kai Yun Ong</p>
+        <p>Created for FIT3179 Assignment 2 at Monash University Malaysia</p>
+        <p>Visualizations made with Vega-Lite</p>
+      </footer>
+
+  </div>
 
   <!-- Import JS file -->
   <script type="text/javascript">
+
+    // JavaScript code for sticky navigation bar
+    window.addEventListener("scroll", function() {
+      const navbar = document.querySelector(".navbar");
+      if (window.pageYOffset >= 100) { // Adjust the value based on when you want the navbar to become sticky
+        navbar.classList.add("sticky");
+      } else {
+        navbar.classList.remove("sticky");
+      }
+    });
+
     var specVis1 = "js/choropleth_map.vg.json";
-    var specVis2 = "js/bmi.vg.json";
+    var specVis2 = "js/environmental.vg.json";
+    var specVis3 = "js/nutritional_health.vg.json"
+    var specVis4 = "js/lowDiet_in_PlantBasedSourve.vg.json"
+    var spevVis5 = "js/lifestyle.vg.json"
 
     vegaEmbed('#choropleth_map', specVis1, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
-    vegaEmbed('#scatter_plot', specVis2, { "actions": false }).then(function (result) {
+    vegaEmbed('#stacked_bar_chart', specVis2, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#bubble_plot', specVis3, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#bar_chart', specVis4, { "actions": false }).then(function (result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    vegaEmbed('#waffle_chart', spevVis5, { "actions": false }).then(function (result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
   </script>

@@ -37,7 +37,7 @@
       "anchor": "start",
       "fontWeight": "bold",
       "fontSize": {
-        "expr": "20"
+        "expr": "16"
       },
       "subtitlePadding": {
         "expr": "10"

@@ -8,8 +8,10 @@
       "stroke": "transparent"
     },
     "axis": {
+      "domain": false,
+      "grid": false,
       "labelFont": "sans-serif",
-      "titleFont": "sans-serif",
+      "titleFont": "Sans-serif",
       "titleColor": "#f2f0f7",
       "labelColor": "#f2f0f7"
     },
@@ -35,7 +37,7 @@
       "anchor": "start",
       "fontWeight": "bold",
       "fontSize": {
-        "expr": "20"
+        "expr": "16"
       },
       "subtitlePadding": {
         "expr": "10"
@@ -45,9 +47,6 @@
   "background": "black",
   "width": 400,
   "height": 300,
-  "title": {
-    "text": "Environmental Factor vs Death Rate"
-  },
   "params": [
     {
       "name": "hover",
