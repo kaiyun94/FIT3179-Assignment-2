@@ -28,7 +28,7 @@
     width: 60vw;
 }
 
-/* #choropleth_map ::after, #choropleth_map ::before, #stacked_bar_chart ::after, #stacked_bar_chart ::before,
+#choropleth_map ::after, #choropleth_map ::before, #stacked_bar_chart ::after, #stacked_bar_chart ::before,
 #bubble_plot ::after, #bubble_plot ::before,
 #bar_chart ::after, #bar_chart ::before,
 #waffle_chart ::after, #waffle_chart ::before
@@ -36,7 +36,7 @@
     content:"";
     display:table;
     clear:both
-} */
+}
 
 body {
     background-color: black;
