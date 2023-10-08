@@ -26,13 +26,6 @@ h2 {
     background-color: #000!important
 }
 
-.vis-container-full:after, .vis-container-full:before {
-    content:"";
-    display:table;
-    clear:both
-}
-
-
 .vis-container-left {
     width: 50%;
     float: left;
