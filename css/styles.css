@@ -1,5 +1,27 @@
 #choropleth_map {
-    display: inline-block;
+    color:#fff!important;
+    background-color:#000!important;
+    width: 90vw;
+}
+
+#stacked_bar_chart {
+    color:#fff!important;
+    background-color:#000!important;
+}
+
+#bubble_plot {
+    color:#fff!important;
+    background-color:#000!important;
+}
+
+#bar_chart {
+    color:#fff!important;
+    background-color:#000!important;
+}
+
+#waffle_chart {
+    color:#fff!important;
+    background-color:#000!important;
 }
 
 body {
