@@ -12,20 +12,20 @@
       "grid": false,
       "labelFont": "sans-serif",
       "titleFont": "Sans-serif",
-      "titleColor": "#f2f0f7",
-      "labelColor": "#f2f0f7"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "legend": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "#f2f0f7",
-      "labelColor": "#f2f0f7"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "header": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "#f2f0f7",
-      "labelColor": "#f2f0f7"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "mark": {
       "font": "sans-serif"
@@ -33,7 +33,7 @@
     "title": {
       "font": "sans-serif",
       "subtitleFont": "sans-serif",
-      "color": "#f2f0f7",
+      "color": "black",
       "anchor": "start",
       "fontWeight": "bold",
       "fontSize": {
@@ -44,7 +44,7 @@
       }
     }
   },
-  "background": "black",
+  "background": "white",
   "width": 400,
   "height": 300,
   "params": [

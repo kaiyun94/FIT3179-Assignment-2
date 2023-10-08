@@ -11,21 +11,21 @@
       "ticks": false,
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "white",
-      "labelColor": "white",
+      "titleColor": "black",
+      "labelColor": "black",
       "labelLimit": 80
     },
     "legend": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "white",
-      "labelColor": "white"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "header": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "white",
-      "labelColor": "white"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "mark": {
       "font": "sans-serif"
@@ -33,7 +33,7 @@
     "title": {
       "font": "sans-serif",
       "subtitleFont": "sans-serif",
-      "color": "white",
+      "color": "black",
       "anchor": "start",
       "fontWeight": "bold",
       "fontSize": {
@@ -51,7 +51,7 @@
   },
   "width": 500,
   "height": 400,
-  "background": "black",
+  "background": "white",
   "data": {
     "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/diet_low_in_plant_based_sources.csv"
   },

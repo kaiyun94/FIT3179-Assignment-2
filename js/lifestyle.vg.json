@@ -11,20 +11,20 @@
       "grid": false,
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "#f2f0f7",
-      "labelColor": "#f2f0f7"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "legend": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "#f2f0f7",
-      "labelColor": "#f2f0f7"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "header": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "#f2f0f7",
-      "labelColor": "#f2f0f7"
+      "titleColor": "black",
+      "labelColor": "black"
     },
     "mark": {
       "font": "sans-serif"
@@ -32,7 +32,7 @@
     "title": {
       "font": "sans-serif",
       "subtitleFont": "sans-serif",
-      "color": "#f2f0f7",
+      "color": "black",
       "anchor": "start",
       "fontWeight": "bold",
       "fontSize": {
@@ -51,7 +51,7 @@
   },
   "width": 400,
   "height": 300,
-  "background": "black",
+  "background": "white",
   "data": {
     "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/lifestyle_death_rate.csv"
   },
@@ -198,10 +198,10 @@
         {
           "param": "hover",
           "empty": false,
-          "value": "white"
+          "value": "black"
         }
       ],
-      "value": "black"
+      "value": "white"
     },
     "opacity": {
       "condition": [
