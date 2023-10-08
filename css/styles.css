@@ -21,9 +21,8 @@ h2 {
     justify-content: center;
     width : 50%;
     padding-left: 32px; 
-    padding:0.01em 16px;
-    color:#fff!important;
-    background-color: #000!important
+    color:#fff;
+    background-color: #000;
 }
 
 .vis-container-left {
