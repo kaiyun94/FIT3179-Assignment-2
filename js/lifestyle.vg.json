@@ -49,8 +49,8 @@
     "right": 20,
     "bottom": 20
   },
-  "width": 400,
-  "height": 300,
+  "width": 500,
+  "height": 400,
   "background": "black",
   "data": {
     "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/lifestyle_death_rate.csv"

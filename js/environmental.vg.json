@@ -45,8 +45,8 @@
     }
   },
   "background": "black",
-  "width": 800,
-  "height": 500,
+  "width": 500,
+  "height": 400,
   "params": [
     {
       "name": "hover",

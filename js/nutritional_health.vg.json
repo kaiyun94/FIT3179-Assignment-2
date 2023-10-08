@@ -49,8 +49,8 @@
     "right": 20,
     "bottom": 20
   },
-  "width": 500,
-  "height": 400,
+  "width": 600,
+  "height": 500,
   "background": "black",
   "data": {
     "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/nutriotinal_death_rate.csv"
