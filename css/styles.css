@@ -7,25 +7,25 @@
 #stacked_bar_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 50vw;
+    width: 100vw;
 }
 
 #bubble_plot {
     color:#fff!important;
     background-color:#000!important;
-    width: 50vw;
+    width: 100vw;
 }
 
 #bar_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 50vw;
+    width: 100vw;
 }
 
 #waffle_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 50vw;
+    width: 100vw;
 }
 
 #choropleth_map ::after, #choropleth_map ::before, #stacked_bar_chart ::after, #stacked_bar_chart ::before,
