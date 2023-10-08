@@ -40,11 +40,23 @@ h2 {
     padding-bottom: 30px; 
 }
 
+.vis-container-left:after, .vis-container-left:before {
+    content:"";
+    display:table;
+    clear:both
+}
+
 .vis-container-right {
     width: 50%;
     float: right;
     padding: 8px; 
     padding-bottom: 30px; 
+}
+
+.vis-container-right:after, .vis-container-right:before {
+    content:"";
+    display:table;
+    clear:both
 }
 
 
@@ -203,9 +215,5 @@ h2 {
     height: 100vh;
     overflow: auto;
     display: flex;
-    align-items: center;
     z-index: 15;
 }
-
-
-
