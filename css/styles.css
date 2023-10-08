@@ -1,30 +1,31 @@
 #choropleth_map {
     color:#fff!important;
     background-color:#000!important;
+    width: 90vw;
 }
 
 #stacked_bar_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 90vw;
+    width: 50vw;
 }
 
 #bubble_plot {
     color:#fff!important;
     background-color:#000!important;
-    width: 90vw;
+    width: 50vw;
 }
 
 #bar_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 90vw;
+    width: 50vw;
 }
 
 #waffle_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 90vw;
+    width: 50vw;
 }
 
 #choropleth_map ::after, #choropleth_map ::before, #stacked_bar_chart ::after, #stacked_bar_chart ::before,
