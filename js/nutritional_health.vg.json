@@ -11,20 +11,20 @@
       "grid": false,
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "black",
-      "labelColor": "black"
+      "titleColor": "white",
+      "labelColor": "white"
     },
     "legend": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "black",
-      "labelColor": "black"
+      "titleColor": "white",
+      "labelColor": "white"
     },
     "header": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
-      "titleColor": "black",
-      "labelColor": "black"
+      "titleColor": "white",
+      "labelColor": "white"
     },
     "mark": {
       "font": "sans-serif"
@@ -32,7 +32,7 @@
     "title": {
       "font": "sans-serif",
       "subtitleFont": "sans-serif",
-      "color": "black",
+      "color": "white",
       "anchor": "start",
       "fontWeight": "bold",
       "fontSize": {
@@ -51,7 +51,7 @@
   },
   "width": 500,
   "height": 400,
-  "background": "white",
+  "background": "black",
   "data": {
     "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/nutriotinal_death_rate.csv"
   },
@@ -198,7 +198,7 @@
             "format": ".1s",
             "padding": 5,
             "columns": 1,
-            "symbolFillColor": "black"
+            "symbolFillColor": "white"
           }
         },
         "opacity": {
@@ -215,7 +215,7 @@
             {
               "param": "hover",
               "empty": false,
-              "value": "black"
+              "value": "white"
             }
           ],
           "value": null
@@ -284,7 +284,7 @@
           "type": "quantitative"
         },
         "color": {
-          "value": "black"
+          "value": "white"
         },
         "opacity": {
           "condition": {
