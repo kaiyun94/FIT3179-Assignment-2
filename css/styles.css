@@ -1,3 +1,6 @@
+#choropleth_map {
+    display: inline-block;
+}
 
 body {
     background-color: black;
