@@ -76,13 +76,13 @@ p {
 
 .viz-row-container {
 	/* position: relative;
-	text-align: center;
-	justify-content: center;  */
+	text-align: center; */
+	justify-content: center;  
 	display: flex;
 }
 
 .container{
-    width:50vw;
+    width:100%;
     display: flex;
 }
 
