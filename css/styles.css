@@ -75,13 +75,16 @@ p {
 }
 
 .viz-row-container {
-	position: relative;
-	text-align: space-between;
-	justify-content: center; 
+	/* position: relative;
+	text-align: center;
+	justify-content: center;  */
 	display: flex;
 }
 
-
+.container{
+    width:100%;
+    display: flex;
+}
 
 
 .para-1 {
