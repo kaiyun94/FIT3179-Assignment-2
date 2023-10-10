@@ -56,16 +56,6 @@
       }
     },
     {
-      "name": "continent_legend",
-      "select": {
-        "type": "point",
-        "fields": [
-          "Continent region"
-        ]
-      },
-      "bind": "legend"
-    },
-    {
       "name": "Continent_selection",
       "bind": {
         "input": "select",
@@ -109,86 +99,90 @@
       ]
     }
   ],
-  "mark": "bar",
-  "encoding": {
-    "x": {
-      "field": "Environmental factor",
-      "type": "ordinal",
-      "title": "Environmental Factor",
-      "sort": "-y"
-    },
-    "y": {
-      "field": "Total_Death_Rate",
-      "type": "quantitative",
-      "title": "Total Death Rate",
-      "scale": {
-        "zero": true
-      }
-    },
-    "color": {
-      "field": "Continent region",
-      "type": "nominal",
-      "title": "Continent",
-      "scale": {
-        "range": [
-          "#219ebc",
-          "#612f9e",
-          "#013c58",
-          "#ffb703",
-          "#87581f",
-          "#630707"
+  "layer":[
+    {
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "Environmental factor",
+          "type": "ordinal",
+          "title": "Environmental Factor",
+          "sort": "-y"
+        },
+        "y": {
+          "field": "Total_Death_Rate",
+          "type": "quantitative",
+          "title": "Total Death Rate per 100,000 people",
+          "scale": {
+            "zero": true
+          }
+        },
+        "color": {
+          "field": "Continent region",
+          "type": "nominal",
+          "title": "Continent",
+          "scale": {
+            "range": [
+              "#219ebc",
+              "#612f9e",
+              "#013c58",
+              "#ffb703",
+              "#87581f",
+              "#630707"
+            ]
+          },
+          "legend": {
+            "title": "Continent",
+            "orient": "right",
+            "labelOffset": 3,
+            "labelFontSize": 12,
+            "titleFontSize": 14,
+            "titlePadding": 5
+          }
+        },
+        "opacity": {
+          "condition": {
+            "param": "hover",
+            "value": 1
+          },
+          "value": 0.2
+        },
+        "stroke": {
+          "condition": [
+            {
+              "param": "hover",
+              "empty": false,
+              "value": "white"
+            }
+          ],
+          "value": null
+        },
+        "strokeWidth": {
+          "condition": [
+            {
+              "param": "hover",
+              "empty": false,
+              "value": 2
+            }
+          ],
+          "value": 0.2
+        },
+        "tooltip": [
+          {
+            "field": "Continent region",
+            "title": "Continent"
+          },
+          {
+            "field": "Environmental factor",
+            "title": "Environmental Factor"
+          },
+          {
+            "field": "Total_Death_Rate",
+            "title": "Total death rate per 100,000 people",
+            "format": ".2f"
+          }
         ]
-      },
-      "legend": {
-        "title": "Continent",
-        "orient": "right",
-        "labelOffset": 3,
-        "labelFontSize": 12,
-        "titleFontSize": 14,
-        "titlePadding": 5
       }
-    },
-    "opacity": {
-      "condition": {
-        "param": "hover",
-        "value": 1
-      },
-      "value": 0.2
-    },
-    "stroke": {
-      "condition": [
-        {
-          "param": "hover",
-          "empty": false,
-          "value": "white"
-        }
-      ],
-      "value": null
-    },
-    "strokeWidth": {
-      "condition": [
-        {
-          "param": "hover",
-          "empty": false,
-          "value": 2
-        }
-      ],
-      "value": 0.2
-    },
-    "tooltip": [
-      {
-        "field": "Continent region",
-        "title": "Continent"
-      },
-      {
-        "field": "Environmental factor",
-        "title": "Environmental Factor"
-      },
-      {
-        "field": "Total_Death_Rate",
-        "title": "Death Rate",
-        "format": ".2f"
-      }
-    ]
-  }
+    }
+  ]
 }

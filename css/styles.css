@@ -7,7 +7,7 @@
 #stacked_bar_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 60vw;
+    width: 40vw;
 }
 
 #bubble_plot {
@@ -19,13 +19,19 @@
 #bar_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 60vw;
+    width: 40vw;
 }
 
 #waffle_chart {
     color:#fff!important;
     background-color:#000!important;
-    width: 60vw;
+    width: 40vw;
+}
+
+#parallel_coor {
+    color:#fff!important;
+    background-color:#000!important;
+    width: 40vw;
 }
 
 /* #choropleth_map ::after, #choropleth_map ::before, #stacked_bar_chart ::after, #stacked_bar_chart ::before,
@@ -42,11 +48,49 @@ body {
     background-color: black;
 }
 
+em {
+    font-weight: bold;
+    font-style:normal;
+    color: red;
+}
+
+em_i {
+    font-weight: bold;
+    font-style:italic;
+    color: red;
+}
+
+em_m1 {
+    font-weight: bold;
+    font-style:normal;
+    color: #e6550d;
+    font-size: 20px;
+}
+
+em_m2 {
+    font-weight: bold;
+    font-style:normal;
+    color:#fdbe85;
+    font-size: 20px;
+}
+
 h2 {
 	color: black;
 	background-color: rgba(217, 217, 217, 0.97);
 	text-align: center;
 	width: 100%;
+}
+
+.subtitle {
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: italic;
 }
 
 p {
@@ -56,6 +100,16 @@ p {
     text-align: justify;
     margin: 0 3em;
     font-family: sans-serif;
+}
+
+p_i {
+    font-size: 16px;
+    line-height: 1.5;
+    color: white;
+    text-align:justify;
+    margin: 0 3em;
+    font-family: sans-serif;
+    font-style: italic;
 }
 
 .p-footer {

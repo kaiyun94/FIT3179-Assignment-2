@@ -59,7 +59,7 @@
       "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/diet_low_in_plant_based_sources.csv"
       
     },
-    "width": 500,
+    "width": 620,
     "height": 400,
     "padding": {
       "left": 20,
@@ -99,27 +99,27 @@
       },
       {
         "calculate": "datum['Diet low in vegetables']/datum.Population * 100000",
-          "as": "nDiet low in vegetables"
+          "as": "Diet low in Vegetables"
       },
       {
         "calculate": "datum['Diet low in fruits']/datum.Population * 100000",
-          "as": "nDiet low in fruits"
+          "as": "Diet low in Fruits"
       },
       {
         "calculate": "datum['Diet low in whole grains']/datum.Population * 100000",
-          "as": "nDiet low in whole grains"
+          "as": "Diet low in Whole Grains"
       },
       {
         "calculate": "datum['Diet low in nuts and seeds']/datum.Population * 100000",
-          "as": "nDiet low in nuts and seeds"
+          "as": "Diet low in Nuts and Seeds"
       },
       {"window": [{"op": "count", "as": "index"}]},
       {
         "fold": [
-          "nDiet low in vegetables",
-          "nDiet low in fruits",
-          "nDiet low in whole grains",
-          "nDiet low in nuts and seeds"
+          "Diet low in Vegetables",
+          "Diet low in Fruits",
+          "Diet low in Whole Grains",
+          "Diet low in Nuts and Seeds"
         ]
       },
       {
@@ -133,7 +133,7 @@
         "calculate": "(datum.value - datum.min) / (datum.max-datum.min)",
         "as": "norm_val"
       },
-      {"calculate": "(datum.min + datum.max) / 2", "as": "mid"}
+      {"calculate": "(datum.max - datum.min) / 2", "as": "mid"}
     ],
     "layer": [
       {
@@ -205,22 +205,22 @@
             {"type": "nominal", "field": "Continent region"},
             {
               "type": "quantitative",
-              "field": "nDiet low in fruits",
+              "field": "Diet low in Fruits",
               "format": ".2f"
             },
             {
               "type": "quantitative",
-              "field": "nDiet low in whole grains",
+              "field": "Diet low in Whole Grains",
               "format": ".2f"
             },
             {
               "type": "quantitative",
-              "field": "nDiet low in vegetables",
+              "field": "Diet low in Vegetables",
               "format": ".2f"
             },
             {
               "type": "quantitative",
-              "field": "nDiet low in nuts and seeds",
+              "field": "Diet low in Nuts and Seeds",
               "format": ".2f"
             }
           ]
@@ -232,7 +232,7 @@
           {
             "mark": {"type": "text", "style": "label"},
             "encoding": {
-              "text": {"aggregate": "max", "field": "max", "format": ".0f"}
+              "text": {"aggregate": "max", "field": "max", "format": ".1f"}
             }
           },
           {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
@@ -247,7 +247,7 @@
           {
             "mark": {"type": "text", "style": "label"},
             "encoding": {
-              "text": {"aggregate": "min", "field": "mid", "format": ".0f"}
+              "text": {"aggregate": "min", "field": "mid", "format": ".1f"}
             }
           },
           {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
@@ -262,7 +262,7 @@
           {
             "mark": {"type": "text", "style": "label"},
             "encoding": {
-              "text": {"aggregate": "min", "field": "min", "format": ".0f"}
+              "text": {"aggregate": "min", "field": "min", "format": ".1f"}
             }
           },
           {"mark": {"type": "tick", "style": "tick", "size": 8, "color": "#ccc"}}
