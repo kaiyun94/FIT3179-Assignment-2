@@ -304,14 +304,28 @@
         "type": "text",
         "align": "left",
         "baseline": "middle",
-        "dx": 250,
+        "dx": 250 ,
         "dy": -25,
         "fontSize": 12,
         "fontStyle": "italic"
       },
+      
       "encoding": {
         "text": {
           "value": "Malaysia"
+        },
+        "opacity": {
+          "condition": {
+            "test": {
+              "and": [
+                "zoom_level === 165",
+                "center_to[0] === 0",
+                "center_to[1] === 0"
+              ]
+            },
+            "value": 1
+          },
+          "value": 0
         },
         "color": {
           "value": "blue"
@@ -332,6 +346,19 @@
         "text": {
           "value": "Australia"
         },
+        "opacity": {
+          "condition": {
+            "test": {
+              "and": [
+                "zoom_level === 165",
+                "center_to[0] === 0",
+                "center_to[1] === 0"
+              ]
+            },
+            "value": 1
+          },
+          "value": 0
+        },
         "color": {
           "value": "blue"
         }
@@ -351,6 +378,19 @@
         "text": {
           "value": "United States"
         },
+        "opacity": {
+          "condition": {
+            "test": {
+              "and": [
+                "zoom_level === 165",
+                "center_to[0] === 0",
+                "center_to[1] === 0"
+              ]
+            },
+            "value": 1
+          },
+          "value": 0
+        },
         "color": {
           "value": "blue"
         }
@@ -369,6 +409,19 @@
       "encoding": {
         "text": {
           "value": "China"
+        },
+        "opacity": {
+          "condition": {
+            "test": {
+              "and": [
+                "zoom_level === 165",
+                "center_to[0] === 0",
+                "center_to[1] === 0"
+              ]
+            },
+            "value": 1
+          },
+          "value": 0
         },
         "color": {
           "value": "blue"
@@ -424,6 +477,19 @@
       "encoding": {
         "text": {
           "field": "highest_death_annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": {
+              "and": [
+                "zoom_level === 165",
+                "center_to[0] === 0",
+                "center_to[1] === 0"
+              ]
+            },
+            "value": 1
+          },
+          "value": 0
         },
         "color": {
           "value": "blue"
@@ -482,6 +548,19 @@
       "encoding": {
         "text": {
           "field": "lowest_death_annotation"
+        },
+        "opacity": {
+          "condition": {
+            "test": {
+              "and": [
+                "zoom_level === 165",
+                "center_to[0] === 0",
+                "center_to[1] === 0"
+              ]
+            },
+            "value": 1
+          },
+          "value": 0
         },
         "color": {
           "value": "blue"
