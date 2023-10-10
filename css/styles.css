@@ -76,7 +76,6 @@ p {
 
 .viz-row-container {
 	position: relative;
-	text-align: center;
 	justify-content: center; 
 	display: flex;
 }
@@ -84,7 +83,6 @@ p {
 .container{
     width:100%;
     display: flex;
-    flex-direction: column;
 }
 
 
