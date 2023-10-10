@@ -95,22 +95,22 @@
   ],
   "transform": [
     {
-      "filter": "Continent_selection == null || datum.Continent_region == Continent_selection"
+      "filter": "Continent_selection == null || datum['Continent region'] == Continent_selection"
     },
     {
-      "filter": "datum['Average_death_rate'] != null"
+      "filter": "datum['Average death rate'] != null"
     },
     {
       "joinaggregate": [
         {
           "op": "mean",
-          "field": "Average_death_rate",
+          "field": "Average death rate",
           "as": "AverageDeathRate"
         }
       ]
     },
     {
-      "calculate": "(datum['Average_death_rate'] - datum.AverageDeathRate)",
+      "calculate": "(datum['Average death rate'] - datum.AverageDeathRate)",
       "as": "score"
     },
     {
@@ -150,7 +150,7 @@
       },
       "encoding": {
         "y": {
-          "field": "Average_death_rate",
+          "field": "Average death rate",
           "type": "quantitative",
           "title": "Average Death Rate due to Diet Low in Plant-based Source"
         },
@@ -163,7 +163,7 @@
           }
         },
         "color": {
-          "field": "Continent_region",
+          "field": "Continent region",
           "type": "nominal",
           "scale": {
             "domain": [
@@ -229,12 +229,12 @@
             "title": "Country"
           },
           {
-            "field": "Continent_region",
+            "field": "Continent region",
             "type": "nominal",
             "title": "Continent"
           },
           {
-            "field": "Average_death_rate",
+            "field": "Average death rate",
             "type": "quantitative",
             "format": ".2f",
             "title": "Average Death Rate due to Diet Low in Plant-based Source"

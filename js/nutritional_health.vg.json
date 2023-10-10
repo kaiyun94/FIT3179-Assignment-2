@@ -84,18 +84,18 @@
   ],
   "transform": [
     {
-      "filter": "Continent_selection == null || datum.Continent_region == Continent_selection"
+      "filter": "Continent_selection == null || datum['Continent region'] == Continent_selection"
     },
     {
-      "calculate": "datum.Diet_high_in_sodium/datum.Population * 100000",
+      "calculate": "datum['Diet high in sodium']/datum.Population * 100000",
       "as": "Death Rate Caused by Diet High in Sodium per 100k population"
     },
     {
-      "calculate": "datum.High_systolic_blood_pressure/datum.Population * 100000",
+      "calculate": "datum['High systolic blood pressure']/datum.Population * 100000",
       "as": "Death Rate Caused by High Systolic Blood Pressure per 100k population"
     },
     {
-      "calculate": "datum.High_fasting_plasma_glucose/datum.Population * 100000",
+      "calculate": "datum['High fasting plasma glucose']/datum.Population * 100000",
       "as": "Death Rate Caused by High Fasting Plasma Glucose per 100k population"
     }
   ],
@@ -137,7 +137,7 @@
         },
         "color": {
           "title": "Continent",
-          "field": "Continent_region",
+          "field": "Continent region",
           "type": "nominal",
           "scale": {
             "domain": [
@@ -236,7 +236,7 @@
             "title": "Country"
           },
           {
-            "field": "Continent_region",
+            "field": "Continent region",
             "type": "nominal",
             "title": "Continent"
           },
@@ -300,7 +300,7 @@
             "title": "Country"
           },
           {
-            "field": "Continent_region",
+            "field": "Continent region",
             "type": "nominal",
             "title": "Continent"
           },

@@ -60,7 +60,7 @@
       "select": {
         "type": "point",
         "fields": [
-          "Continent_region"
+          "Continent region"
         ]
       },
       "bind": "legend"
@@ -93,26 +93,26 @@
   ],
   "transform": [
     {
-      "filter": "Continent_selection == null || datum.Continent_region == Continent_selection"
+      "filter": "Continent_selection == null || datum['Continent region'] == Continent_selection"
     },
     {
       "aggregate": [
         {
           "op": "sum",
-          "field": "Death_rate",
+          "field": "Death rate",
           "as": "Total_Death_Rate"
         }
       ],
       "groupby": [
-        "Environmental_factor",
-        "Continent_region"
+        "Environmental factor",
+        "Continent region"
       ]
     }
   ],
   "mark": "bar",
   "encoding": {
     "x": {
-      "field": "Environmental_factor",
+      "field": "Environmental factor",
       "type": "ordinal",
       "title": "Environmental Factor",
       "sort": "-y"
@@ -126,7 +126,7 @@
       }
     },
     "color": {
-      "field": "Continent_region",
+      "field": "Continent region",
       "type": "nominal",
       "title": "Continent",
       "scale": {
@@ -177,11 +177,11 @@
     },
     "tooltip": [
       {
-        "field": "Continent_region",
+        "field": "Continent region",
         "title": "Continent"
       },
       {
-        "field": "Environmental_factor",
+        "field": "Environmental factor",
         "title": "Environmental Factor"
       },
       {

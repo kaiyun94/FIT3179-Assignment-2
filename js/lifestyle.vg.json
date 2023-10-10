@@ -70,8 +70,8 @@
         "input": "select",
         "options": [
           "Smoking",
-          "Drug_use",
-          "Alcohol_use"
+          "Drug use",
+          "Alcohol use"
         ]
       }
     }
@@ -99,7 +99,7 @@
         }
       ],
       "groupby": [
-        "Continent_region"
+        "Continent region"
       ]
     },
     {
@@ -115,7 +115,7 @@
         }
       ],
       "groupby": [
-        "Continent_region"
+        "Continent region"
       ]
     },
     {
@@ -140,7 +140,7 @@
       ],
       "sort": [
         {
-          "field": "Continent_region",
+          "field": "Continent region",
           "order": "descending"
         }
       ]
@@ -172,7 +172,7 @@
       "sort": "-y"
     },
     "color": {
-      "field": "Continent_region",
+      "field": "Continent region",
       "type": "nominal",
       "scale": {
         "range": [
@@ -227,7 +227,7 @@
     },
     "tooltip": [
       {
-        "field": "Continent_region",
+        "field": "Continent region",
         "type": "nominal",
         "title": "Continent"
       },
