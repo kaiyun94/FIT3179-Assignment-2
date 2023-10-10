@@ -54,25 +54,148 @@ em {
     color: red;
 }
 
+em_high {
+    font-weight: bold;
+    font-style:italic;
+    color: #e6550d;
+}
+
+em_low {
+    font-weight: bold;
+    font-style:normal;
+    color: #fdbe85;
+}
+
+em_low_i {
+    font-weight: bold;
+    font-style:italic;
+    color: #fdbe85;
+}
+
 em_i {
     font-weight: bold;
     font-style:italic;
     color: red;
 }
 
-em_m1 {
+em_high {
     font-weight: bold;
     font-style:normal;
     color: #e6550d;
-    font-size: 20px;
 }
 
-em_m2 {
+em_high_l {
+    font-size: 16px;
+    font-weight: bold;
+    font-style:normal;
+    color: #e6550d;
+}
+
+em_low {
+    font-weight: bold;
+    font-style:normal;
+    color: #fdbe85;
+}
+
+em_low_l {
+    font-size: 16px;
     font-weight: bold;
     font-style:normal;
     color:#fdbe85;
-    font-size: 20px;
 }
+
+em_blue {
+    font-weight: bold;
+    font-style:normal;
+    color: #013c58;
+}
+
+em_blue_l {
+    font-size: 16px;
+    font-weight: bold;
+    font-style:normal;
+    color: #2450ff;
+}
+
+em_blue_xl {
+    font-size: 20px;
+    font-weight: bold;
+    font-style:normal;
+    color: #2450ff;
+}
+
+em_blue_i {
+    font-weight: bold;
+    font-style:italic;
+    color: #013c58;
+}
+
+em_purple {
+    font-weight: bold;
+    font-style:normal;
+    color: #612f9e;
+}
+
+em_purple_i {
+    font-weight: bold;
+    font-style:italic;
+    color: #612f9e;
+}
+
+em_purple_l {
+    font-size: 16px;
+    font-weight: bold;
+    font-style:normal;
+    color: #612f9e;
+}
+
+em_purple_xl {
+    font-size: 20px;
+    font-weight: bold;
+    font-style:normal;
+    color: #612f9e;
+}
+
+em_brown {
+    font-weight: bold;
+    font-style:normal;
+    color: #87581f;
+}
+
+em_brown_l {
+    font-size: 16px;
+    font-weight: bold;
+    font-style:normal;
+    color: #87581f;
+}
+
+em_brown_xl {
+    font-size: 20px;
+    font-weight: bold;
+    font-style:normal;
+    color: #87581f;
+}
+
+em_rb {
+    font-weight: bold;
+    font-style:normal;
+    color: #b40404;
+}
+
+em_rb_l {
+    font-size: 16px;
+    font-weight: bold;
+    font-style:normal;
+    color: #b40404;
+}
+
+em_rb_xl {
+    font-size: 20px;
+    font-weight: bold;
+    font-style:normal;
+    color: #b40404;
+}
+
 
 h2 {
 	color: black;
