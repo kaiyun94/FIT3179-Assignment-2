@@ -76,7 +76,6 @@ p {
 
 .viz-row-container {
 	position: relative;
-	justify-content: center; 
 	display: flex;
 }
 
