@@ -28,24 +28,27 @@
     width: 40vw;
 }
 
-#parallel_coor {
+#heat_map {
     color:#fff!important;
     background-color:#000!important;
     width: 40vw;
 }
 
-/* #choropleth_map ::after, #choropleth_map ::before, #stacked_bar_chart ::after, #stacked_bar_chart ::before,
-#bubble_plot ::after, #bubble_plot ::before,
-#bar_chart ::after, #bar_chart ::before,
-#waffle_chart ::after, #waffle_chart ::before
-{
-    content:"";
-    display:table;
-    clear:both
-} */
-
 body {
     background-color: black;
+}
+
+bi {
+    font-weight: bold;
+    font-style:italic;
+    color: white;
+}
+
+bi_l {
+    font-size: 18px;
+    font-weight: bold;
+    font-style:italic;
+    color: white;
 }
 
 em {
@@ -81,27 +84,27 @@ em_i {
 em_high {
     font-weight: bold;
     font-style:normal;
-    color: #e6550d;
+    color: red;
 }
 
 em_high_l {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     font-style:normal;
-    color: #e6550d;
+    color: red;
 }
 
 em_low {
     font-weight: bold;
     font-style:normal;
-    color: #fdbe85;
+    color: orange;
 }
 
 em_low_l {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     font-style:normal;
-    color:#fdbe85;
+    color: orange;
 }
 
 em_blue {
@@ -276,6 +279,7 @@ p_i {
 
 .title {
     font-size: 30px;
+    width:"window.innerWidth";
     color: black;
     text-align: center;
     padding: 1em 0;

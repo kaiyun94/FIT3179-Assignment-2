@@ -18,7 +18,13 @@
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
       "titleColor": "white",
-      "labelColor": "white"
+      "labelColor": "white",
+      "titleFontSize":{
+        "expr": "14"
+      },
+      "labelFontSize":{
+        "expr": "12"
+      }
     },
     "header": {
       "labelFont": "monospace",
@@ -76,8 +82,8 @@
       "bind": {
       "input": "range",
       "min": 165,
-      "max": 6000,
-      "step": 20,
+      "max": 625,
+      "step": 10,
       "name": "Zoom: "
       }
     },

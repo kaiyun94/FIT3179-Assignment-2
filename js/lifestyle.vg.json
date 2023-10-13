@@ -6,19 +6,25 @@
       "stroke": "transparent"
     },
     "axis": {
-      "domain": false,
-      "ticks": false,
       "grid": false,
-      "labelFont": "sans-serif",
-      "titleFont": "sans-serif",
+      "tickBand": "center",
+      "labelBaseline": "middle",
+      "titleFontSize": 14,
       "titleColor": "white",
+      "labelFontSize": 12,
       "labelColor": "white"
     },
     "legend": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
       "titleColor": "white",
-      "labelColor": "white"
+      "labelColor": "white",
+      "titleFontSize":{
+        "expr": "14"
+      },
+      "labelFontSize":{
+        "expr": "12"
+      }
     },
     "header": {
       "labelFont": "sans-serif",

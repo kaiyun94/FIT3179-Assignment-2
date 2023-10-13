@@ -8,18 +8,25 @@
       "stroke": "transparent"
     },
     "axis": {
-      "domain": false,
       "grid": false,
-      "labelFont": "sans-serif",
-      "titleFont": "Sans-serif",
+      "tickBand": "center",
+      "labelBaseline": "middle",
+      "titleFontSize": 14,
       "titleColor": "white",
+      "labelFontSize": 12,
       "labelColor": "white"
     },
     "legend": {
       "labelFont": "sans-serif",
       "titleFont": "sans-serif",
       "titleColor": "white",
-      "labelColor": "white"
+      "labelColor": "white",
+      "titleFontSize":{
+        "expr": "14"
+      },
+      "labelFontSize":{
+        "expr": "12"
+      }
     },
     "header": {
       "labelFont": "sans-serif",
@@ -79,6 +86,11 @@
         ],
         "name": "Select a Continent: "
       }
+    },
+    {
+      "name": "continent_legend",
+      "select": {"type": "point", "fields": ["Continent region"]},
+      "bind": "legend"
     }
   ],
   "transform": [
@@ -122,6 +134,14 @@
           "type": "nominal",
           "title": "Continent",
           "scale": {
+            "domain": [
+              "Africa",
+              "Asia",
+              "Europe",
+              "North America",
+              "Oceania",
+              "South America"
+            ],
             "range": [
               "#219ebc",
               "#612f9e",
@@ -130,19 +150,16 @@
               "#87581f",
               "#b40404"
             ]
-          },
-          "legend": {
-            "title": "Continent",
-            "orient": "right",
-            "labelOffset": 3,
-            "labelFontSize": 12,
-            "titleFontSize": 14,
-            "titlePadding": 5
           }
         },
         "opacity": {
           "condition": {
-            "param": "hover",
+            "test": {
+              "or": [
+                {"param": "hover", "empty": true},
+                {"param": "continent_legend"}
+              ]
+            },
             "value": 1
           },
           "value": 0.2

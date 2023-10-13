@@ -1,0 +1,146 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "background": "black",
+    "data": {
+      "url": "https://raw.githubusercontent.com/kaiyun94/FIT3179-Assignment-2/main/data/dietPractices.csv"
+    },
+    "config": {
+      "view": {"stroke": "transparent"},
+      "axis": {
+        "grid": false,
+        "tickBand": "center",
+        "labelBaseline": "middle",
+        "titleFontSize": 14,
+        "titleColor": "white",
+        "labelFontSize": 12,
+        "labelColor": "white"
+      },
+      "legend": {
+        "labelFont": "sans-serif",
+        "titleFont": "sans-serif",
+        "titleColor": "white",
+        "labelColor": "white",
+        "titleFontSize":{
+          "expr": "14"
+        },
+        "labelFontSize":{
+          "expr": "12"
+        }
+      },
+      "header": {
+        "labelFont": "sans-serif",
+        "titleFont": "sans-serif",
+        "titleColor": "white",
+        "labelColor": "white"
+      },
+      "mark": {"font": "sans-serif"},
+      "title": {
+        "font": "sans-serif",
+        "subtitleFont": "sans-serif",
+        "color": "white",
+        "anchor": "start",
+        "fontWeight": "bold",
+        "fontSize": {"expr": "16"},
+        "subtitlePadding": {"expr": "10"}
+      },
+      "style": {
+        "label": {
+          "baseline": "middle",
+          "align": "right",
+          "dx": -5,
+          "color": "white"
+        },
+        "tick": {"orient": "horizontal"}
+      }
+    },
+    "width": 480,
+    "height": 400,
+    "layer":[
+      {
+        "mark": "rect",
+        "params": [
+          {
+            "name": "hovered",
+            "select": {
+              "type": "point",
+              "on": "mouseover"
+            }
+          }
+        ],
+
+        "encoding": {
+          "x": {
+            "field": "Continent region",
+            "type": "nominal",
+            "sort": "ascending",
+            "title": "Continent"
+          },
+          "y": {
+            "field": "Factor",
+            "type": "nominal",
+            "sort": "ascending",
+            "title": "Factor"
+          },
+          "tooltip": [
+            {"type": "nominal", "field": "Continent region"},
+            {
+              "type": "quantitative",
+              "field": "Death rate",
+              "format": ".2f"
+            },
+            {
+              "type": "quantitative",
+              "field": "normalised death rate",
+              "format": ".5f"
+            }
+          ],
+          "color": {
+            "field": "normalised death rate",
+            "type": "quantitative",
+            "scale": {
+              "type": "linear",
+              "domain": [0, 0.0005, 0.005, 0.05, 0.5, 1],
+              "scheme":"goldred"
+            },
+            "legend": {
+              "title": "Normalised Death Rate",
+              "titleFontSize": 14,
+              "titlePadding": 4,
+              "titleColor": "white",
+              "labelColor": "white"
+            }
+          },
+          "stroke": {
+            "condition": [
+              {
+                "param": "hovered",
+                "empty": false,
+                "value": "white"
+              }
+            ],
+            "value": "white"
+          },
+          "strokeWidth": {
+            "condition": [
+              {
+                "param": "hovered",
+                "empty": false,
+                "value": 0
+              }
+            ],
+            "value": 0
+          },
+          "opacity": {
+            "condition": [
+              {
+                "param": "hovered",
+                "value": 1
+              }
+            ],
+            "value": 1
+          }
+        }
+      }
+    ]
+    
+  }
