@@ -1,701 +1,701 @@
-"Country","Code","Continent.region","Year","Population","Total.Death.Rate","Average.death.rate","Factor","Death_rate","normalised death rate"
-"Afghanistan","AFG","Asia",2019,37769499,209370,61.7827,"Diet low in whole grains",10335,0.0269506986059174
-"Afghanistan","AFG","Asia",2019,37769499,209370,61.7827,"Diet low in fruits",4583,0.0119511419168766
-"Afghanistan","AFG","Asia",2019,37769499,209370,61.7827,"Diet low in nuts and seeds",3269,0.0085246089736569
-"Afghanistan","AFG","Asia",2019,37769499,209370,61.7827,"Diet low in vegetables",5148,0.0134244989282306
-"Albania","ALB","Europe",2019,2854191,28500,75.9234,"Diet low in whole grains",1520,0.00396372151727087
-"Albania","ALB","Europe",2019,2854191,28500,75.9234,"Diet low in fruits",217,0.000565873400820908
-"Albania","ALB","Europe",2019,2854191,28500,75.9234,"Diet low in nuts and seeds",379,0.000988322667793198
-"Albania","ALB","Europe",2019,2854191,28500,75.9234,"Diet low in vegetables",51,0.000132993287750536
-"Algeria","DZA","Africa",2019,42705368,248758,60.5498,"Diet low in whole grains",14772,0.038521114640214
-"Algeria","DZA","Africa",2019,42705368,248758,60.5498,"Diet low in fruits",2648,0.00690522011692978
-"Algeria","DZA","Africa",2019,42705368,248758,60.5498,"Diet low in nuts and seeds",5697,0.0148561325551922
-"Algeria","DZA","Africa",2019,42705368,248758,60.5498,"Diet low in vegetables",2741,0.00714773728871017
-"American Samoa","ASM","Oceania",2019,47321,440,67.6233,"Diet low in whole grains",16,4.1723384392325e-05
-"American Samoa","ASM","Oceania",2019,47321,440,67.6233,"Diet low in fruits",8,2.08616921961625e-05
-"American Samoa","ASM","Oceania",2019,47321,440,67.6233,"Diet low in nuts and seeds",0,0
-"American Samoa","ASM","Oceania",2019,47321,440,67.6233,"Diet low in vegetables",8,2.08616921961625e-05
-"Andorra","AND","Europe",2019,76343,461,37.9865,"Diet low in whole grains",19,4.95465189658859e-05
-"Andorra","AND","Europe",2019,76343,461,37.9865,"Diet low in fruits",5,1.30385576226016e-05
-"Andorra","AND","Europe",2019,76343,461,37.9865,"Diet low in nuts and seeds",2,5.21542304904062e-06
-"Andorra","AND","Europe",2019,76343,461,37.9865,"Diet low in vegetables",3,7.82313457356093e-06
-"Angola","AGO","Africa",2019,32353588,105877,16.5855,"Diet low in whole grains",2013,0.00524932329885939
-"Angola","AGO","Africa",2019,32353588,105877,16.5855,"Diet low in fruits",1579,0.00411757649721757
-"Angola","AGO","Africa",2019,32353588,105877,16.5855,"Diet low in nuts and seeds",449,0.00117086247450962
-"Angola","AGO","Africa",2019,32353588,105877,16.5855,"Diet low in vegetables",1325,0.00345521776998941
-"Antigua and Barbuda","ATG","North America",2019,92117,562,47.7653,"Diet low in whole grains",26,6.78004996375281e-05
-"Antigua and Barbuda","ATG","North America",2019,92117,562,47.7653,"Diet low in fruits",6,1.56462691471219e-05
-"Antigua and Barbuda","ATG","North America",2019,92117,562,47.7653,"Diet low in nuts and seeds",4,1.04308460980812e-05
-"Antigua and Barbuda","ATG","North America",2019,92117,562,47.7653,"Diet low in vegetables",8,2.08616921961625e-05
-"Argentina","ARG","South America",2019,44938712,279007,48.822,"Diet low in whole grains",11347,0.029589702668732
-"Argentina","ARG","South America",2019,44938712,279007,48.822,"Diet low in fruits",2134,0.00556485639332634
-"Argentina","ARG","South America",2019,44938712,279007,48.822,"Diet low in nuts and seeds",5374,0.0140138417327722
-"Argentina","ARG","South America",2019,44938712,279007,48.822,"Diet low in vegetables",3085,0.00804479005314516
-"Armenia","ARM","Asia",2019,2820602,36622,135.6093,"Diet low in whole grains",2446,0.00637846238897668
-"Armenia","ARM","Asia",2019,2820602,36622,135.6093,"Diet low in fruits",319,0.000831859976321979
-"Armenia","ARM","Asia",2019,2820602,36622,135.6093,"Diet low in nuts and seeds",1031,0.00268855058178044
-"Armenia","ARM","Asia",2019,2820602,36622,135.6093,"Diet low in vegetables",29,7.5623634211089e-05
-"Australia","AUS","Oceania",2019,25340217,115179,39.0565,"Diet low in whole grains",5114,0.0133358367363969
-"Australia","AUS","Oceania",2019,25340217,115179,39.0565,"Diet low in fruits",2457,0.00640714721574641
-"Australia","AUS","Oceania",2019,25340217,115179,39.0565,"Diet low in nuts and seeds",826,0.00215396971925378
-"Australia","AUS","Oceania",2019,25340217,115179,39.0565,"Diet low in vegetables",1500,0.00391156728678047
-"Austria","AUT","Europe",2019,8879920,74571,55.7437,"Diet low in whole grains",2985,0.00778401890069313
-"Austria","AUT","Europe",2019,8879920,74571,55.7437,"Diet low in fruits",662,0.00172630502923245
-"Austria","AUT","Europe",2019,8879920,74571,55.7437,"Diet low in nuts and seeds",504,0.00131428660835824
-"Austria","AUT","Europe",2019,8879920,74571,55.7437,"Diet low in vegetables",799,0.00208356150809173
-"Azerbaijan","AZE","Asia",2019,10024283,105302,106.3916,"Diet low in whole grains",7060,0.0184104433631134
-"Azerbaijan","AZE","Asia",2019,10024283,105302,106.3916,"Diet low in fruits",1393,0.00363254215365679
-"Azerbaijan","AZE","Asia",2019,10024283,105302,106.3916,"Diet low in nuts and seeds",2056,0.00536145489441376
-"Azerbaijan","AZE","Asia",2019,10024283,105302,106.3916,"Diet low in vegetables",156,0.000406802997825169
-"Bahrain","BHR","Asia",2019,1494188,5933,23.0225,"Diet low in whole grains",259,0.000675397284850761
-"Bahrain","BHR","Asia",2019,1494188,5933,23.0225,"Diet low in fruits",31,8.08390572601297e-05
-"Bahrain","BHR","Asia",2019,1494188,5933,23.0225,"Diet low in nuts and seeds",40,0.000104308460980812
-"Bahrain","BHR","Asia",2019,1494188,5933,23.0225,"Diet low in vegetables",14,3.65079613432844e-05
-"Bangladesh","BGD","Asia",2019,165516222,970115,50.8041,"Diet low in whole grains",15559,0.0405733836100115
-"Bangladesh","BGD","Asia",2019,165516222,970115,50.8041,"Diet low in fruits",29969,0.0781505066783492
-"Bangladesh","BGD","Asia",2019,165516222,970115,50.8041,"Diet low in nuts and seeds",16094,0.0419685092756299
-"Bangladesh","BGD","Asia",2019,165516222,970115,50.8041,"Diet low in vegetables",22467,0.0585874548213978
-"Barbados","BRB","North America",2019,280180,2666,71.7396,"Diet low in whole grains",98,0.000255555729402991
-"Barbados","BRB","North America",2019,280180,2666,71.7396,"Diet low in fruits",66,0.000172108960618341
-"Barbados","BRB","North America",2019,280180,2666,71.7396,"Diet low in nuts and seeds",3,7.82313457356093e-06
-"Barbados","BRB","North America",2019,280180,2666,71.7396,"Diet low in vegetables",34,8.86621918336906e-05
-"Belarus","BLR","Europe",2019,9419758,153255,228.3817,"Diet low in whole grains",12391,0.0323121535003312
-"Belarus","BLR","Europe",2019,9419758,153255,228.3817,"Diet low in fruits",3574,0.00931996098863559
-"Belarus","BLR","Europe",2019,9419758,153255,228.3817,"Diet low in nuts and seeds",4509,0.0117581712640621
-"Belarus","BLR","Europe",2019,9419758,153255,228.3817,"Diet low in vegetables",1039,0.0027094122739766
-"Belgium","BEL","Europe",2019,11488980,86707,49.3603,"Diet low in whole grains",3346,0.00872540276104496
-"Belgium","BEL","Europe",2019,11488980,86707,49.3603,"Diet low in fruits",1316,0.00343174836626873
-"Belgium","BEL","Europe",2019,11488980,86707,49.3603,"Diet low in nuts and seeds",437,0.00113956993621538
-"Belgium","BEL","Europe",2019,11488980,86707,49.3603,"Diet low in vegetables",572,0.00149161099202562
-"Belize","BLZ","North America",2019,389095,1612,19.7895,"Diet low in whole grains",48,0.000125170153176975
-"Belize","BLZ","North America",2019,389095,1612,19.7895,"Diet low in fruits",3,7.82313457356093e-06
-"Belize","BLZ","North America",2019,389095,1612,19.7895,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Belize","BLZ","North America",2019,389095,1612,19.7895,"Diet low in vegetables",25,6.51927881130078e-05
-"Benin","BEN","Africa",2019,12290444,54239,18.7544,"Diet low in whole grains",794,0.00207052295046913
-"Benin","BEN","Africa",2019,12290444,54239,18.7544,"Diet low in fruits",918,0.00239387917950965
-"Benin","BEN","Africa",2019,12290444,54239,18.7544,"Diet low in nuts and seeds",49,0.000127777864701495
-"Benin","BEN","Africa",2019,12290444,54239,18.7544,"Diet low in vegetables",544,0.00141859506933905
-"Bermuda","BMU","North America",2019,63911,469,70.4104,"Diet low in whole grains",25,6.51927881130078e-05
-"Bermuda","BMU","North America",2019,63911,469,70.4104,"Diet low in fruits",10,2.60771152452031e-05
-"Bermuda","BMU","North America",2019,63911,469,70.4104,"Diet low in nuts and seeds",4,1.04308460980812e-05
-"Bermuda","BMU","North America",2019,63911,469,70.4104,"Diet low in vegetables",6,1.56462691471219e-05
-"Bhutan","BTN","Asia",2019,767459,3938,39.6112,"Diet low in whole grains",105,0.000273809710074633
-"Bhutan","BTN","Asia",2019,767459,3938,39.6112,"Diet low in fruits",84,0.000219047768059706
-"Bhutan","BTN","Asia",2019,767459,3938,39.6112,"Diet low in nuts and seeds",50,0.000130385576226016
-"Bhutan","BTN","Asia",2019,767459,3938,39.6112,"Diet low in vegetables",65,0.00016950124909382
-"Bolivia","BOL","South America",2019,11777315,53929,29.0898,"Diet low in whole grains",1604,0.00418276928533058
-"Bolivia","BOL","South America",2019,11777315,53929,29.0898,"Diet low in fruits",824,0.00214875429620474
-"Bolivia","BOL","South America",2019,11777315,53929,29.0898,"Diet low in nuts and seeds",77,0.000200793787388064
-"Bolivia","BOL","South America",2019,11777315,53929,29.0898,"Diet low in vegetables",921,0.00240170231408321
-"Bosnia and Herzegovina","BIH","Europe",2019,3360711,54412,103.3115,"Diet low in whole grains",1698,0.00442789416863549
-"Bosnia and Herzegovina","BIH","Europe",2019,3360711,54412,103.3115,"Diet low in fruits",742,0.00193492195119407
-"Bosnia and Herzegovina","BIH","Europe",2019,3360711,54412,103.3115,"Diet low in nuts and seeds",810,0.00211224633486145
-"Bosnia and Herzegovina","BIH","Europe",2019,3360711,54412,103.3115,"Diet low in vegetables",222,0.000578911958443509
-"Botswana","BWA","Africa",2019,2499702,15296,46.4055,"Diet low in whole grains",318,0.000829252264797459
-"Botswana","BWA","Africa",2019,2499702,15296,46.4055,"Diet low in fruits",421,0.00109784655182305
-"Botswana","BWA","Africa",2019,2499702,15296,46.4055,"Diet low in nuts and seeds",199,0.000518934593379542
-"Botswana","BWA","Africa",2019,2499702,15296,46.4055,"Diet low in vegetables",222,0.000578911958443509
-"Brazil","BRA","South America",2019,211782878,1152449,29.8679,"Diet low in whole grains",33250,0.0867064081903004
-"Brazil","BRA","South America",2019,211782878,1152449,29.8679,"Diet low in fruits",11488,0.0299573899936893
-"Brazil","BRA","South America",2019,211782878,1152449,29.8679,"Diet low in nuts and seeds",816,0.00212789260400857
-"Brazil","BRA","South America",2019,211782878,1152449,29.8679,"Diet low in vegetables",17701,0.046159101695534
-"Bulgaria","BGR","Europe",2019,6975761,177175,194.0433,"Diet low in whole grains",7343,0.0191484257245526
-"Bulgaria","BGR","Europe",2019,6975761,177175,194.0433,"Diet low in fruits",3361,0.00876451843391277
-"Bulgaria","BGR","Europe",2019,6975761,177175,194.0433,"Diet low in nuts and seeds",2269,0.00591689744913659
-"Bulgaria","BGR","Europe",2019,6975761,177175,194.0433,"Diet low in vegetables",563,0.00146814158830494
-"Burkina Faso","BFA","Africa",2019,20951639,116939,27.0957,"Diet low in whole grains",1869,0.00487381283932846
-"Burkina Faso","BFA","Africa",2019,20951639,116939,27.0957,"Diet low in fruits",2223,0.00579694271900865
-"Burkina Faso","BFA","Africa",2019,20951639,116939,27.0957,"Diet low in nuts and seeds",98,0.000255555729402991
-"Burkina Faso","BFA","Africa",2019,20951639,116939,27.0957,"Diet low in vegetables",1487,0.0038776670369617
-"Burundi","BDI","Africa",2019,11874838,55599,21.3898,"Diet low in whole grains",955,0.0024903645059169
-"Burundi","BDI","Africa",2019,11874838,55599,21.3898,"Diet low in fruits",317,0.000826644553272939
-"Burundi","BDI","Africa",2019,11874838,55599,21.3898,"Diet low in nuts and seeds",471,0.00122823212804907
-"Burundi","BDI","Africa",2019,11874838,55599,21.3898,"Diet low in vegetables",797,0.00207834608504269
-"Cambodia","KHM","Asia",2019,16207746,113008,39.4873,"Diet low in whole grains",1319,0.00343957150084229
-"Cambodia","KHM","Asia",2019,16207746,113008,39.4873,"Diet low in fruits",2836,0.0073954698835396
-"Cambodia","KHM","Asia",2019,16207746,113008,39.4873,"Diet low in nuts and seeds",166,0.000432880113070372
-"Cambodia","KHM","Asia",2019,16207746,113008,39.4873,"Diet low in vegetables",2079,0.00542143225947773
-"Cameroon","CMR","Africa",2019,25782341,128405,16.3717,"Diet low in whole grains",1989,0.0051867382222709
-"Cameroon","CMR","Africa",2019,25782341,128405,16.3717,"Diet low in fruits",1203,0.00313707696399793
-"Cameroon","CMR","Africa",2019,25782341,128405,16.3717,"Diet low in nuts and seeds",34,8.86621918336906e-05
-"Cameroon","CMR","Africa",2019,25782341,128405,16.3717,"Diet low in vegetables",995,0.00259467296689771
-"Canada","CAN","North America",2019,37601230,212170,41.0093,"Diet low in whole grains",9228,0.0240639619482734
-"Canada","CAN","North America",2019,37601230,212170,41.0093,"Diet low in fruits",3645,0.00950510850687654
-"Canada","CAN","North America",2019,37601230,212170,41.0093,"Diet low in nuts and seeds",296,0.000771882611258012
-"Canada","CAN","North America",2019,37601230,212170,41.0093,"Diet low in vegetables",2251,0.00586995864169522
-"Central African Republic","CAF","Africa",2019,5209324,40797,33.1713,"Diet low in whole grains",554,0.00144467218458425
-"Central African Republic","CAF","Africa",2019,5209324,40797,33.1713,"Diet low in fruits",591,0.0015411575109915
-"Central African Republic","CAF","Africa",2019,5209324,40797,33.1713,"Diet low in nuts and seeds",13,3.3900249818764e-05
-"Central African Republic","CAF","Africa",2019,5209324,40797,33.1713,"Diet low in vegetables",570,0.00148639556897658
-"Chad","TCD","Africa",2019,16126866,102015,25.8017,"Diet low in whole grains",1615,0.0042114541121003
-"Chad","TCD","Africa",2019,16126866,102015,25.8017,"Diet low in fruits",1363,0.00355431080792118
-"Chad","TCD","Africa",2019,16126866,102015,25.8017,"Diet low in nuts and seeds",165,0.000430272401545851
-"Chad","TCD","Africa",2019,16126866,102015,25.8017,"Diet low in vegetables",1018,0.00265465033196168
-"Chile","CHL","South America",2019,19039485,98543,32.3276,"Diet low in whole grains",3143,0.00819603732156734
-"Chile","CHL","South America",2019,19039485,98543,32.3276,"Diet low in fruits",1389,0.00362211130755871
-"Chile","CHL","South America",2019,19039485,98543,32.3276,"Diet low in nuts and seeds",984,0.00256598814012799
-"Chile","CHL","South America",2019,19039485,98543,32.3276,"Diet low in vegetables",639,0.00166632766416848
-"China","CHN","Asia",2019,1407745000,13409833,50.905,"Diet low in whole grains",383478,1
-"China","CHN","Asia",2019,1407745000,13409833,50.905,"Diet low in fruits",231120,0.602694287547134
-"China","CHN","Asia",2019,1407745000,13409833,50.905,"Diet low in nuts and seeds",86309,0.225068973969824
-"China","CHN","Asia",2019,1407745000,13409833,50.905,"Diet low in vegetables",15706,0.040956717204116
-"Colombia","COL","South America",2019,50187406,191401,31.0496,"Diet low in whole grains",7112,0.0185460443623885
-"Colombia","COL","South America",2019,50187406,191401,31.0496,"Diet low in fruits",2202,0.00574218077699373
-"Colombia","COL","South America",2019,50187406,191401,31.0496,"Diet low in nuts and seeds",2834,0.00739025446049056
-"Colombia","COL","South America",2019,50187406,191401,31.0496,"Diet low in vegetables",3435,0.00895748908672727
-"Comoros","COM","Africa",2019,790986,3767,30.2155,"Diet low in whole grains",90,0.000234694037206828
-"Comoros","COM","Africa",2019,790986,3767,30.2155,"Diet low in fruits",52,0.000135600999275056
-"Comoros","COM","Africa",2019,790986,3767,30.2155,"Diet low in nuts and seeds",16,4.1723384392325e-05
-"Comoros","COM","Africa",2019,790986,3767,30.2155,"Diet low in vegetables",81,0.000211224633486145
-"Costa Rica","CRI","North America",2019,5084532,19431,29.9929,"Diet low in whole grains",796,0.00207573837351817
-"Costa Rica","CRI","North America",2019,5084532,19431,29.9929,"Diet low in fruits",161,0.00041984155544777
-"Costa Rica","CRI","North America",2019,5084532,19431,29.9929,"Diet low in nuts and seeds",222,0.000578911958443509
-"Costa Rica","CRI","North America",2019,5084532,19431,29.9929,"Diet low in vegetables",346,0.000902268187484028
-"Cote d'Ivoire","CIV","Africa",2019,26147551,111121,18.4606,"Diet low in whole grains",2084,0.00543447081710033
-"Cote d'Ivoire","CIV","Africa",2019,26147551,111121,18.4606,"Diet low in fruits",1317,0.00343435607779325
-"Cote d'Ivoire","CIV","Africa",2019,26147551,111121,18.4606,"Diet low in nuts and seeds",43,0.000112131595554373
-"Cote d'Ivoire","CIV","Africa",2019,26147551,111121,18.4606,"Diet low in vegetables",1383,0.00360646503841159
-"Croatia","HRV","Europe",2019,4065253,63838,121.3701,"Diet low in whole grains",2642,0.00688957384778266
-"Croatia","HRV","Europe",2019,4065253,63838,121.3701,"Diet low in fruits",795,0.00207313066199365
-"Croatia","HRV","Europe",2019,4065253,63838,121.3701,"Diet low in nuts and seeds",822,0.0021435388731557
-"Croatia","HRV","Europe",2019,4065253,63838,121.3701,"Diet low in vegetables",675,0.00176020527905121
-"Cuba","CUB","North America",2019,11316697,100247,57.9674,"Diet low in whole grains",4112,0.0107229097888275
-"Cuba","CUB","North America",2019,11316697,100247,57.9674,"Diet low in fruits",1113,0.00290238292679111
-"Cuba","CUB","North America",2019,11316697,100247,57.9674,"Diet low in nuts and seeds",324,0.000844898533944581
-"Cuba","CUB","North America",2019,11316697,100247,57.9674,"Diet low in vegetables",1011,0.00263639635129003
-"Cyprus","CYP","Asia",2019,1228836,8293,50.3729,"Diet low in whole grains",393,0.00102483062913648
-"Cyprus","CYP","Asia",2019,1228836,8293,50.3729,"Diet low in fruits",102,0.000265986575501072
-"Cyprus","CYP","Asia",2019,1228836,8293,50.3729,"Diet low in nuts and seeds",28,7.30159226865687e-05
-"Cyprus","CYP","Asia",2019,1228836,8293,50.3729,"Diet low in vegetables",96,0.00025034030635395
-"Czechia","CZE","Europe",2019,10671870,133620,105.6891,"Diet low in whole grains",5058,0.0131898048910237
-"Czechia","CZE","Europe",2019,10671870,133620,105.6891,"Diet low in fruits",2469,0.00643843975404065
-"Czechia","CZE","Europe",2019,10671870,133620,105.6891,"Diet low in nuts and seeds",1929,0.00503027553079968
-"Czechia","CZE","Europe",2019,10671870,133620,105.6891,"Diet low in vegetables",1823,0.00475385810920053
-"Denmark","DNK","Europe",2019,5814422,43825,51.8194,"Diet low in whole grains",1774,0.00462608024449903
-"Denmark","DNK","Europe",2019,5814422,43825,51.8194,"Diet low in fruits",504,0.00131428660835824
-"Denmark","DNK","Europe",2019,5814422,43825,51.8194,"Diet low in nuts and seeds",369,0.000962245552547995
-"Denmark","DNK","Europe",2019,5814422,43825,51.8194,"Diet low in vegetables",366,0.000954422417974434
-"Djibouti","DJI","Africa",2019,1073994,4551,36.5924,"Diet low in whole grains",127,0.00033117936361408
-"Djibouti","DJI","Africa",2019,1073994,4551,36.5924,"Diet low in fruits",139,0.000362471901908323
-"Djibouti","DJI","Africa",2019,1073994,4551,36.5924,"Diet low in nuts and seeds",55,0.000143424133848617
-"Djibouti","DJI","Africa",2019,1073994,4551,36.5924,"Diet low in vegetables",72,0.000187755229765462
-"Dominica","DMA","North America",2019,71428,635,51.8004,"Diet low in whole grains",29,7.5623634211089e-05
-"Dominica","DMA","North America",2019,71428,635,51.8004,"Diet low in fruits",1,2.60771152452031e-06
-"Dominica","DMA","North America",2019,71428,635,51.8004,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Dominica","DMA","North America",2019,71428,635,51.8004,"Diet low in vegetables",6,1.56462691471219e-05
-"Dominican Republic","DOM","North America",2019,10881882,65898,41.3348,"Diet low in whole grains",2789,0.00727290744188715
-"Dominican Republic","DOM","North America",2019,10881882,65898,41.3348,"Diet low in fruits",269,0.000701474400095964
-"Dominican Republic","DOM","North America",2019,10881882,65898,41.3348,"Diet low in nuts and seeds",116,0.000302494536844356
-"Dominican Republic","DOM","North America",2019,10881882,65898,41.3348,"Diet low in vegetables",1324,0.00345261005846489
-"Ecuador","ECU","South America",2019,17343740,68009,28.5809,"Diet low in whole grains",2295,0.00598469794877411
-"Ecuador","ECU","South America",2019,17343740,68009,28.5809,"Diet low in fruits",331,0.000863152514616223
-"Ecuador","ECU","South America",2019,17343740,68009,28.5809,"Diet low in nuts and seeds",1111,0.00289716750374207
-"Ecuador","ECU","South America",2019,17343740,68009,28.5809,"Diet low in vegetables",1220,0.00318140805991478
-"El Salvador","SLV","North America",2019,6280217,33639,35.1739,"Diet low in whole grains",1082,0.00282154386953098
-"El Salvador","SLV","North America",2019,6280217,33639,35.1739,"Diet low in fruits",553,0.00144206447305973
-"El Salvador","SLV","North America",2019,6280217,33639,35.1739,"Diet low in nuts and seeds",58,0.000151247268422178
-"El Salvador","SLV","North America",2019,6280217,33639,35.1739,"Diet low in vegetables",516,0.00134557914665248
-"Equatorial Guinea","GNQ","Africa",2019,1553031,3674,10.3024,"Diet low in whole grains",69,0.000179932095191901
-"Equatorial Guinea","GNQ","Africa",2019,1553031,3674,10.3024,"Diet low in fruits",34,8.86621918336906e-05
-"Equatorial Guinea","GNQ","Africa",2019,1553031,3674,10.3024,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Equatorial Guinea","GNQ","Africa",2019,1553031,3674,10.3024,"Diet low in vegetables",56,0.000146031845373137
-"Eritrea","ERI","Africa",2019,3498818,28504,48.1877,"Diet low in whole grains",485,0.00126474008939235
-"Eritrea","ERI","Africa",2019,3498818,28504,48.1877,"Diet low in fruits",555,0.00144727989610877
-"Eritrea","ERI","Africa",2019,3498818,28504,48.1877,"Diet low in nuts and seeds",152,0.000396372151727087
-"Eritrea","ERI","Africa",2019,3498818,28504,48.1877,"Diet low in vegetables",494,0.00128820949311303
-"Estonia","EST","Europe",2019,1326898,16275,123.8226,"Diet low in whole grains",789,0.00205748439284653
-"Estonia","EST","Europe",2019,1326898,16275,123.8226,"Diet low in fruits",302,0.000787528880405134
-"Estonia","EST","Europe",2019,1326898,16275,123.8226,"Diet low in nuts and seeds",364,0.000949206994925393
-"Estonia","EST","Europe",2019,1326898,16275,123.8226,"Diet low in vegetables",188,0.000490249766609819
-"Eswatini","SWZ","Africa",2019,1169613,7449,32.3184,"Diet low in whole grains",107,0.000279025133123673
-"Eswatini","SWZ","Africa",2019,1169613,7449,32.3184,"Diet low in fruits",150,0.000391156728678047
-"Eswatini","SWZ","Africa",2019,1169613,7449,32.3184,"Diet low in nuts and seeds",17,4.43310959168453e-05
-"Eswatini","SWZ","Africa",2019,1169613,7449,32.3184,"Diet low in vegetables",104,0.000271201998550112
-"Ethiopia","ETH","Africa",2019,114120594,347063,19.5066,"Diet low in whole grains",6495,0.0169370863517594
-"Ethiopia","ETH","Africa",2019,114120594,347063,19.5066,"Diet low in fruits",7703,0.02008720187338
-"Ethiopia","ETH","Africa",2019,114120594,347063,19.5066,"Diet low in nuts and seeds",3192,0.00832381518626883
-"Ethiopia","ETH","Africa",2019,114120594,347063,19.5066,"Diet low in vegetables",4871,0.0127021628359384
-"Fiji","FJI","Oceania",2019,918465,11174,103.3246,"Diet low in whole grains",416,0.00108480799420045
-"Fiji","FJI","Oceania",2019,918465,11174,103.3246,"Diet low in fruits",353,0.00092052216815567
-"Fiji","FJI","Oceania",2019,918465,11174,103.3246,"Diet low in nuts and seeds",14,3.65079613432844e-05
-"Fiji","FJI","Oceania",2019,918465,11174,103.3246,"Diet low in vegetables",166,0.000432880113070372
-"Finland","FIN","Europe",2019,5521606,48634,100.7316,"Diet low in whole grains",2617,0.00682438105966966
-"Finland","FIN","Europe",2019,5521606,48634,100.7316,"Diet low in fruits",1046,0.00272766625464825
-"Finland","FIN","Europe",2019,5521606,48634,100.7316,"Diet low in nuts and seeds",1038,0.00270680456245208
-"Finland","FIN","Europe",2019,5521606,48634,100.7316,"Diet low in vegetables",861,0.00224523962261199
-"France","FRA","Europe",2019,67388001,402771,51.481,"Diet low in whole grains",18559,0.0483965181835725
-"France","FRA","Europe",2019,67388001,402771,51.481,"Diet low in fruits",7900,0.0206009210437105
-"France","FRA","Europe",2019,67388001,402771,51.481,"Diet low in nuts and seeds",3557,0.00927562989271875
-"France","FRA","Europe",2019,67388001,402771,51.481,"Diet low in vegetables",4676,0.012193659088657
-"Gabon","GAB","Africa",2019,2242785,8831,17.2107,"Diet low in whole grains",182,0.000474603497462697
-"Gabon","GAB","Africa",2019,2242785,8831,17.2107,"Diet low in fruits",51,0.000132993287750536
-"Gabon","GAB","Africa",2019,2242785,8831,17.2107,"Diet low in nuts and seeds",5,1.30385576226016e-05
-"Gabon","GAB","Africa",2019,2242785,8831,17.2107,"Diet low in vegetables",148,0.000385941305629006
-"Georgia","GEO","Asia",2019,3720161,69032,188.9703,"Diet low in whole grains",3770,0.00983107244744157
-"Georgia","GEO","Asia",2019,3720161,69032,188.9703,"Diet low in fruits",1462,0.0038124742488487
-"Georgia","GEO","Asia",2019,3720161,69032,188.9703,"Diet low in nuts and seeds",1039,0.0027094122739766
-"Georgia","GEO","Asia",2019,3720161,69032,188.9703,"Diet low in vegetables",759,0.00197925304711092
-"Germany","DEU","Europe",2019,83092962,879851,73.3624,"Diet low in whole grains",33593,0.0876008532432108
-"Germany","DEU","Europe",2019,83092962,879851,73.3624,"Diet low in fruits",12908,0.0336603403585082
-"Germany","DEU","Europe",2019,83092962,879851,73.3624,"Diet low in nuts and seeds",4569,0.0119146339555333
-"Germany","DEU","Europe",2019,83092962,879851,73.3624,"Diet low in vegetables",9889,0.0257876592659814
-"Ghana","GHA","Africa",2019,31522290,145698,20.725,"Diet low in whole grains",3438,0.00896531222130083
-"Ghana","GHA","Africa",2019,31522290,145698,20.725,"Diet low in fruits",915,0.00238605604493608
-"Ghana","GHA","Africa",2019,31522290,145698,20.725,"Diet low in nuts and seeds",54,0.000140816422324097
-"Ghana","GHA","Africa",2019,31522290,145698,20.725,"Diet low in vegetables",2126,0.00554399470113018
-"Greece","GRC","Europe",2019,10721582,118223,83.5231,"Diet low in whole grains",7431,0.0193779043387104
-"Greece","GRC","Europe",2019,10721582,118223,83.5231,"Diet low in fruits",678,0.00176802841362477
-"Greece","GRC","Europe",2019,10721582,118223,83.5231,"Diet low in nuts and seeds",567,0.00147857243440302
-"Greece","GRC","Europe",2019,10721582,118223,83.5231,"Diet low in vegetables",279,0.000727551515341167
-"Greenland","GRL","North America",2019,56225,391,39.1285,"Diet low in whole grains",13,3.3900249818764e-05
-"Greenland","GRL","North America",2019,56225,391,39.1285,"Diet low in fruits",6,1.56462691471219e-05
-"Greenland","GRL","North America",2019,56225,391,39.1285,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Greenland","GRL","North America",2019,56225,391,39.1285,"Diet low in vegetables",2,5.21542304904062e-06
-"Grenada","GRD","North America",2019,122724,787,48.0754,"Diet low in whole grains",33,8.60544803091703e-05
-"Grenada","GRD","North America",2019,122724,787,48.0754,"Diet low in fruits",8,2.08616921961625e-05
-"Grenada","GRD","North America",2019,122724,787,48.0754,"Diet low in nuts and seeds",4,1.04308460980812e-05
-"Grenada","GRD","North America",2019,122724,787,48.0754,"Diet low in vegetables",14,3.65079613432844e-05
-"Guam","GUM","Oceania",2019,168624,1226,62.8618,"Diet low in whole grains",63,0.00016428582604478
-"Guam","GUM","Oceania",2019,168624,1226,62.8618,"Diet low in fruits",16,4.1723384392325e-05
-"Guam","GUM","Oceania",2019,168624,1226,62.8618,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Guam","GUM","Oceania",2019,168624,1226,62.8618,"Diet low in vegetables",26,6.78004996375281e-05
-"Guatemala","GTM","North America",2019,16604026,72155,25.3192,"Diet low in whole grains",1826,0.00476168124377409
-"Guatemala","GTM","North America",2019,16604026,72155,25.3192,"Diet low in fruits",1145,0.00298582969557576
-"Guatemala","GTM","North America",2019,16604026,72155,25.3192,"Diet low in nuts and seeds",371,0.000967460975597036
-"Guatemala","GTM","North America",2019,16604026,72155,25.3192,"Diet low in vegetables",862,0.00224784733413651
-"Guinea","GIN","Africa",2019,12877539,68799,19.5224,"Diet low in whole grains",989,0.00257902669775059
-"Guinea","GIN","Africa",2019,12877539,68799,19.5224,"Diet low in fruits",653,0.00170283562551176
-"Guinea","GIN","Africa",2019,12877539,68799,19.5224,"Diet low in nuts and seeds",39,0.000101700749456292
-"Guinea","GIN","Africa",2019,12877539,68799,19.5224,"Diet low in vegetables",833,0.00217222369992542
-"Guinea-Bissau","GNB","Africa",2019,1970457,10013,25.9331,"Diet low in whole grains",158,0.000412018420874209
-"Guinea-Bissau","GNB","Africa",2019,1970457,10013,25.9331,"Diet low in fruits",172,0.000448526382217494
-"Guinea-Bissau","GNB","Africa",2019,1970457,10013,25.9331,"Diet low in nuts and seeds",5,1.30385576226016e-05
-"Guinea-Bissau","GNB","Africa",2019,1970457,10013,25.9331,"Diet low in vegetables",176,0.000458957228315575
-"Guyana","GUY","South America",2019,798753,6902,62.848,"Diet low in whole grains",216,0.000563265689296387
-"Guyana","GUY","South America",2019,798753,6902,62.848,"Diet low in fruits",164,0.000427664690021331
-"Guyana","GUY","South America",2019,798753,6902,62.848,"Diet low in nuts and seeds",10,2.60771152452031e-05
-"Guyana","GUY","South America",2019,798753,6902,62.848,"Diet low in vegetables",112,0.000292063690746275
-"Haiti","HTI","North America",2019,11160438,85291,54.7111,"Diet low in whole grains",2417,0.00630283875476559
-"Haiti","HTI","North America",2019,11160438,85291,54.7111,"Diet low in fruits",1510,0.00393764440202567
-"Haiti","HTI","North America",2019,11160438,85291,54.7111,"Diet low in nuts and seeds",305,0.000795352014978695
-"Haiti","HTI","North America",2019,11160438,85291,54.7111,"Diet low in vegetables",1874,0.00488685139695106
-"Honduras","HND","North America",2019,9958829,48852,34.7732,"Diet low in whole grains",1224,0.00319183890601286
-"Honduras","HND","North America",2019,9958829,48852,34.7732,"Diet low in fruits",747,0.00194796050881667
-"Honduras","HND","North America",2019,9958829,48852,34.7732,"Diet low in nuts and seeds",699,0.0018227903556397
-"Honduras","HND","North America",2019,9958829,48852,34.7732,"Diet low in vegetables",793,0.00206791523894461
-"Hungary","HUN","Europe",2019,9771141,162490,147.2909,"Diet low in whole grains",7228,0.0188485388992328
-"Hungary","HUN","Europe",2019,9771141,162490,147.2909,"Diet low in fruits",2780,0.00724943803816647
-"Hungary","HUN","Europe",2019,9771141,162490,147.2909,"Diet low in nuts and seeds",3327,0.00867585624207908
-"Hungary","HUN","Europe",2019,9771141,162490,147.2909,"Diet low in vegetables",1057,0.00275635108141797
-"Iceland","ISL","Europe",2019,360563,1598,47.9805,"Diet low in whole grains",88,0.000229478614157787
-"Iceland","ISL","Europe",2019,360563,1598,47.9805,"Diet low in fruits",33,8.60544803091703e-05
-"Iceland","ISL","Europe",2019,360563,1598,47.9805,"Diet low in nuts and seeds",23,5.99773650639672e-05
-"Iceland","ISL","Europe",2019,360563,1598,47.9805,"Diet low in vegetables",29,7.5623634211089e-05
-"India","IND","Asia",2019,1383112050,9986827,58.7565,"Diet low in whole grains",258257,0.673459755188042
-"India","IND","Asia",2019,1383112050,9986827,58.7565,"Diet low in fruits",256232,0.668179139350888
-"India","IND","Asia",2019,1383112050,9986827,58.7565,"Diet low in nuts and seeds",164172,0.428113216403549
-"India","IND","Asia",2019,1383112050,9986827,58.7565,"Diet low in vegetables",134007,0.349451598266393
-"Indonesia","IDN","Asia",2019,269582878,1914553,45.3245,"Diet low in whole grains",38678,0.100861066345397
-"Indonesia","IDN","Asia",2019,269582878,1914553,45.3245,"Diet low in fruits",46157,0.120364140837284
-"Indonesia","IDN","Asia",2019,269582878,1914553,45.3245,"Diet low in nuts and seeds",1810,0.00471995785938176
-"Indonesia","IDN","Asia",2019,269582878,1914553,45.3245,"Diet low in vegetables",35542,0.0926832830045009
-"Iraq","IRQ","Asia",2019,41563520,250157,56.54,"Diet low in whole grains",11803,0.0307788191239132
-"Iraq","IRQ","Asia",2019,41563520,250157,56.54,"Diet low in fruits",4485,0.0116955861874736
-"Iraq","IRQ","Asia",2019,41563520,250157,56.54,"Diet low in nuts and seeds",6172,0.0160947955293394
-"Iraq","IRQ","Asia",2019,41563520,250157,56.54,"Diet low in vegetables",1040,0.00271201998550112
-"Ireland","IRL","Europe",2019,4934340,25504,39.4379,"Diet low in whole grains",954,0.00248775679439238
-"Ireland","IRL","Europe",2019,4934340,25504,39.4379,"Diet low in fruits",448,0.0011682547629851
-"Ireland","IRL","Europe",2019,4934340,25504,39.4379,"Diet low in nuts and seeds",273,0.000711905246194045
-"Ireland","IRL","Europe",2019,4934340,25504,39.4379,"Diet low in vegetables",271,0.000706689823145004
-"Israel","ISR","Asia",2019,9054000,37688,23.5255,"Diet low in whole grains",1869,0.00487381283932846
-"Israel","ISR","Asia",2019,9054000,37688,23.5255,"Diet low in fruits",184,0.000479818920511737
-"Israel","ISR","Asia",2019,9054000,37688,23.5255,"Diet low in nuts and seeds",37,9.64853264072515e-05
-"Israel","ISR","Asia",2019,9054000,37688,23.5255,"Diet low in vegetables",40,0.000104308460980812
-"Italy","ITA","Europe",2019,59729081,558249,76.6092,"Diet low in whole grains",32194,0.0839526648204069
-"Italy","ITA","Europe",2019,59729081,558249,76.6092,"Diet low in fruits",4228,0.0110254043256719
-"Italy","ITA","Europe",2019,59729081,558249,76.6092,"Diet low in nuts and seeds",5401,0.0140842499439342
-"Italy","ITA","Europe",2019,59729081,558249,76.6092,"Diet low in vegetables",3935,0.0102613448489874
-"Jamaica","JAM","North America",2019,2813773,19347,42.1498,"Diet low in whole grains",645,0.0016819739333156
-"Jamaica","JAM","North America",2019,2813773,19347,42.1498,"Diet low in fruits",288,0.00075102091906185
-"Jamaica","JAM","North America",2019,2813773,19347,42.1498,"Diet low in nuts and seeds",32,8.344676878465e-05
-"Jamaica","JAM","North America",2019,2813773,19347,42.1498,"Diet low in vegetables",221,0.000576304246918989
-"Japan","JPN","Asia",2019,126633000,842925,51.7732,"Diet low in whole grains",30877,0.0805183087426137
-"Japan","JPN","Asia",2019,126633000,842925,51.7732,"Diet low in fruits",19206,0.0500837075399371
-"Japan","JPN","Asia",2019,126633000,842925,51.7732,"Diet low in nuts and seeds",12031,0.0313733773515039
-"Japan","JPN","Asia",2019,126633000,842925,51.7732,"Diet low in vegetables",3448,0.00899138933654603
-"Jordan","JOR","Asia",2019,10698683,38837,28.7699,"Diet low in whole grains",2044,0.00533016235611952
-"Jordan","JOR","Asia",2019,10698683,38837,28.7699,"Diet low in fruits",564,0.00147074929982946
-"Jordan","JOR","Asia",2019,10698683,38837,28.7699,"Diet low in nuts and seeds",173,0.000451134093742014
-"Jordan","JOR","Asia",2019,10698683,38837,28.7699,"Diet low in vegetables",297,0.000774490322782533
-"Kazakhstan","KAZ","Asia",2019,18513673,173146,87.6541,"Diet low in whole grains",9455,0.0246559124643395
-"Kazakhstan","KAZ","Asia",2019,18513673,173146,87.6541,"Diet low in fruits",3450,0.00899660475959507
-"Kazakhstan","KAZ","Asia",2019,18513673,173146,87.6541,"Diet low in nuts and seeds",2949,0.0076901412858104
-"Kazakhstan","KAZ","Asia",2019,18513673,173146,87.6541,"Diet low in vegetables",374,0.000975284110170596
-"Kenya","KEN","Africa",2019,50951450,175566,17.817,"Diet low in whole grains",2724,0.00710340619279333
-"Kenya","KEN","Africa",2019,50951450,175566,17.817,"Diet low in fruits",3079,0.00802914378399804
-"Kenya","KEN","Africa",2019,50951450,175566,17.817,"Diet low in nuts and seeds",1120,0.00292063690746275
-"Kenya","KEN","Africa",2019,50951450,175566,17.817,"Diet low in vegetables",2155,0.00561961833534127
-"Kiribati","KIR","Oceania",2019,124241,1521,86.1229,"Diet low in whole grains",44,0.000114739307078894
-"Kiribati","KIR","Oceania",2019,124241,1521,86.1229,"Diet low in fruits",32,8.344676878465e-05
-"Kiribati","KIR","Oceania",2019,124241,1521,86.1229,"Diet low in nuts and seeds",3,7.82313457356093e-06
-"Kiribati","KIR","Oceania",2019,124241,1521,86.1229,"Diet low in vegetables",28,7.30159226865687e-05
-"Kuwait","KWT","Asia",2019,4441100,13402,21.256,"Diet low in whole grains",619,0.00161417343367807
-"Kuwait","KWT","Asia",2019,4441100,13402,21.256,"Diet low in fruits",173,0.000451134093742014
-"Kuwait","KWT","Asia",2019,4441100,13402,21.256,"Diet low in nuts and seeds",127,0.00033117936361408
-"Kuwait","KWT","Asia",2019,4441100,13402,21.256,"Diet low in vegetables",25,6.51927881130078e-05
-"Latvia","LVA","Europe",2019,1913822,30631,193.0692,"Diet low in whole grains",1847,0.00481644318578902
-"Latvia","LVA","Europe",2019,1913822,30631,193.0692,"Diet low in fruits",817,0.00213050031553309
-"Latvia","LVA","Europe",2019,1913822,30631,193.0692,"Diet low in nuts and seeds",650,0.0016950124909382
-"Latvia","LVA","Europe",2019,1913822,30631,193.0692,"Diet low in vegetables",381,0.000993538090842239
-"Lebanon","LBN","Asia",2019,5781907,45273,59.2884,"Diet low in whole grains",3146,0.0082038604561409
-"Lebanon","LBN","Asia",2019,5781907,45273,59.2884,"Diet low in fruits",160,0.00041723384392325
-"Lebanon","LBN","Asia",2019,5781907,45273,59.2884,"Diet low in nuts and seeds",76,0.000198186075863544
-"Lebanon","LBN","Asia",2019,5781907,45273,59.2884,"Diet low in vegetables",46,0.000119954730127934
-"Lesotho","LSO","Africa",2019,2225702,20029,47.3558,"Diet low in whole grains",203,0.000529365439477623
-"Lesotho","LSO","Africa",2019,2225702,20029,47.3558,"Diet low in fruits",488,0.00127256322396591
-"Lesotho","LSO","Africa",2019,2225702,20029,47.3558,"Diet low in nuts and seeds",98,0.000255555729402991
-"Lesotho","LSO","Africa",2019,2225702,20029,47.3558,"Diet low in vegetables",265,0.000691043553997883
-"Liberia","LBR","Africa",2019,4985289,19372,21.9044,"Diet low in whole grains",356,0.000928345302729231
-"Liberia","LBR","Africa",2019,4985289,19372,21.9044,"Diet low in fruits",334,0.000870975649189784
-"Liberia","LBR","Africa",2019,4985289,19372,21.9044,"Diet low in nuts and seeds",96,0.00025034030635395
-"Liberia","LBR","Africa",2019,4985289,19372,21.9044,"Diet low in vegetables",306,0.000797959726503215
-"Libya","LBY","Africa",2019,6569088,38115,50.9508,"Diet low in whole grains",2126,0.00554399470113018
-"Libya","LBY","Africa",2019,6569088,38115,50.9508,"Diet low in fruits",428,0.00111610053249469
-"Libya","LBY","Africa",2019,6569088,38115,50.9508,"Diet low in nuts and seeds",446,0.00116303933993606
-"Libya","LBY","Africa",2019,6569088,38115,50.9508,"Diet low in vegetables",347,0.000904875899008548
-"Lithuania","LTU","Europe",2019,2794137,40225,187.1777,"Diet low in whole grains",2665,0.00694955121284663
-"Lithuania","LTU","Europe",2019,2794137,40225,187.1777,"Diet low in fruits",983,0.00256338042860347
-"Lithuania","LTU","Europe",2019,2794137,40225,187.1777,"Diet low in nuts and seeds",1020,0.00265986575501072
-"Lithuania","LTU","Europe",2019,2794137,40225,187.1777,"Diet low in vegetables",562,0.00146553387678041
-"Luxembourg","LUX","Europe",2019,620001,3398,43.5483,"Diet low in whole grains",126,0.000328571652089559
-"Luxembourg","LUX","Europe",2019,620001,3398,43.5483,"Diet low in fruits",51,0.000132993287750536
-"Luxembourg","LUX","Europe",2019,620001,3398,43.5483,"Diet low in nuts and seeds",60,0.000156462691471219
-"Luxembourg","LUX","Europe",2019,620001,3398,43.5483,"Diet low in vegetables",33,8.60544803091703e-05
-"Madagascar","MDG","Africa",2019,27533134,127057,29.5135,"Diet low in whole grains",1772,0.00462086482144999
-"Madagascar","MDG","Africa",2019,27533134,127057,29.5135,"Diet low in fruits",2695,0.00702778255858224
-"Madagascar","MDG","Africa",2019,27533134,127057,29.5135,"Diet low in nuts and seeds",1086,0.00283197471562906
-"Madagascar","MDG","Africa",2019,27533134,127057,29.5135,"Diet low in vegetables",2573,0.00670964175259076
-"Malawi","MWI","Africa",2019,18867337,72259,17.2096,"Diet low in whole grains",836,0.00218004683449898
-"Malawi","MWI","Africa",2019,18867337,72259,17.2096,"Diet low in fruits",1192,0.00310839213722821
-"Malawi","MWI","Africa",2019,18867337,72259,17.2096,"Diet low in nuts and seeds",73,0.000190362941289983
-"Malawi","MWI","Africa",2019,18867337,72259,17.2096,"Diet low in vegetables",1146,0.00298843740710028
-"Malaysia","MYS","Asia",2019,32804020,168244,38.2179,"Diet low in whole grains",6540,0.0170544333703628
-"Malaysia","MYS","Asia",2019,32804020,168244,38.2179,"Diet low in fruits",2790,0.00727551515341167
-"Malaysia","MYS","Asia",2019,32804020,168244,38.2179,"Diet low in nuts and seeds",83,0.000216440056535186
-"Malaysia","MYS","Asia",2019,32804020,168244,38.2179,"Diet low in vegetables",3124,0.00814649080260145
-"Maldives","MDV","Asia",2019,504508,1377,26.3623,"Diet low in whole grains",65,0.00016950124909382
-"Maldives","MDV","Asia",2019,504508,1377,26.3623,"Diet low in fruits",32,8.344676878465e-05
-"Maldives","MDV","Asia",2019,504508,1377,26.3623,"Diet low in nuts and seeds",14,3.65079613432844e-05
-"Maldives","MDV","Asia",2019,504508,1377,26.3623,"Diet low in vegetables",22,5.73696535394468e-05
-"Mali","MLI","Africa",2019,20567424,102732,20.8631,"Diet low in whole grains",1437,0.00374728146073569
-"Mali","MLI","Africa",2019,20567424,102732,20.8631,"Diet low in fruits",1416,0.00369251951872076
-"Mali","MLI","Africa",2019,20567424,102732,20.8631,"Diet low in nuts and seeds",251,0.000654535592654598
-"Mali","MLI","Africa",2019,20567424,102732,20.8631,"Diet low in vegetables",1187,0.00309535357960561
-"Malta","MLT","Europe",2019,504062,3614,68.6423,"Diet low in whole grains",242,0.000631066188933915
-"Malta","MLT","Europe",2019,504062,3614,68.6423,"Diet low in fruits",57,0.000148639556897658
-"Malta","MLT","Europe",2019,504062,3614,68.6423,"Diet low in nuts and seeds",27,7.04082111620484e-05
-"Malta","MLT","Europe",2019,504062,3614,68.6423,"Diet low in vegetables",20,5.21542304904062e-05
-"Marshall Islands","MHL","Oceania",2019,44728,493,109.5511,"Diet low in whole grains",20,5.21542304904062e-05
-"Marshall Islands","MHL","Oceania",2019,44728,493,109.5511,"Diet low in fruits",14,3.65079613432844e-05
-"Marshall Islands","MHL","Oceania",2019,44728,493,109.5511,"Diet low in nuts and seeds",2,5.21542304904062e-06
-"Marshall Islands","MHL","Oceania",2019,44728,493,109.5511,"Diet low in vegetables",13,3.3900249818764e-05
-"Mauritania","MRT","Africa",2019,4383849,15573,30.0877,"Diet low in whole grains",423,0.00110306197487209
-"Mauritania","MRT","Africa",2019,4383849,15573,30.0877,"Diet low in fruits",391,0.00101961520608744
-"Mauritania","MRT","Africa",2019,4383849,15573,30.0877,"Diet low in nuts and seeds",243,0.000633673900458436
-"Mauritania","MRT","Africa",2019,4383849,15573,30.0877,"Diet low in vegetables",262,0.000683220419424322
-"Mauritius","MUS","Africa",2019,1265985,13563,76.2252,"Diet low in whole grains",414,0.00107959257115141
-"Mauritius","MUS","Africa",2019,1265985,13563,76.2252,"Diet low in fruits",372,0.000970068687121556
-"Mauritius","MUS","Africa",2019,1265985,13563,76.2252,"Diet low in nuts and seeds",49,0.000127777864701495
-"Mauritius","MUS","Africa",2019,1265985,13563,76.2252,"Diet low in vegetables",130,0.00033900249818764
-"Mexico","MEX","North America",2019,125085311,691863,29.5718,"Diet low in whole grains",15806,0.041217488356568
-"Mexico","MEX","North America",2019,125085311,691863,29.5718,"Diet low in fruits",6737,0.0175681525406933
-"Mexico","MEX","North America",2019,125085311,691863,29.5718,"Diet low in nuts and seeds",6842,0.017841962250768
-"Mexico","MEX","North America",2019,125085311,691863,29.5718,"Diet low in vegetables",7605,0.019831646143977
-"Moldova","MDA","Europe",2019,2664224,49878,227.1581,"Diet low in whole grains",2642,0.00688957384778266
-"Moldova","MDA","Europe",2019,2664224,49878,227.1581,"Diet low in fruits",1152,0.0030040836762474
-"Moldova","MDA","Europe",2019,2664224,49878,227.1581,"Diet low in nuts and seeds",1479,0.00385680534476554
-"Moldova","MDA","Europe",2019,2664224,49878,227.1581,"Diet low in vegetables",779,0.00203140727760132
-"Monaco","MCO","Europe",2019,37034,385,56.7046,"Diet low in whole grains",18,4.69388074413656e-05
-"Monaco","MCO","Europe",2019,37034,385,56.7046,"Diet low in fruits",2,5.21542304904062e-06
-"Monaco","MCO","Europe",2019,37034,385,56.7046,"Diet low in nuts and seeds",0,0
-"Monaco","MCO","Europe",2019,37034,385,56.7046,"Diet low in vegetables",1,2.60771152452031e-06
-"Mongolia","MNG","Asia",2019,3232430,30623,119.5386,"Diet low in whole grains",1301,0.00339263269340093
-"Mongolia","MNG","Asia",2019,3232430,30623,119.5386,"Diet low in fruits",1184,0.00308753044503205
-"Mongolia","MNG","Asia",2019,3232430,30623,119.5386,"Diet low in nuts and seeds",692,0.00180453637496806
-"Mongolia","MNG","Asia",2019,3232430,30623,119.5386,"Diet low in vegetables",687,0.00179149781734545
-"Montenegro","MNE","Europe",2019,622028,10287,80.3822,"Diet low in whole grains",319,0.000831859976321979
-"Montenegro","MNE","Europe",2019,622028,10287,80.3822,"Diet low in fruits",66,0.000172108960618341
-"Montenegro","MNE","Europe",2019,622028,10287,80.3822,"Diet low in nuts and seeds",102,0.000265986575501072
-"Montenegro","MNE","Europe",2019,622028,10287,80.3822,"Diet low in vegetables",13,3.3900249818764e-05
-"Morocco","MAR","Africa",2019,36304408,303235,78.4285,"Diet low in whole grains",19647,0.0512337083222506
-"Morocco","MAR","Africa",2019,36304408,303235,78.4285,"Diet low in fruits",1786,0.00465737278279328
-"Morocco","MAR","Africa",2019,36304408,303235,78.4285,"Diet low in nuts and seeds",5133,0.0133853832553628
-"Morocco","MAR","Africa",2019,36304408,303235,78.4285,"Diet low in vegetables",1907,0.00497290587726023
-"Mozambique","MOZ","Africa",2019,30285595,131532,24.8072,"Diet low in whole grains",2092,0.00545533250929649
-"Mozambique","MOZ","Africa",2019,30285595,131532,24.8072,"Diet low in fruits",2985,0.00778401890069313
-"Mozambique","MOZ","Africa",2019,30285595,131532,24.8072,"Diet low in nuts and seeds",303,0.000790136591929654
-"Mozambique","MOZ","Africa",2019,30285595,131532,24.8072,"Diet low in vegetables",2133,0.00556224868180182
-"Myanmar","MMR","Asia",2019,53040212,488029,48.68,"Diet low in whole grains",7526,0.0196256369335399
-"Myanmar","MMR","Asia",2019,53040212,488029,48.68,"Diet low in fruits",12265,0.0319835818482416
-"Myanmar","MMR","Asia",2019,53040212,488029,48.68,"Diet low in nuts and seeds",134,0.000349433344285722
-"Myanmar","MMR","Asia",2019,53040212,488029,48.68,"Diet low in vegetables",5895,0.0153724594370472
-"Namibia","NAM","Africa",2019,2446644,13500,39.6461,"Diet low in whole grains",282,0.000735374649914728
-"Namibia","NAM","Africa",2019,2446644,13500,39.6461,"Diet low in fruits",319,0.000831859976321979
-"Namibia","NAM","Africa",2019,2446644,13500,39.6461,"Diet low in nuts and seeds",170,0.000443310959168453
-"Namibia","NAM","Africa",2019,2446644,13500,39.6461,"Diet low in vegetables",199,0.000518934593379542
-"Nauru","NRU","Oceania",2019,12132,78,57.6986,"Diet low in whole grains",3,7.82313457356093e-06
-"Nauru","NRU","Oceania",2019,12132,78,57.6986,"Diet low in fruits",2,5.21542304904062e-06
-"Nauru","NRU","Oceania",2019,12132,78,57.6986,"Diet low in nuts and seeds",0,0
-"Nauru","NRU","Oceania",2019,12132,78,57.6986,"Diet low in vegetables",2,5.21542304904062e-06
-"Nepal","NPL","Asia",2019,28832496,205541,40.8463,"Diet low in whole grains",3640,0.00949206994925393
-"Nepal","NPL","Asia",2019,28832496,205541,40.8463,"Diet low in fruits",3102,0.00808912114906201
-"Nepal","NPL","Asia",2019,28832496,205541,40.8463,"Diet low in nuts and seeds",2606,0.00679569623289993
-"Nepal","NPL","Asia",2019,28832496,205541,40.8463,"Diet low in vegetables",2429,0.00633413129305984
-"Netherlands","NLD","Europe",2019,17344874,114041,46.5325,"Diet low in whole grains",4443,0.0115860623034437
-"Netherlands","NLD","Europe",2019,17344874,114041,46.5325,"Diet low in fruits",1722,0.00449047924522398
-"Netherlands","NLD","Europe",2019,17344874,114041,46.5325,"Diet low in nuts and seeds",578,0.00150725726117274
-"Netherlands","NLD","Europe",2019,17344874,114041,46.5325,"Diet low in vegetables",1328,0.00346304090456297
-"New Zealand","NZL","Oceania",2019,4979200,24383,44.1436,"Diet low in whole grains",1306,0.00340567125102353
-"New Zealand","NZL","Oceania",2019,4979200,24383,44.1436,"Diet low in fruits",406,0.00105873087895525
-"New Zealand","NZL","Oceania",2019,4979200,24383,44.1436,"Diet low in nuts and seeds",145,0.000378118171055445
-"New Zealand","NZL","Oceania",2019,4979200,24383,44.1436,"Diet low in vegetables",341,0.000889229629861426
-"Nicaragua","NIC","North America",2019,6663924,30201,35.7297,"Diet low in whole grains",814,0.00212267718095953
-"Nicaragua","NIC","North America",2019,6663924,30201,35.7297,"Diet low in fruits",709,0.0018488674708849
-"Nicaragua","NIC","North America",2019,6663924,30201,35.7297,"Diet low in nuts and seeds",280,0.000730159226865687
-"Nicaragua","NIC","North America",2019,6663924,30201,35.7297,"Diet low in vegetables",578,0.00150725726117274
-"Niger","NER","Africa",2019,23443393,118426,15.7742,"Diet low in whole grains",1341,0.00349694115438174
-"Niger","NER","Africa",2019,23443393,118426,15.7742,"Diet low in fruits",1571,0.00409671480502141
-"Niger","NER","Africa",2019,23443393,118426,15.7742,"Diet low in nuts and seeds",23,5.99773650639672e-05
-"Niger","NER","Africa",2019,23443393,118426,15.7742,"Diet low in vegetables",763,0.001989683893209
-"Nigeria","NGA","Africa",2019,203304492,912981,15.0877,"Diet low in whole grains",13981,0.0364584148243185
-"Nigeria","NGA","Africa",2019,203304492,912981,15.0877,"Diet low in fruits",9743,0.0254069333834014
-"Nigeria","NGA","Africa",2019,203304492,912981,15.0877,"Diet low in nuts and seeds",313,0.000816213707174858
-"Nigeria","NGA","Africa",2019,203304492,912981,15.0877,"Diet low in vegetables",6637,0.0173073813882413
-"North Macedonia","MKD","Europe",2019,2076694,37970,95.9217,"Diet low in whole grains",1401,0.00365340384585296
-"North Macedonia","MKD","Europe",2019,2076694,37970,95.9217,"Diet low in fruits",398,0.00103786918675908
-"North Macedonia","MKD","Europe",2019,2076694,37970,95.9217,"Diet low in nuts and seeds",142,0.000370295036481884
-"North Macedonia","MKD","Europe",2019,2076694,37970,95.9217,"Diet low in vegetables",51,0.000132993287750536
-"Northern Mariana Islands","MNP","Oceania",2019,49858,413,58.1652,"Diet low in whole grains",15,3.91156728678047e-05
-"Northern Mariana Islands","MNP","Oceania",2019,49858,413,58.1652,"Diet low in fruits",6,1.56462691471219e-05
-"Northern Mariana Islands","MNP","Oceania",2019,49858,413,58.1652,"Diet low in nuts and seeds",0,0
-"Northern Mariana Islands","MNP","Oceania",2019,49858,413,58.1652,"Diet low in vegetables",8,2.08616921961625e-05
-"Norway","NOR","Europe",2019,5347896,26992,51.4969,"Diet low in whole grains",1555,0.00405499142062908
-"Norway","NOR","Europe",2019,5347896,26992,51.4969,"Diet low in fruits",400,0.00104308460980812
-"Norway","NOR","Europe",2019,5347896,26992,51.4969,"Diet low in nuts and seeds",357,0.000930953014253751
-"Norway","NOR","Europe",2019,5347896,26992,51.4969,"Diet low in vegetables",442,0.00115260849383798
-"Oman","OMN","Asia",2019,4602768,14256,27.2445,"Diet low in whole grains",713,0.00185929831698298
-"Oman","OMN","Asia",2019,4602768,14256,27.2445,"Diet low in fruits",78,0.000203401498912584
-"Oman","OMN","Asia",2019,4602768,14256,27.2445,"Diet low in nuts and seeds",336,0.000876191072238825
-"Oman","OMN","Asia",2019,4602768,14256,27.2445,"Diet low in vegetables",127,0.00033117936361408
-"Pakistan","PAK","Asia",2019,223293280,1375527,56.5843,"Diet low in whole grains",54778,0.142845221890174
-"Pakistan","PAK","Asia",2019,223293280,1375527,56.5843,"Diet low in fruits",29182,0.0760982377085517
-"Pakistan","PAK","Asia",2019,223293280,1375527,56.5843,"Diet low in nuts and seeds",17707,0.0461747479646812
-"Pakistan","PAK","Asia",2019,223293280,1375527,56.5843,"Diet low in vegetables",24682,0.0643635358482103
-"Palau","PLW","Oceania",2019,17916,237,111.6321,"Diet low in whole grains",10,2.60771152452031e-05
-"Palau","PLW","Oceania",2019,17916,237,111.6321,"Diet low in fruits",5,1.30385576226016e-05
-"Palau","PLW","Oceania",2019,17916,237,111.6321,"Diet low in nuts and seeds",0,0
-"Palau","PLW","Oceania",2019,17916,237,111.6321,"Diet low in vegetables",5,1.30385576226016e-05
-"Panama","PAN","North America",2019,4232532,15185,25.6348,"Diet low in whole grains",416,0.00108480799420045
-"Panama","PAN","North America",2019,4232532,15185,25.6348,"Diet low in fruits",282,0.000735374649914728
-"Panama","PAN","North America",2019,4232532,15185,25.6348,"Diet low in nuts and seeds",106,0.000276417421599153
-"Panama","PAN","North America",2019,4232532,15185,25.6348,"Diet low in vegetables",281,0.000732766938390207
-"Papua New Guinea","PNG","Oceania",2019,9542486,66942,48.4255,"Diet low in whole grains",1875,0.00488945910847558
-"Papua New Guinea","PNG","Oceania",2019,9542486,66942,48.4255,"Diet low in fruits",1361,0.00354909538487214
-"Papua New Guinea","PNG","Oceania",2019,9542486,66942,48.4255,"Diet low in nuts and seeds",372,0.000970068687121556
-"Papua New Guinea","PNG","Oceania",2019,9542486,66942,48.4255,"Diet low in vegetables",1013,0.00264161177433908
-"Paraguay","PRY","South America",2019,6530026,32784,30.153,"Diet low in whole grains",937,0.00244342569847553
-"Paraguay","PRY","South America",2019,6530026,32784,30.153,"Diet low in fruits",352,0.00091791445663115
-"Paraguay","PRY","South America",2019,6530026,32784,30.153,"Diet low in nuts and seeds",145,0.000378118171055445
-"Paraguay","PRY","South America",2019,6530026,32784,30.153,"Diet low in vegetables",535,0.00139512566561837
-"Peru","PER","South America",2019,32824861,95593,21.6269,"Diet low in whole grains",2988,0.00779184203526669
-"Peru","PER","South America",2019,32824861,95593,21.6269,"Diet low in fruits",1430,0.00372902748006405
-"Peru","PER","South America",2019,32824861,95593,21.6269,"Diet low in nuts and seeds",1196,0.00311882298332629
-"Peru","PER","South America",2019,32824861,95593,21.6269,"Diet low in vegetables",1485,0.00387245161391266
-"Philippines","PHL","Asia",2019,110380804,661704,33.3835,"Diet low in whole grains",15316,0.0399397097095531
-"Philippines","PHL","Asia",2019,110380804,661704,33.3835,"Diet low in fruits",9379,0.024457726388476
-"Philippines","PHL","Asia",2019,110380804,661704,33.3835,"Diet low in nuts and seeds",1837,0.00479036607054381
-"Philippines","PHL","Asia",2019,110380804,661704,33.3835,"Diet low in vegetables",10317,0.0269037597984761
-"Poland","POL","Europe",2019,37965475,460603,104.8479,"Diet low in whole grains",20129,0.0524906252770694
-"Poland","POL","Europe",2019,37965475,460603,104.8479,"Diet low in fruits",8726,0.0227548907629642
-"Poland","POL","Europe",2019,37965475,460603,104.8479,"Diet low in nuts and seeds",9126,0.0237979753727724
-"Poland","POL","Europe",2019,37965475,460603,104.8479,"Diet low in vegetables",1825,0.00475907353224957
-"Portugal","PRT","Europe",2019,10286263,85563,57.3289,"Diet low in whole grains",3580,0.00933560725778271
-"Portugal","PRT","Europe",2019,10286263,85563,57.3289,"Diet low in fruits",1148,0.00299365283014932
-"Portugal","PRT","Europe",2019,10286263,85563,57.3289,"Diet low in nuts and seeds",782,0.00203923041217488
-"Portugal","PRT","Europe",2019,10286263,85563,57.3289,"Diet low in vegetables",387,0.00100918435998936
-"Puerto Rico","PRI","North America",2019,3193694,28480,63.4688,"Diet low in whole grains",1170,0.00305102248368876
-"Puerto Rico","PRI","North America",2019,3193694,28480,63.4688,"Diet low in fruits",321,0.00083707539937102
-"Puerto Rico","PRI","North America",2019,3193694,28480,63.4688,"Diet low in nuts and seeds",42,0.000109523884029853
-"Puerto Rico","PRI","North America",2019,3193694,28480,63.4688,"Diet low in vegetables",494,0.00128820949311303
-"Qatar","QAT","Asia",2019,2807235,4788,9.5111,"Diet low in whole grains",222,0.000578911958443509
-"Qatar","QAT","Asia",2019,2807235,4788,9.5111,"Diet low in fruits",14,3.65079613432844e-05
-"Qatar","QAT","Asia",2019,2807235,4788,9.5111,"Diet low in nuts and seeds",28,7.30159226865687e-05
-"Qatar","QAT","Asia",2019,2807235,4788,9.5111,"Diet low in vegetables",3,7.82313457356093e-06
-"Romania","ROU","Europe",2019,19371648,324945,127.6505,"Diet low in whole grains",12934,0.0337281408581457
-"Romania","ROU","Europe",2019,19371648,324945,127.6505,"Diet low in fruits",5119,0.0133488752940195
-"Romania","ROU","Europe",2019,19371648,324945,127.6505,"Diet low in nuts and seeds",6337,0.0165250679308852
-"Romania","ROU","Europe",2019,19371648,324945,127.6505,"Diet low in vegetables",338,0.000881406495287865
-"Rwanda","RWA","Africa",2019,12835028,51184,14.5695,"Diet low in whole grains",865,0.00225567046871007
-"Rwanda","RWA","Africa",2019,12835028,51184,14.5695,"Diet low in fruits",28,7.30159226865687e-05
-"Rwanda","RWA","Africa",2019,12835028,51184,14.5695,"Diet low in nuts and seeds",232,0.000604989073688712
-"Rwanda","RWA","Africa",2019,12835028,51184,14.5695,"Diet low in vegetables",745,0.00194274508576763
-"Samoa","WSM","Oceania",2019,211905,1861,72.2022,"Diet low in whole grains",70,0.000182539806716422
-"Samoa","WSM","Oceania",2019,211905,1861,72.2022,"Diet low in fruits",39,0.000101700749456292
-"Samoa","WSM","Oceania",2019,211905,1861,72.2022,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Samoa","WSM","Oceania",2019,211905,1861,72.2022,"Diet low in vegetables",43,0.000112131595554373
-"San Marino","SMR","Europe",2019,34178,215,46.8137,"Diet low in whole grains",10,2.60771152452031e-05
-"San Marino","SMR","Europe",2019,34178,215,46.8137,"Diet low in fruits",3,7.82313457356093e-06
-"San Marino","SMR","Europe",2019,34178,215,46.8137,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"San Marino","SMR","Europe",2019,34178,215,46.8137,"Diet low in vegetables",2,5.21542304904062e-06
-"Sao Tome and Principe","STP","Africa",2019,214599,883,25.1632,"Diet low in whole grains",28,7.30159226865687e-05
-"Sao Tome and Principe","STP","Africa",2019,214599,883,25.1632,"Diet low in fruits",7,1.82539806716422e-05
-"Sao Tome and Principe","STP","Africa",2019,214599,883,25.1632,"Diet low in nuts and seeds",1,2.60771152452031e-06
-"Sao Tome and Principe","STP","Africa",2019,214599,883,25.1632,"Diet low in vegetables",18,4.69388074413656e-05
-"Saudi Arabia","SAU","Asia",2019,35827362,154143,38.5571,"Diet low in whole grains",7131,0.0185955908813543
-"Saudi Arabia","SAU","Asia",2019,35827362,154143,38.5571,"Diet low in fruits",2314,0.00603424446774
-"Saudi Arabia","SAU","Asia",2019,35827362,154143,38.5571,"Diet low in nuts and seeds",2546,0.00663923354142871
-"Saudi Arabia","SAU","Asia",2019,35827362,154143,38.5571,"Diet low in vegetables",1823,0.00475385810920053
-"Senegal","SEN","Africa",2019,16000781,67119,23.1614,"Diet low in whole grains",1366,0.00356213394249475
-"Senegal","SEN","Africa",2019,16000781,67119,23.1614,"Diet low in fruits",1435,0.00374206603768665
-"Senegal","SEN","Africa",2019,16000781,67119,23.1614,"Diet low in nuts and seeds",54,0.000140816422324097
-"Senegal","SEN","Africa",2019,16000781,67119,23.1614,"Diet low in vegetables",851,0.00221916250736679
-"Serbia","SRB","Europe",2019,6945235,168706,158.8283,"Diet low in whole grains",6362,0.0165902607189982
-"Serbia","SRB","Europe",2019,6945235,168706,158.8283,"Diet low in fruits",1458,0.00380204340275061
-"Serbia","SRB","Europe",2019,6945235,168706,158.8283,"Diet low in nuts and seeds",1786,0.00465737278279328
-"Serbia","SRB","Europe",2019,6945235,168706,158.8283,"Diet low in vegetables",1425,0.00371598892244144
-"Seychelles","SYC","Africa",2019,97625,740,48.1434,"Diet low in whole grains",20,5.21542304904062e-05
-"Seychelles","SYC","Africa",2019,97625,740,48.1434,"Diet low in fruits",11,2.86848267697234e-05
-"Seychelles","SYC","Africa",2019,97625,740,48.1434,"Diet low in nuts and seeds",3,7.82313457356093e-06
-"Seychelles","SYC","Africa",2019,97625,740,48.1434,"Diet low in vegetables",13,3.3900249818764e-05
-"Sierra Leone","SLE","Africa",2019,8046828,41403,24.432,"Diet low in whole grains",678,0.00176802841362477
-"Sierra Leone","SLE","Africa",2019,8046828,41403,24.432,"Diet low in fruits",715,0.00186451374003202
-"Sierra Leone","SLE","Africa",2019,8046828,41403,24.432,"Diet low in nuts and seeds",15,3.91156728678047e-05
-"Sierra Leone","SLE","Africa",2019,8046828,41403,24.432,"Diet low in vegetables",558,0.00145510303068233
-"Singapore","SGP","Asia",2019,5703569,16423,20.2505,"Diet low in whole grains",674,0.00175759756752669
-"Singapore","SGP","Asia",2019,5703569,16423,20.2505,"Diet low in fruits",180,0.000469388074413656
-"Singapore","SGP","Asia",2019,5703569,16423,20.2505,"Diet low in nuts and seeds",188,0.000490249766609819
-"Singapore","SGP","Asia",2019,5703569,16423,20.2505,"Diet low in vegetables",113,0.000294671402270795
-"Slovenia","SVN","Europe",2019,2088385,18849,53.8694,"Diet low in whole grains",624,0.00162721199130067
-"Slovenia","SVN","Europe",2019,2088385,18849,53.8694,"Diet low in fruits",174,0.000453741805266534
-"Slovenia","SVN","Europe",2019,2088385,18849,53.8694,"Diet low in nuts and seeds",151,0.000393764440202567
-"Slovenia","SVN","Europe",2019,2088385,18849,53.8694,"Diet low in vegetables",176,0.000458957228315575
-"Solomon Islands","SLB","Oceania",2019,674993,8419,116.5938,"Diet low in whole grains",284,0.000740590072963768
-"Solomon Islands","SLB","Oceania",2019,674993,8419,116.5938,"Diet low in fruits",209,0.000545011708624745
-"Solomon Islands","SLB","Oceania",2019,674993,8419,116.5938,"Diet low in nuts and seeds",62,0.000161678114520259
-"Solomon Islands","SLB","Oceania",2019,674993,8419,116.5938,"Diet low in vegetables",232,0.000604989073688712
-"Somalia","SOM","Africa",2019,15981300,109541,31.5431,"Diet low in whole grains",1497,0.00390374415220691
-"Somalia","SOM","Africa",2019,15981300,109541,31.5431,"Diet low in fruits",1933,0.00504070637689776
-"Somalia","SOM","Africa",2019,15981300,109541,31.5431,"Diet low in nuts and seeds",115,0.000299886825319836
-"Somalia","SOM","Africa",2019,15981300,109541,31.5431,"Diet low in vegetables",1496,0.00390113644068239
-"South Africa","ZAF","Africa",2019,58087055,346018,36.6536,"Diet low in whole grains",5243,0.01367223152306
-"South Africa","ZAF","Africa",2019,58087055,346018,36.6536,"Diet low in fruits",8375,0.0218395840178576
-"South Africa","ZAF","Africa",2019,58087055,346018,36.6536,"Diet low in nuts and seeds",3773,0.00983889558201514
-"South Africa","ZAF","Africa",2019,58087055,346018,36.6536,"Diet low in vegetables",3900,0.0101700749456292
-"South Sudan","SSD","Africa",2019,10447666,39825,13.2374,"Diet low in whole grains",494,0.00128820949311303
-"South Sudan","SSD","Africa",2019,10447666,39825,13.2374,"Diet low in fruits",391,0.00101961520608744
-"South Sudan","SSD","Africa",2019,10447666,39825,13.2374,"Diet low in nuts and seeds",50,0.000130385576226016
-"South Sudan","SSD","Africa",2019,10447666,39825,13.2374,"Diet low in vegetables",448,0.0011682547629851
-"Spain","ESP","Europe",2019,47134837,319980,40.2738,"Diet low in whole grains",12753,0.0332561450722075
-"Spain","ESP","Europe",2019,47134837,319980,40.2738,"Diet low in fruits",2332,0.00608118327518137
-"Spain","ESP","Europe",2019,47134837,319980,40.2738,"Diet low in nuts and seeds",1756,0.00457914143705767
-"Spain","ESP","Europe",2019,47134837,319980,40.2738,"Diet low in vegetables",2142,0.00558571808552251
-"Sri Lanka","LKA","Asia",2019,21803000,147936,48.4108,"Diet low in whole grains",4224,0.0110149734795738
-"Sri Lanka","LKA","Asia",2019,21803000,147936,48.4108,"Diet low in fruits",3857,0.0100579433500748
-"Sri Lanka","LKA","Asia",2019,21803000,147936,48.4108,"Diet low in nuts and seeds",121,0.000315533094466958
-"Sri Lanka","LKA","Asia",2019,21803000,147936,48.4108,"Diet low in vegetables",2353,0.00613594521719629
-"Sudan","SDN","Africa",2019,43232093,220694,51.1749,"Diet low in whole grains",11581,0.0301999071654697
-"Sudan","SDN","Africa",2019,43232093,220694,51.1749,"Diet low in fruits",3394,0.00885057291422194
-"Sudan","SDN","Africa",2019,43232093,220694,51.1749,"Diet low in nuts and seeds",4042,0.0105403699821111
-"Sudan","SDN","Africa",2019,43232093,220694,51.1749,"Diet low in vegetables",3107,0.00810215970668461
-"Suriname","SUR","South America",2019,600301,4240,46.8099,"Diet low in whole grains",126,0.000328571652089559
-"Suriname","SUR","South America",2019,600301,4240,46.8099,"Diet low in fruits",74,0.000192970652814503
-"Suriname","SUR","South America",2019,600301,4240,46.8099,"Diet low in nuts and seeds",6,1.56462691471219e-05
-"Suriname","SUR","South America",2019,600301,4240,46.8099,"Diet low in vegetables",75,0.000195578364339023
-"Sweden","SWE","Europe",2019,10278887,73216,69.92,"Diet low in whole grains",4105,0.0107046558081559
-"Sweden","SWE","Europe",2019,10278887,73216,69.92,"Diet low in fruits",1225,0.00319444661753738
-"Sweden","SWE","Europe",2019,10278887,73216,69.92,"Diet low in nuts and seeds",702,0.00183061349021326
-"Sweden","SWE","Europe",2019,10278887,73216,69.92,"Diet low in vegetables",1155,0.00301190681082096
-"Switzerland","CHE","Europe",2019,8575280,53783,52.5114,"Diet low in whole grains",2680,0.00698866688571444
-"Switzerland","CHE","Europe",2019,8575280,53783,52.5114,"Diet low in fruits",795,0.00207313066199365
-"Switzerland","CHE","Europe",2019,8575280,53783,52.5114,"Diet low in nuts and seeds",313,0.000816213707174858
-"Switzerland","CHE","Europe",2019,8575280,53783,52.5114,"Diet low in vegetables",715,0.00186451374003202
-"Tajikistan","TJK","Asia",2019,9337003,58568,74.0602,"Diet low in whole grains",3512,0.00915828287411533
-"Tajikistan","TJK","Asia",2019,9337003,58568,74.0602,"Diet low in fruits",1568,0.00408889167044785
-"Tajikistan","TJK","Asia",2019,9337003,58568,74.0602,"Diet low in nuts and seeds",1605,0.0041853769968551
-"Tajikistan","TJK","Asia",2019,9337003,58568,74.0602,"Diet low in vegetables",230,0.000599773650639672
-"Tanzania","TZA","Africa",2019,59872579,243035,15.204,"Diet low in whole grains",2933,0.00764841790141807
-"Tanzania","TZA","Africa",2019,59872579,243035,15.204,"Diet low in fruits",2949,0.0076901412858104
-"Tanzania","TZA","Africa",2019,59872579,243035,15.204,"Diet low in nuts and seeds",77,0.000200793787388064
-"Tanzania","TZA","Africa",2019,59872579,243035,15.204,"Diet low in vegetables",3144,0.00819864503309186
-"Thailand","THA","Asia",2019,71307763,430315,26.6535,"Diet low in whole grains",8064,0.0210285857337318
-"Thailand","THA","Asia",2019,71307763,430315,26.6535,"Diet low in fruits",4329,0.0112887831896484
-"Thailand","THA","Asia",2019,71307763,430315,26.6535,"Diet low in nuts and seeds",146,0.000380725882579965
-"Thailand","THA","Asia",2019,71307763,430315,26.6535,"Diet low in vegetables",6467,0.0168640704290729
-"Togo","TGO","Africa",2019,8243094,37193,27.2228,"Diet low in whole grains",699,0.0018227903556397
-"Togo","TGO","Africa",2019,8243094,37193,27.2228,"Diet low in fruits",896,0.0023365095259702
-"Togo","TGO","Africa",2019,8243094,37193,27.2228,"Diet low in nuts and seeds",19,4.95465189658859e-05
-"Togo","TGO","Africa",2019,8243094,37193,27.2228,"Diet low in vegetables",630,0.0016428582604478
-"Tonga","TON","Oceania",2019,104951,735,52.4054,"Diet low in whole grains",24,6.25850765884875e-05
-"Tonga","TON","Oceania",2019,104951,735,52.4054,"Diet low in fruits",16,4.1723384392325e-05
-"Tonga","TON","Oceania",2019,104951,735,52.4054,"Diet low in nuts and seeds",2,5.21542304904062e-06
-"Tonga","TON","Oceania",2019,104951,735,52.4054,"Diet low in vegetables",13,3.3900249818764e-05
-"Trinidad and Tobago","TTO","North America",2019,1519955,14279,75.5286,"Diet low in whole grains",586,0.0015281189533689
-"Trinidad and Tobago","TTO","North America",2019,1519955,14279,75.5286,"Diet low in fruits",323,0.000842290822420061
-"Trinidad and Tobago","TTO","North America",2019,1519955,14279,75.5286,"Diet low in nuts and seeds",19,4.95465189658859e-05
-"Trinidad and Tobago","TTO","North America",2019,1519955,14279,75.5286,"Diet low in vegetables",220,0.000573696535394469
-"Tunisia","TUN","Africa",2019,12049314,85516,56.7916,"Diet low in whole grains",5281,0.0137713245609918
-"Tunisia","TUN","Africa",2019,12049314,85516,56.7916,"Diet low in fruits",795,0.00207313066199365
-"Tunisia","TUN","Africa",2019,12049314,85516,56.7916,"Diet low in nuts and seeds",428,0.00111610053249469
-"Tunisia","TUN","Africa",2019,12049314,85516,56.7916,"Diet low in vegetables",339,0.000884014206812386
-"Turkmenistan","TKM","Asia",2019,6158420,46117,89.8445,"Diet low in whole grains",3032,0.00790658134234558
-"Turkmenistan","TKM","Asia",2019,6158420,46117,89.8445,"Diet low in fruits",748,0.00195056822034119
-"Turkmenistan","TKM","Asia",2019,6158420,46117,89.8445,"Diet low in nuts and seeds",1695,0.00442007103406193
-"Turkmenistan","TKM","Asia",2019,6158420,46117,89.8445,"Diet low in vegetables",58,0.000151247268422178
-"Tuvalu","TUV","Oceania",2019,10956,124,109.529,"Diet low in whole grains",5,1.30385576226016e-05
-"Tuvalu","TUV","Oceania",2019,10956,124,109.529,"Diet low in fruits",4,1.04308460980812e-05
-"Tuvalu","TUV","Oceania",2019,10956,124,109.529,"Diet low in nuts and seeds",0,0
-"Tuvalu","TUV","Oceania",2019,10956,124,109.529,"Diet low in vegetables",3,7.82313457356093e-06
-"Uganda","UGA","Africa",2019,42949080,136163,10.3332,"Diet low in whole grains",1877,0.00489467453152462
-"Uganda","UGA","Africa",2019,42949080,136163,10.3332,"Diet low in fruits",523,0.00136383312732412
-"Uganda","UGA","Africa",2019,42949080,136163,10.3332,"Diet low in nuts and seeds",68,0.000177324383667381
-"Uganda","UGA","Africa",2019,42949080,136163,10.3332,"Diet low in vegetables",1970,0.00513719170330501
-"Ukraine","UKR","Europe",2019,44386203,856572,288.646,"Diet low in whole grains",66765,0.174103859934599
-"Ukraine","UKR","Europe",2019,44386203,856572,288.646,"Diet low in fruits",25488,0.0664653513369737
-"Ukraine","UKR","Europe",2019,44386203,856572,288.646,"Diet low in nuts and seeds",29883,0.0779262434872405
-"Ukraine","UKR","Europe",2019,44386203,856572,288.646,"Diet low in vegetables",5983,0.015601938051205
-"United Arab Emirates","ARE","Asia",2019,9211657,34788,22.9275,"Diet low in whole grains",1470,0.00383333594104486
-"United Arab Emirates","ARE","Asia",2019,9211657,34788,22.9275,"Diet low in fruits",323,0.000842290822420061
-"United Arab Emirates","ARE","Asia",2019,9211657,34788,22.9275,"Diet low in nuts and seeds",26,6.78004996375281e-05
-"United Arab Emirates","ARE","Asia",2019,9211657,34788,22.9275,"Diet low in vegetables",293,0.000764059476684451
-"United Kingdom","GBR","Europe",2019,66836327,481831,71.8053,"Diet low in whole grains",20849,0.054368177574724
-"United Kingdom","GBR","Europe",2019,66836327,481831,71.8053,"Diet low in fruits",10067,0.026251831917346
-"United Kingdom","GBR","Europe",2019,66836327,481831,71.8053,"Diet low in nuts and seeds",11140,0.0290499063831563
-"United Kingdom","GBR","Europe",2019,66836327,481831,71.8053,"Diet low in vegetables",5936,0.0154793756095526
-"United States","USA","North America",2019,328329953,2549358,55.2569,"Diet low in whole grains",102247,0.266630680247628
-"United States","USA","North America",2019,328329953,2549358,55.2569,"Diet low in fruits",40172,0.10475698736303
-"United States","USA","North America",2019,328329953,2549358,55.2569,"Diet low in nuts and seeds",11029,0.0287604504039345
-"United States","USA","North America",2019,328329953,2549358,55.2569,"Diet low in vegetables",27977,0.0729559453215047
-"Uruguay","URY","South America",2019,3428409,25129,69.6241,"Diet low in whole grains",1183,0.00308492273350753
-"Uruguay","URY","South America",2019,3428409,25129,69.6241,"Diet low in fruits",396,0.00103265376371004
-"Uruguay","URY","South America",2019,3428409,25129,69.6241,"Diet low in nuts and seeds",401,0.00104569232133264
-"Uruguay","URY","South America",2019,3428409,25129,69.6241,"Diet low in vegetables",407,0.00106133859047977
-"Uzbekistan","UZB","Asia",2019,33580350,290223,105.6124,"Diet low in whole grains",20155,0.0525584257767069
-"Uzbekistan","UZB","Asia",2019,33580350,290223,105.6124,"Diet low in fruits",5139,0.0134010295245099
-"Uzbekistan","UZB","Asia",2019,33580350,290223,105.6124,"Diet low in nuts and seeds",9943,0.0259284756883055
-"Uzbekistan","UZB","Asia",2019,33580350,290223,105.6124,"Diet low in vegetables",228,0.000594558227590631
-"Vanuatu","VUT","Oceania",2019,304404,2975,75.886,"Diet low in whole grains",103,0.000268594287025592
-"Vanuatu","VUT","Oceania",2019,304404,2975,75.886,"Diet low in fruits",53,0.000138208710799576
-"Vanuatu","VUT","Oceania",2019,304404,2975,75.886,"Diet low in nuts and seeds",9,2.34694037206828e-05
-"Vanuatu","VUT","Oceania",2019,304404,2975,75.886,"Diet low in vegetables",66,0.000172108960618341
-"Vietnam","VNM","Asia",2019,95776716,706638,35.4397,"Diet low in whole grains",11915,0.0310708828146595
-"Vietnam","VNM","Asia",2019,95776716,706638,35.4397,"Diet low in fruits",15136,0.0394703216351394
-"Vietnam","VNM","Asia",2019,95776716,706638,35.4397,"Diet low in nuts and seeds",769,0.00200533016235612
-"Vietnam","VNM","Asia",2019,95776716,706638,35.4397,"Diet low in vegetables",6123,0.0159670176646379
-"Zambia","ZMB","Africa",2019,18380477,72280,22.8558,"Diet low in whole grains",873,0.00227653216090623
-"Zambia","ZMB","Africa",2019,18380477,72280,22.8558,"Diet low in fruits",2056,0.00536145489441376
-"Zambia","ZMB","Africa",2019,18380477,72280,22.8558,"Diet low in nuts and seeds",71,0.000185147518240942
-"Zambia","ZMB","Africa",2019,18380477,72280,22.8558,"Diet low in vegetables",1201,0.00313186154094889
-"Zimbabwe","ZWE","Africa",2019,15354608,81732,33.0389,"Diet low in whole grains",1475,0.00384637449866746
-"Zimbabwe","ZWE","Africa",2019,15354608,81732,33.0389,"Diet low in fruits",1960,0.00511111458805981
-"Zimbabwe","ZWE","Africa",2019,15354608,81732,33.0389,"Diet low in nuts and seeds",256,0.0006675741502772
-"Zimbabwe","ZWE","Africa",2019,15354608,81732,33.0389,"Diet low in vegetables",1382,0.00360385732688707
+Country,Code,Continent region,Year,Population,Total Death Rate,Average death rate,Factor,Death rate,normalised death rate
+Afghanistan,AFG,Asia,2019,37769499,209370,61.7827,Diet low in whole grains,10335,0.026950699
+Afghanistan,AFG,Asia,2019,37769499,209370,61.7827,Diet low in fruits,4583,0.011951142
+Afghanistan,AFG,Asia,2019,37769499,209370,61.7827,Diet low in nuts and seeds,3269,0.008524609
+Afghanistan,AFG,Asia,2019,37769499,209370,61.7827,Diet low in vegetables,5148,0.013424499
+Albania,ALB,Europe,2019,2854191,28500,75.9234,Diet low in whole grains,1520,0.003963722
+Albania,ALB,Europe,2019,2854191,28500,75.9234,Diet low in fruits,217,0.000565873
+Albania,ALB,Europe,2019,2854191,28500,75.9234,Diet low in nuts and seeds,379,0.000988323
+Albania,ALB,Europe,2019,2854191,28500,75.9234,Diet low in vegetables,51,0.000132993
+Algeria,DZA,Africa,2019,42705368,248758,60.5498,Diet low in whole grains,14772,0.038521115
+Algeria,DZA,Africa,2019,42705368,248758,60.5498,Diet low in fruits,2648,0.00690522
+Algeria,DZA,Africa,2019,42705368,248758,60.5498,Diet low in nuts and seeds,5697,0.014856133
+Algeria,DZA,Africa,2019,42705368,248758,60.5498,Diet low in vegetables,2741,0.007147737
+American Samoa,ASM,Oceania,2019,47321,440,67.6233,Diet low in whole grains,16,4.17E-05
+American Samoa,ASM,Oceania,2019,47321,440,67.6233,Diet low in fruits,8,2.09E-05
+American Samoa,ASM,Oceania,2019,47321,440,67.6233,Diet low in nuts and seeds,0,0
+American Samoa,ASM,Oceania,2019,47321,440,67.6233,Diet low in vegetables,8,2.09E-05
+Andorra,AND,Europe,2019,76343,461,37.9865,Diet low in whole grains,19,4.95E-05
+Andorra,AND,Europe,2019,76343,461,37.9865,Diet low in fruits,5,1.30E-05
+Andorra,AND,Europe,2019,76343,461,37.9865,Diet low in nuts and seeds,2,5.22E-06
+Andorra,AND,Europe,2019,76343,461,37.9865,Diet low in vegetables,3,7.82E-06
+Angola,AGO,Africa,2019,32353588,105877,16.5855,Diet low in whole grains,2013,0.005249323
+Angola,AGO,Africa,2019,32353588,105877,16.5855,Diet low in fruits,1579,0.004117576
+Angola,AGO,Africa,2019,32353588,105877,16.5855,Diet low in nuts and seeds,449,0.001170862
+Angola,AGO,Africa,2019,32353588,105877,16.5855,Diet low in vegetables,1325,0.003455218
+Antigua and Barbuda,ATG,North America,2019,92117,562,47.7653,Diet low in whole grains,26,6.78E-05
+Antigua and Barbuda,ATG,North America,2019,92117,562,47.7653,Diet low in fruits,6,1.56E-05
+Antigua and Barbuda,ATG,North America,2019,92117,562,47.7653,Diet low in nuts and seeds,4,1.04E-05
+Antigua and Barbuda,ATG,North America,2019,92117,562,47.7653,Diet low in vegetables,8,2.09E-05
+Argentina,ARG,South America,2019,44938712,279007,48.822,Diet low in whole grains,11347,0.029589703
+Argentina,ARG,South America,2019,44938712,279007,48.822,Diet low in fruits,2134,0.005564856
+Argentina,ARG,South America,2019,44938712,279007,48.822,Diet low in nuts and seeds,5374,0.014013842
+Argentina,ARG,South America,2019,44938712,279007,48.822,Diet low in vegetables,3085,0.00804479
+Armenia,ARM,Asia,2019,2820602,36622,135.6093,Diet low in whole grains,2446,0.006378462
+Armenia,ARM,Asia,2019,2820602,36622,135.6093,Diet low in fruits,319,0.00083186
+Armenia,ARM,Asia,2019,2820602,36622,135.6093,Diet low in nuts and seeds,1031,0.002688551
+Armenia,ARM,Asia,2019,2820602,36622,135.6093,Diet low in vegetables,29,7.56E-05
+Australia,AUS,Oceania,2019,25340217,115179,39.0565,Diet low in whole grains,5114,0.013335837
+Australia,AUS,Oceania,2019,25340217,115179,39.0565,Diet low in fruits,2457,0.006407147
+Australia,AUS,Oceania,2019,25340217,115179,39.0565,Diet low in nuts and seeds,826,0.00215397
+Australia,AUS,Oceania,2019,25340217,115179,39.0565,Diet low in vegetables,1500,0.003911567
+Austria,AUT,Europe,2019,8879920,74571,55.7437,Diet low in whole grains,2985,0.007784019
+Austria,AUT,Europe,2019,8879920,74571,55.7437,Diet low in fruits,662,0.001726305
+Austria,AUT,Europe,2019,8879920,74571,55.7437,Diet low in nuts and seeds,504,0.001314287
+Austria,AUT,Europe,2019,8879920,74571,55.7437,Diet low in vegetables,799,0.002083562
+Azerbaijan,AZE,Asia,2019,10024283,105302,106.3916,Diet low in whole grains,7060,0.018410443
+Azerbaijan,AZE,Asia,2019,10024283,105302,106.3916,Diet low in fruits,1393,0.003632542
+Azerbaijan,AZE,Asia,2019,10024283,105302,106.3916,Diet low in nuts and seeds,2056,0.005361455
+Azerbaijan,AZE,Asia,2019,10024283,105302,106.3916,Diet low in vegetables,156,0.000406803
+Bahrain,BHR,Asia,2019,1494188,5933,23.0225,Diet low in whole grains,259,0.000675397
+Bahrain,BHR,Asia,2019,1494188,5933,23.0225,Diet low in fruits,31,8.08E-05
+Bahrain,BHR,Asia,2019,1494188,5933,23.0225,Diet low in nuts and seeds,40,0.000104308
+Bahrain,BHR,Asia,2019,1494188,5933,23.0225,Diet low in vegetables,14,3.65E-05
+Bangladesh,BGD,Asia,2019,165516222,970115,50.8041,Diet low in whole grains,15559,0.040573384
+Bangladesh,BGD,Asia,2019,165516222,970115,50.8041,Diet low in fruits,29969,0.078150507
+Bangladesh,BGD,Asia,2019,165516222,970115,50.8041,Diet low in nuts and seeds,16094,0.041968509
+Bangladesh,BGD,Asia,2019,165516222,970115,50.8041,Diet low in vegetables,22467,0.058587455
+Barbados,BRB,North America,2019,280180,2666,71.7396,Diet low in whole grains,98,0.000255556
+Barbados,BRB,North America,2019,280180,2666,71.7396,Diet low in fruits,66,0.000172109
+Barbados,BRB,North America,2019,280180,2666,71.7396,Diet low in nuts and seeds,3,7.82E-06
+Barbados,BRB,North America,2019,280180,2666,71.7396,Diet low in vegetables,34,8.87E-05
+Belarus,BLR,Europe,2019,9419758,153255,228.3817,Diet low in whole grains,12391,0.032312154
+Belarus,BLR,Europe,2019,9419758,153255,228.3817,Diet low in fruits,3574,0.009319961
+Belarus,BLR,Europe,2019,9419758,153255,228.3817,Diet low in nuts and seeds,4509,0.011758171
+Belarus,BLR,Europe,2019,9419758,153255,228.3817,Diet low in vegetables,1039,0.002709412
+Belgium,BEL,Europe,2019,11488980,86707,49.3603,Diet low in whole grains,3346,0.008725403
+Belgium,BEL,Europe,2019,11488980,86707,49.3603,Diet low in fruits,1316,0.003431748
+Belgium,BEL,Europe,2019,11488980,86707,49.3603,Diet low in nuts and seeds,437,0.00113957
+Belgium,BEL,Europe,2019,11488980,86707,49.3603,Diet low in vegetables,572,0.001491611
+Belize,BLZ,North America,2019,389095,1612,19.7895,Diet low in whole grains,48,0.00012517
+Belize,BLZ,North America,2019,389095,1612,19.7895,Diet low in fruits,3,7.82E-06
+Belize,BLZ,North America,2019,389095,1612,19.7895,Diet low in nuts and seeds,1,2.61E-06
+Belize,BLZ,North America,2019,389095,1612,19.7895,Diet low in vegetables,25,6.52E-05
+Benin,BEN,Africa,2019,12290444,54239,18.7544,Diet low in whole grains,794,0.002070523
+Benin,BEN,Africa,2019,12290444,54239,18.7544,Diet low in fruits,918,0.002393879
+Benin,BEN,Africa,2019,12290444,54239,18.7544,Diet low in nuts and seeds,49,0.000127778
+Benin,BEN,Africa,2019,12290444,54239,18.7544,Diet low in vegetables,544,0.001418595
+Bermuda,BMU,North America,2019,63911,469,70.4104,Diet low in whole grains,25,6.52E-05
+Bermuda,BMU,North America,2019,63911,469,70.4104,Diet low in fruits,10,2.61E-05
+Bermuda,BMU,North America,2019,63911,469,70.4104,Diet low in nuts and seeds,4,1.04E-05
+Bermuda,BMU,North America,2019,63911,469,70.4104,Diet low in vegetables,6,1.56E-05
+Bhutan,BTN,Asia,2019,767459,3938,39.6112,Diet low in whole grains,105,0.00027381
+Bhutan,BTN,Asia,2019,767459,3938,39.6112,Diet low in fruits,84,0.000219048
+Bhutan,BTN,Asia,2019,767459,3938,39.6112,Diet low in nuts and seeds,50,0.000130386
+Bhutan,BTN,Asia,2019,767459,3938,39.6112,Diet low in vegetables,65,0.000169501
+Bolivia,BOL,South America,2019,11777315,53929,29.0898,Diet low in whole grains,1604,0.004182769
+Bolivia,BOL,South America,2019,11777315,53929,29.0898,Diet low in fruits,824,0.002148754
+Bolivia,BOL,South America,2019,11777315,53929,29.0898,Diet low in nuts and seeds,77,0.000200794
+Bolivia,BOL,South America,2019,11777315,53929,29.0898,Diet low in vegetables,921,0.002401702
+Bosnia and Herzegovina,BIH,Europe,2019,3360711,54412,103.3115,Diet low in whole grains,1698,0.004427894
+Bosnia and Herzegovina,BIH,Europe,2019,3360711,54412,103.3115,Diet low in fruits,742,0.001934922
+Bosnia and Herzegovina,BIH,Europe,2019,3360711,54412,103.3115,Diet low in nuts and seeds,810,0.002112246
+Bosnia and Herzegovina,BIH,Europe,2019,3360711,54412,103.3115,Diet low in vegetables,222,0.000578912
+Botswana,BWA,Africa,2019,2499702,15296,46.4055,Diet low in whole grains,318,0.000829252
+Botswana,BWA,Africa,2019,2499702,15296,46.4055,Diet low in fruits,421,0.001097847
+Botswana,BWA,Africa,2019,2499702,15296,46.4055,Diet low in nuts and seeds,199,0.000518935
+Botswana,BWA,Africa,2019,2499702,15296,46.4055,Diet low in vegetables,222,0.000578912
+Brazil,BRA,South America,2019,211782878,1152449,29.8679,Diet low in whole grains,33250,0.086706408
+Brazil,BRA,South America,2019,211782878,1152449,29.8679,Diet low in fruits,11488,0.02995739
+Brazil,BRA,South America,2019,211782878,1152449,29.8679,Diet low in nuts and seeds,816,0.002127893
+Brazil,BRA,South America,2019,211782878,1152449,29.8679,Diet low in vegetables,17701,0.046159102
+Bulgaria,BGR,Europe,2019,6975761,177175,194.0433,Diet low in whole grains,7343,0.019148426
+Bulgaria,BGR,Europe,2019,6975761,177175,194.0433,Diet low in fruits,3361,0.008764518
+Bulgaria,BGR,Europe,2019,6975761,177175,194.0433,Diet low in nuts and seeds,2269,0.005916897
+Bulgaria,BGR,Europe,2019,6975761,177175,194.0433,Diet low in vegetables,563,0.001468142
+Burkina Faso,BFA,Africa,2019,20951639,116939,27.0957,Diet low in whole grains,1869,0.004873813
+Burkina Faso,BFA,Africa,2019,20951639,116939,27.0957,Diet low in fruits,2223,0.005796943
+Burkina Faso,BFA,Africa,2019,20951639,116939,27.0957,Diet low in nuts and seeds,98,0.000255556
+Burkina Faso,BFA,Africa,2019,20951639,116939,27.0957,Diet low in vegetables,1487,0.003877667
+Burundi,BDI,Africa,2019,11874838,55599,21.3898,Diet low in whole grains,955,0.002490365
+Burundi,BDI,Africa,2019,11874838,55599,21.3898,Diet low in fruits,317,0.000826645
+Burundi,BDI,Africa,2019,11874838,55599,21.3898,Diet low in nuts and seeds,471,0.001228232
+Burundi,BDI,Africa,2019,11874838,55599,21.3898,Diet low in vegetables,797,0.002078346
+Cambodia,KHM,Asia,2019,16207746,113008,39.4873,Diet low in whole grains,1319,0.003439572
+Cambodia,KHM,Asia,2019,16207746,113008,39.4873,Diet low in fruits,2836,0.00739547
+Cambodia,KHM,Asia,2019,16207746,113008,39.4873,Diet low in nuts and seeds,166,0.00043288
+Cambodia,KHM,Asia,2019,16207746,113008,39.4873,Diet low in vegetables,2079,0.005421432
+Cameroon,CMR,Africa,2019,25782341,128405,16.3717,Diet low in whole grains,1989,0.005186738
+Cameroon,CMR,Africa,2019,25782341,128405,16.3717,Diet low in fruits,1203,0.003137077
+Cameroon,CMR,Africa,2019,25782341,128405,16.3717,Diet low in nuts and seeds,34,8.87E-05
+Cameroon,CMR,Africa,2019,25782341,128405,16.3717,Diet low in vegetables,995,0.002594673
+Canada,CAN,North America,2019,37601230,212170,41.0093,Diet low in whole grains,9228,0.024063962
+Canada,CAN,North America,2019,37601230,212170,41.0093,Diet low in fruits,3645,0.009505109
+Canada,CAN,North America,2019,37601230,212170,41.0093,Diet low in nuts and seeds,296,0.000771883
+Canada,CAN,North America,2019,37601230,212170,41.0093,Diet low in vegetables,2251,0.005869959
+Central African Republic,CAF,Africa,2019,5209324,40797,33.1713,Diet low in whole grains,554,0.001444672
+Central African Republic,CAF,Africa,2019,5209324,40797,33.1713,Diet low in fruits,591,0.001541158
+Central African Republic,CAF,Africa,2019,5209324,40797,33.1713,Diet low in nuts and seeds,13,3.39E-05
+Central African Republic,CAF,Africa,2019,5209324,40797,33.1713,Diet low in vegetables,570,0.001486396
+Chad,TCD,Africa,2019,16126866,102015,25.8017,Diet low in whole grains,1615,0.004211454
+Chad,TCD,Africa,2019,16126866,102015,25.8017,Diet low in fruits,1363,0.003554311
+Chad,TCD,Africa,2019,16126866,102015,25.8017,Diet low in nuts and seeds,165,0.000430272
+Chad,TCD,Africa,2019,16126866,102015,25.8017,Diet low in vegetables,1018,0.00265465
+Chile,CHL,South America,2019,19039485,98543,32.3276,Diet low in whole grains,3143,0.008196037
+Chile,CHL,South America,2019,19039485,98543,32.3276,Diet low in fruits,1389,0.003622111
+Chile,CHL,South America,2019,19039485,98543,32.3276,Diet low in nuts and seeds,984,0.002565988
+Chile,CHL,South America,2019,19039485,98543,32.3276,Diet low in vegetables,639,0.001666328
+China,CHN,Asia,2019,1407745000,13409833,50.905,Diet low in whole grains,383478,1
+China,CHN,Asia,2019,1407745000,13409833,50.905,Diet low in fruits,231120,0.602694288
+China,CHN,Asia,2019,1407745000,13409833,50.905,Diet low in nuts and seeds,86309,0.225068974
+China,CHN,Asia,2019,1407745000,13409833,50.905,Diet low in vegetables,15706,0.040956717
+Colombia,COL,South America,2019,50187406,191401,31.0496,Diet low in whole grains,7112,0.018546044
+Colombia,COL,South America,2019,50187406,191401,31.0496,Diet low in fruits,2202,0.005742181
+Colombia,COL,South America,2019,50187406,191401,31.0496,Diet low in nuts and seeds,2834,0.007390254
+Colombia,COL,South America,2019,50187406,191401,31.0496,Diet low in vegetables,3435,0.008957489
+Comoros,COM,Africa,2019,790986,3767,30.2155,Diet low in whole grains,90,0.000234694
+Comoros,COM,Africa,2019,790986,3767,30.2155,Diet low in fruits,52,0.000135601
+Comoros,COM,Africa,2019,790986,3767,30.2155,Diet low in nuts and seeds,16,4.17E-05
+Comoros,COM,Africa,2019,790986,3767,30.2155,Diet low in vegetables,81,0.000211225
+Costa Rica,CRI,North America,2019,5084532,19431,29.9929,Diet low in whole grains,796,0.002075738
+Costa Rica,CRI,North America,2019,5084532,19431,29.9929,Diet low in fruits,161,0.000419842
+Costa Rica,CRI,North America,2019,5084532,19431,29.9929,Diet low in nuts and seeds,222,0.000578912
+Costa Rica,CRI,North America,2019,5084532,19431,29.9929,Diet low in vegetables,346,0.000902268
+Cote d'Ivoire,CIV,Africa,2019,26147551,111121,18.4606,Diet low in whole grains,2084,0.005434471
+Cote d'Ivoire,CIV,Africa,2019,26147551,111121,18.4606,Diet low in fruits,1317,0.003434356
+Cote d'Ivoire,CIV,Africa,2019,26147551,111121,18.4606,Diet low in nuts and seeds,43,0.000112132
+Cote d'Ivoire,CIV,Africa,2019,26147551,111121,18.4606,Diet low in vegetables,1383,0.003606465
+Croatia,HRV,Europe,2019,4065253,63838,121.3701,Diet low in whole grains,2642,0.006889574
+Croatia,HRV,Europe,2019,4065253,63838,121.3701,Diet low in fruits,795,0.002073131
+Croatia,HRV,Europe,2019,4065253,63838,121.3701,Diet low in nuts and seeds,822,0.002143539
+Croatia,HRV,Europe,2019,4065253,63838,121.3701,Diet low in vegetables,675,0.001760205
+Cuba,CUB,North America,2019,11316697,100247,57.9674,Diet low in whole grains,4112,0.01072291
+Cuba,CUB,North America,2019,11316697,100247,57.9674,Diet low in fruits,1113,0.002902383
+Cuba,CUB,North America,2019,11316697,100247,57.9674,Diet low in nuts and seeds,324,0.000844899
+Cuba,CUB,North America,2019,11316697,100247,57.9674,Diet low in vegetables,1011,0.002636396
+Cyprus,CYP,Asia,2019,1228836,8293,50.3729,Diet low in whole grains,393,0.001024831
+Cyprus,CYP,Asia,2019,1228836,8293,50.3729,Diet low in fruits,102,0.000265987
+Cyprus,CYP,Asia,2019,1228836,8293,50.3729,Diet low in nuts and seeds,28,7.30E-05
+Cyprus,CYP,Asia,2019,1228836,8293,50.3729,Diet low in vegetables,96,0.00025034
+Czechia,CZE,Europe,2019,10671870,133620,105.6891,Diet low in whole grains,5058,0.013189805
+Czechia,CZE,Europe,2019,10671870,133620,105.6891,Diet low in fruits,2469,0.00643844
+Czechia,CZE,Europe,2019,10671870,133620,105.6891,Diet low in nuts and seeds,1929,0.005030276
+Czechia,CZE,Europe,2019,10671870,133620,105.6891,Diet low in vegetables,1823,0.004753858
+Denmark,DNK,Europe,2019,5814422,43825,51.8194,Diet low in whole grains,1774,0.00462608
+Denmark,DNK,Europe,2019,5814422,43825,51.8194,Diet low in fruits,504,0.001314287
+Denmark,DNK,Europe,2019,5814422,43825,51.8194,Diet low in nuts and seeds,369,0.000962246
+Denmark,DNK,Europe,2019,5814422,43825,51.8194,Diet low in vegetables,366,0.000954422
+Djibouti,DJI,Africa,2019,1073994,4551,36.5924,Diet low in whole grains,127,0.000331179
+Djibouti,DJI,Africa,2019,1073994,4551,36.5924,Diet low in fruits,139,0.000362472
+Djibouti,DJI,Africa,2019,1073994,4551,36.5924,Diet low in nuts and seeds,55,0.000143424
+Djibouti,DJI,Africa,2019,1073994,4551,36.5924,Diet low in vegetables,72,0.000187755
+Dominica,DMA,North America,2019,71428,635,51.8004,Diet low in whole grains,29,7.56E-05
+Dominica,DMA,North America,2019,71428,635,51.8004,Diet low in fruits,1,2.61E-06
+Dominica,DMA,North America,2019,71428,635,51.8004,Diet low in nuts and seeds,1,2.61E-06
+Dominica,DMA,North America,2019,71428,635,51.8004,Diet low in vegetables,6,1.56E-05
+Dominican Republic,DOM,North America,2019,10881882,65898,41.3348,Diet low in whole grains,2789,0.007272907
+Dominican Republic,DOM,North America,2019,10881882,65898,41.3348,Diet low in fruits,269,0.000701474
+Dominican Republic,DOM,North America,2019,10881882,65898,41.3348,Diet low in nuts and seeds,116,0.000302495
+Dominican Republic,DOM,North America,2019,10881882,65898,41.3348,Diet low in vegetables,1324,0.00345261
+Ecuador,ECU,South America,2019,17343740,68009,28.5809,Diet low in whole grains,2295,0.005984698
+Ecuador,ECU,South America,2019,17343740,68009,28.5809,Diet low in fruits,331,0.000863153
+Ecuador,ECU,South America,2019,17343740,68009,28.5809,Diet low in nuts and seeds,1111,0.002897168
+Ecuador,ECU,South America,2019,17343740,68009,28.5809,Diet low in vegetables,1220,0.003181408
+El Salvador,SLV,North America,2019,6280217,33639,35.1739,Diet low in whole grains,1082,0.002821544
+El Salvador,SLV,North America,2019,6280217,33639,35.1739,Diet low in fruits,553,0.001442064
+El Salvador,SLV,North America,2019,6280217,33639,35.1739,Diet low in nuts and seeds,58,0.000151247
+El Salvador,SLV,North America,2019,6280217,33639,35.1739,Diet low in vegetables,516,0.001345579
+Equatorial Guinea,GNQ,Africa,2019,1553031,3674,10.3024,Diet low in whole grains,69,0.000179932
+Equatorial Guinea,GNQ,Africa,2019,1553031,3674,10.3024,Diet low in fruits,34,8.87E-05
+Equatorial Guinea,GNQ,Africa,2019,1553031,3674,10.3024,Diet low in nuts and seeds,1,2.61E-06
+Equatorial Guinea,GNQ,Africa,2019,1553031,3674,10.3024,Diet low in vegetables,56,0.000146032
+Eritrea,ERI,Africa,2019,3498818,28504,48.1877,Diet low in whole grains,485,0.00126474
+Eritrea,ERI,Africa,2019,3498818,28504,48.1877,Diet low in fruits,555,0.00144728
+Eritrea,ERI,Africa,2019,3498818,28504,48.1877,Diet low in nuts and seeds,152,0.000396372
+Eritrea,ERI,Africa,2019,3498818,28504,48.1877,Diet low in vegetables,494,0.001288209
+Estonia,EST,Europe,2019,1326898,16275,123.8226,Diet low in whole grains,789,0.002057484
+Estonia,EST,Europe,2019,1326898,16275,123.8226,Diet low in fruits,302,0.000787529
+Estonia,EST,Europe,2019,1326898,16275,123.8226,Diet low in nuts and seeds,364,0.000949207
+Estonia,EST,Europe,2019,1326898,16275,123.8226,Diet low in vegetables,188,0.00049025
+Eswatini,SWZ,Africa,2019,1169613,7449,32.3184,Diet low in whole grains,107,0.000279025
+Eswatini,SWZ,Africa,2019,1169613,7449,32.3184,Diet low in fruits,150,0.000391157
+Eswatini,SWZ,Africa,2019,1169613,7449,32.3184,Diet low in nuts and seeds,17,4.43E-05
+Eswatini,SWZ,Africa,2019,1169613,7449,32.3184,Diet low in vegetables,104,0.000271202
+Ethiopia,ETH,Africa,2019,114120594,347063,19.5066,Diet low in whole grains,6495,0.016937086
+Ethiopia,ETH,Africa,2019,114120594,347063,19.5066,Diet low in fruits,7703,0.020087202
+Ethiopia,ETH,Africa,2019,114120594,347063,19.5066,Diet low in nuts and seeds,3192,0.008323815
+Ethiopia,ETH,Africa,2019,114120594,347063,19.5066,Diet low in vegetables,4871,0.012702163
+Fiji,FJI,Oceania,2019,918465,11174,103.3246,Diet low in whole grains,416,0.001084808
+Fiji,FJI,Oceania,2019,918465,11174,103.3246,Diet low in fruits,353,0.000920522
+Fiji,FJI,Oceania,2019,918465,11174,103.3246,Diet low in nuts and seeds,14,3.65E-05
+Fiji,FJI,Oceania,2019,918465,11174,103.3246,Diet low in vegetables,166,0.00043288
+Finland,FIN,Europe,2019,5521606,48634,100.7316,Diet low in whole grains,2617,0.006824381
+Finland,FIN,Europe,2019,5521606,48634,100.7316,Diet low in fruits,1046,0.002727666
+Finland,FIN,Europe,2019,5521606,48634,100.7316,Diet low in nuts and seeds,1038,0.002706805
+Finland,FIN,Europe,2019,5521606,48634,100.7316,Diet low in vegetables,861,0.00224524
+France,FRA,Europe,2019,67388001,402771,51.481,Diet low in whole grains,18559,0.048396518
+France,FRA,Europe,2019,67388001,402771,51.481,Diet low in fruits,7900,0.020600921
+France,FRA,Europe,2019,67388001,402771,51.481,Diet low in nuts and seeds,3557,0.00927563
+France,FRA,Europe,2019,67388001,402771,51.481,Diet low in vegetables,4676,0.012193659
+Gabon,GAB,Africa,2019,2242785,8831,17.2107,Diet low in whole grains,182,0.000474603
+Gabon,GAB,Africa,2019,2242785,8831,17.2107,Diet low in fruits,51,0.000132993
+Gabon,GAB,Africa,2019,2242785,8831,17.2107,Diet low in nuts and seeds,5,1.30E-05
+Gabon,GAB,Africa,2019,2242785,8831,17.2107,Diet low in vegetables,148,0.000385941
+Georgia,GEO,Asia,2019,3720161,69032,188.9703,Diet low in whole grains,3770,0.009831072
+Georgia,GEO,Asia,2019,3720161,69032,188.9703,Diet low in fruits,1462,0.003812474
+Georgia,GEO,Asia,2019,3720161,69032,188.9703,Diet low in nuts and seeds,1039,0.002709412
+Georgia,GEO,Asia,2019,3720161,69032,188.9703,Diet low in vegetables,759,0.001979253
+Germany,DEU,Europe,2019,83092962,879851,73.3624,Diet low in whole grains,33593,0.087600853
+Germany,DEU,Europe,2019,83092962,879851,73.3624,Diet low in fruits,12908,0.03366034
+Germany,DEU,Europe,2019,83092962,879851,73.3624,Diet low in nuts and seeds,4569,0.011914634
+Germany,DEU,Europe,2019,83092962,879851,73.3624,Diet low in vegetables,9889,0.025787659
+Ghana,GHA,Africa,2019,31522290,145698,20.725,Diet low in whole grains,3438,0.008965312
+Ghana,GHA,Africa,2019,31522290,145698,20.725,Diet low in fruits,915,0.002386056
+Ghana,GHA,Africa,2019,31522290,145698,20.725,Diet low in nuts and seeds,54,0.000140816
+Ghana,GHA,Africa,2019,31522290,145698,20.725,Diet low in vegetables,2126,0.005543995
+Greece,GRC,Europe,2019,10721582,118223,83.5231,Diet low in whole grains,7431,0.019377904
+Greece,GRC,Europe,2019,10721582,118223,83.5231,Diet low in fruits,678,0.001768028
+Greece,GRC,Europe,2019,10721582,118223,83.5231,Diet low in nuts and seeds,567,0.001478572
+Greece,GRC,Europe,2019,10721582,118223,83.5231,Diet low in vegetables,279,0.000727552
+Greenland,GRL,North America,2019,56225,391,39.1285,Diet low in whole grains,13,3.39E-05
+Greenland,GRL,North America,2019,56225,391,39.1285,Diet low in fruits,6,1.56E-05
+Greenland,GRL,North America,2019,56225,391,39.1285,Diet low in nuts and seeds,1,2.61E-06
+Greenland,GRL,North America,2019,56225,391,39.1285,Diet low in vegetables,2,5.22E-06
+Grenada,GRD,North America,2019,122724,787,48.0754,Diet low in whole grains,33,8.61E-05
+Grenada,GRD,North America,2019,122724,787,48.0754,Diet low in fruits,8,2.09E-05
+Grenada,GRD,North America,2019,122724,787,48.0754,Diet low in nuts and seeds,4,1.04E-05
+Grenada,GRD,North America,2019,122724,787,48.0754,Diet low in vegetables,14,3.65E-05
+Guam,GUM,Oceania,2019,168624,1226,62.8618,Diet low in whole grains,63,0.000164286
+Guam,GUM,Oceania,2019,168624,1226,62.8618,Diet low in fruits,16,4.17E-05
+Guam,GUM,Oceania,2019,168624,1226,62.8618,Diet low in nuts and seeds,1,2.61E-06
+Guam,GUM,Oceania,2019,168624,1226,62.8618,Diet low in vegetables,26,6.78E-05
+Guatemala,GTM,North America,2019,16604026,72155,25.3192,Diet low in whole grains,1826,0.004761681
+Guatemala,GTM,North America,2019,16604026,72155,25.3192,Diet low in fruits,1145,0.00298583
+Guatemala,GTM,North America,2019,16604026,72155,25.3192,Diet low in nuts and seeds,371,0.000967461
+Guatemala,GTM,North America,2019,16604026,72155,25.3192,Diet low in vegetables,862,0.002247847
+Guinea,GIN,Africa,2019,12877539,68799,19.5224,Diet low in whole grains,989,0.002579027
+Guinea,GIN,Africa,2019,12877539,68799,19.5224,Diet low in fruits,653,0.001702836
+Guinea,GIN,Africa,2019,12877539,68799,19.5224,Diet low in nuts and seeds,39,0.000101701
+Guinea,GIN,Africa,2019,12877539,68799,19.5224,Diet low in vegetables,833,0.002172224
+Guinea-Bissau,GNB,Africa,2019,1970457,10013,25.9331,Diet low in whole grains,158,0.000412018
+Guinea-Bissau,GNB,Africa,2019,1970457,10013,25.9331,Diet low in fruits,172,0.000448526
+Guinea-Bissau,GNB,Africa,2019,1970457,10013,25.9331,Diet low in nuts and seeds,5,1.30E-05
+Guinea-Bissau,GNB,Africa,2019,1970457,10013,25.9331,Diet low in vegetables,176,0.000458957
+Guyana,GUY,South America,2019,798753,6902,62.848,Diet low in whole grains,216,0.000563266
+Guyana,GUY,South America,2019,798753,6902,62.848,Diet low in fruits,164,0.000427665
+Guyana,GUY,South America,2019,798753,6902,62.848,Diet low in nuts and seeds,10,2.61E-05
+Guyana,GUY,South America,2019,798753,6902,62.848,Diet low in vegetables,112,0.000292064
+Haiti,HTI,North America,2019,11160438,85291,54.7111,Diet low in whole grains,2417,0.006302839
+Haiti,HTI,North America,2019,11160438,85291,54.7111,Diet low in fruits,1510,0.003937644
+Haiti,HTI,North America,2019,11160438,85291,54.7111,Diet low in nuts and seeds,305,0.000795352
+Haiti,HTI,North America,2019,11160438,85291,54.7111,Diet low in vegetables,1874,0.004886851
+Honduras,HND,North America,2019,9958829,48852,34.7732,Diet low in whole grains,1224,0.003191839
+Honduras,HND,North America,2019,9958829,48852,34.7732,Diet low in fruits,747,0.001947961
+Honduras,HND,North America,2019,9958829,48852,34.7732,Diet low in nuts and seeds,699,0.00182279
+Honduras,HND,North America,2019,9958829,48852,34.7732,Diet low in vegetables,793,0.002067915
+Hungary,HUN,Europe,2019,9771141,162490,147.2909,Diet low in whole grains,7228,0.018848539
+Hungary,HUN,Europe,2019,9771141,162490,147.2909,Diet low in fruits,2780,0.007249438
+Hungary,HUN,Europe,2019,9771141,162490,147.2909,Diet low in nuts and seeds,3327,0.008675856
+Hungary,HUN,Europe,2019,9771141,162490,147.2909,Diet low in vegetables,1057,0.002756351
+Iceland,ISL,Europe,2019,360563,1598,47.9805,Diet low in whole grains,88,0.000229479
+Iceland,ISL,Europe,2019,360563,1598,47.9805,Diet low in fruits,33,8.61E-05
+Iceland,ISL,Europe,2019,360563,1598,47.9805,Diet low in nuts and seeds,23,6.00E-05
+Iceland,ISL,Europe,2019,360563,1598,47.9805,Diet low in vegetables,29,7.56E-05
+India,IND,Asia,2019,1383112050,9986827,58.7565,Diet low in whole grains,258257,0.673459755
+India,IND,Asia,2019,1383112050,9986827,58.7565,Diet low in fruits,256232,0.668179139
+India,IND,Asia,2019,1383112050,9986827,58.7565,Diet low in nuts and seeds,164172,0.428113216
+India,IND,Asia,2019,1383112050,9986827,58.7565,Diet low in vegetables,134007,0.349451598
+Indonesia,IDN,Asia,2019,269582878,1914553,45.3245,Diet low in whole grains,38678,0.100861066
+Indonesia,IDN,Asia,2019,269582878,1914553,45.3245,Diet low in fruits,46157,0.120364141
+Indonesia,IDN,Asia,2019,269582878,1914553,45.3245,Diet low in nuts and seeds,1810,0.004719958
+Indonesia,IDN,Asia,2019,269582878,1914553,45.3245,Diet low in vegetables,35542,0.092683283
+Iraq,IRQ,Asia,2019,41563520,250157,56.54,Diet low in whole grains,11803,0.030778819
+Iraq,IRQ,Asia,2019,41563520,250157,56.54,Diet low in fruits,4485,0.011695586
+Iraq,IRQ,Asia,2019,41563520,250157,56.54,Diet low in nuts and seeds,6172,0.016094796
+Iraq,IRQ,Asia,2019,41563520,250157,56.54,Diet low in vegetables,1040,0.00271202
+Ireland,IRL,Europe,2019,4934340,25504,39.4379,Diet low in whole grains,954,0.002487757
+Ireland,IRL,Europe,2019,4934340,25504,39.4379,Diet low in fruits,448,0.001168255
+Ireland,IRL,Europe,2019,4934340,25504,39.4379,Diet low in nuts and seeds,273,0.000711905
+Ireland,IRL,Europe,2019,4934340,25504,39.4379,Diet low in vegetables,271,0.00070669
+Israel,ISR,Asia,2019,9054000,37688,23.5255,Diet low in whole grains,1869,0.004873813
+Israel,ISR,Asia,2019,9054000,37688,23.5255,Diet low in fruits,184,0.000479819
+Israel,ISR,Asia,2019,9054000,37688,23.5255,Diet low in nuts and seeds,37,9.65E-05
+Israel,ISR,Asia,2019,9054000,37688,23.5255,Diet low in vegetables,40,0.000104308
+Italy,ITA,Europe,2019,59729081,558249,76.6092,Diet low in whole grains,32194,0.083952665
+Italy,ITA,Europe,2019,59729081,558249,76.6092,Diet low in fruits,4228,0.011025404
+Italy,ITA,Europe,2019,59729081,558249,76.6092,Diet low in nuts and seeds,5401,0.01408425
+Italy,ITA,Europe,2019,59729081,558249,76.6092,Diet low in vegetables,3935,0.010261345
+Jamaica,JAM,North America,2019,2813773,19347,42.1498,Diet low in whole grains,645,0.001681974
+Jamaica,JAM,North America,2019,2813773,19347,42.1498,Diet low in fruits,288,0.000751021
+Jamaica,JAM,North America,2019,2813773,19347,42.1498,Diet low in nuts and seeds,32,8.34E-05
+Jamaica,JAM,North America,2019,2813773,19347,42.1498,Diet low in vegetables,221,0.000576304
+Japan,JPN,Asia,2019,126633000,842925,51.7732,Diet low in whole grains,30877,0.080518309
+Japan,JPN,Asia,2019,126633000,842925,51.7732,Diet low in fruits,19206,0.050083708
+Japan,JPN,Asia,2019,126633000,842925,51.7732,Diet low in nuts and seeds,12031,0.031373377
+Japan,JPN,Asia,2019,126633000,842925,51.7732,Diet low in vegetables,3448,0.008991389
+Jordan,JOR,Asia,2019,10698683,38837,28.7699,Diet low in whole grains,2044,0.005330162
+Jordan,JOR,Asia,2019,10698683,38837,28.7699,Diet low in fruits,564,0.001470749
+Jordan,JOR,Asia,2019,10698683,38837,28.7699,Diet low in nuts and seeds,173,0.000451134
+Jordan,JOR,Asia,2019,10698683,38837,28.7699,Diet low in vegetables,297,0.00077449
+Kazakhstan,KAZ,Asia,2019,18513673,173146,87.6541,Diet low in whole grains,9455,0.024655912
+Kazakhstan,KAZ,Asia,2019,18513673,173146,87.6541,Diet low in fruits,3450,0.008996605
+Kazakhstan,KAZ,Asia,2019,18513673,173146,87.6541,Diet low in nuts and seeds,2949,0.007690141
+Kazakhstan,KAZ,Asia,2019,18513673,173146,87.6541,Diet low in vegetables,374,0.000975284
+Kenya,KEN,Africa,2019,50951450,175566,17.817,Diet low in whole grains,2724,0.007103406
+Kenya,KEN,Africa,2019,50951450,175566,17.817,Diet low in fruits,3079,0.008029144
+Kenya,KEN,Africa,2019,50951450,175566,17.817,Diet low in nuts and seeds,1120,0.002920637
+Kenya,KEN,Africa,2019,50951450,175566,17.817,Diet low in vegetables,2155,0.005619618
+Kiribati,KIR,Oceania,2019,124241,1521,86.1229,Diet low in whole grains,44,0.000114739
+Kiribati,KIR,Oceania,2019,124241,1521,86.1229,Diet low in fruits,32,8.34E-05
+Kiribati,KIR,Oceania,2019,124241,1521,86.1229,Diet low in nuts and seeds,3,7.82E-06
+Kiribati,KIR,Oceania,2019,124241,1521,86.1229,Diet low in vegetables,28,7.30E-05
+Kuwait,KWT,Asia,2019,4441100,13402,21.256,Diet low in whole grains,619,0.001614173
+Kuwait,KWT,Asia,2019,4441100,13402,21.256,Diet low in fruits,173,0.000451134
+Kuwait,KWT,Asia,2019,4441100,13402,21.256,Diet low in nuts and seeds,127,0.000331179
+Kuwait,KWT,Asia,2019,4441100,13402,21.256,Diet low in vegetables,25,6.52E-05
+Latvia,LVA,Europe,2019,1913822,30631,193.0692,Diet low in whole grains,1847,0.004816443
+Latvia,LVA,Europe,2019,1913822,30631,193.0692,Diet low in fruits,817,0.0021305
+Latvia,LVA,Europe,2019,1913822,30631,193.0692,Diet low in nuts and seeds,650,0.001695012
+Latvia,LVA,Europe,2019,1913822,30631,193.0692,Diet low in vegetables,381,0.000993538
+Lebanon,LBN,Asia,2019,5781907,45273,59.2884,Diet low in whole grains,3146,0.00820386
+Lebanon,LBN,Asia,2019,5781907,45273,59.2884,Diet low in fruits,160,0.000417234
+Lebanon,LBN,Asia,2019,5781907,45273,59.2884,Diet low in nuts and seeds,76,0.000198186
+Lebanon,LBN,Asia,2019,5781907,45273,59.2884,Diet low in vegetables,46,0.000119955
+Lesotho,LSO,Africa,2019,2225702,20029,47.3558,Diet low in whole grains,203,0.000529365
+Lesotho,LSO,Africa,2019,2225702,20029,47.3558,Diet low in fruits,488,0.001272563
+Lesotho,LSO,Africa,2019,2225702,20029,47.3558,Diet low in nuts and seeds,98,0.000255556
+Lesotho,LSO,Africa,2019,2225702,20029,47.3558,Diet low in vegetables,265,0.000691044
+Liberia,LBR,Africa,2019,4985289,19372,21.9044,Diet low in whole grains,356,0.000928345
+Liberia,LBR,Africa,2019,4985289,19372,21.9044,Diet low in fruits,334,0.000870976
+Liberia,LBR,Africa,2019,4985289,19372,21.9044,Diet low in nuts and seeds,96,0.00025034
+Liberia,LBR,Africa,2019,4985289,19372,21.9044,Diet low in vegetables,306,0.00079796
+Libya,LBY,Africa,2019,6569088,38115,50.9508,Diet low in whole grains,2126,0.005543995
+Libya,LBY,Africa,2019,6569088,38115,50.9508,Diet low in fruits,428,0.001116101
+Libya,LBY,Africa,2019,6569088,38115,50.9508,Diet low in nuts and seeds,446,0.001163039
+Libya,LBY,Africa,2019,6569088,38115,50.9508,Diet low in vegetables,347,0.000904876
+Lithuania,LTU,Europe,2019,2794137,40225,187.1777,Diet low in whole grains,2665,0.006949551
+Lithuania,LTU,Europe,2019,2794137,40225,187.1777,Diet low in fruits,983,0.00256338
+Lithuania,LTU,Europe,2019,2794137,40225,187.1777,Diet low in nuts and seeds,1020,0.002659866
+Lithuania,LTU,Europe,2019,2794137,40225,187.1777,Diet low in vegetables,562,0.001465534
+Luxembourg,LUX,Europe,2019,620001,3398,43.5483,Diet low in whole grains,126,0.000328572
+Luxembourg,LUX,Europe,2019,620001,3398,43.5483,Diet low in fruits,51,0.000132993
+Luxembourg,LUX,Europe,2019,620001,3398,43.5483,Diet low in nuts and seeds,60,0.000156463
+Luxembourg,LUX,Europe,2019,620001,3398,43.5483,Diet low in vegetables,33,8.61E-05
+Madagascar,MDG,Africa,2019,27533134,127057,29.5135,Diet low in whole grains,1772,0.004620865
+Madagascar,MDG,Africa,2019,27533134,127057,29.5135,Diet low in fruits,2695,0.007027783
+Madagascar,MDG,Africa,2019,27533134,127057,29.5135,Diet low in nuts and seeds,1086,0.002831975
+Madagascar,MDG,Africa,2019,27533134,127057,29.5135,Diet low in vegetables,2573,0.006709642
+Malawi,MWI,Africa,2019,18867337,72259,17.2096,Diet low in whole grains,836,0.002180047
+Malawi,MWI,Africa,2019,18867337,72259,17.2096,Diet low in fruits,1192,0.003108392
+Malawi,MWI,Africa,2019,18867337,72259,17.2096,Diet low in nuts and seeds,73,0.000190363
+Malawi,MWI,Africa,2019,18867337,72259,17.2096,Diet low in vegetables,1146,0.002988437
+Malaysia,MYS,Asia,2019,32804020,168244,38.2179,Diet low in whole grains,6540,0.017054433
+Malaysia,MYS,Asia,2019,32804020,168244,38.2179,Diet low in fruits,2790,0.007275515
+Malaysia,MYS,Asia,2019,32804020,168244,38.2179,Diet low in nuts and seeds,83,0.00021644
+Malaysia,MYS,Asia,2019,32804020,168244,38.2179,Diet low in vegetables,3124,0.008146491
+Maldives,MDV,Asia,2019,504508,1377,26.3623,Diet low in whole grains,65,0.000169501
+Maldives,MDV,Asia,2019,504508,1377,26.3623,Diet low in fruits,32,8.34E-05
+Maldives,MDV,Asia,2019,504508,1377,26.3623,Diet low in nuts and seeds,14,3.65E-05
+Maldives,MDV,Asia,2019,504508,1377,26.3623,Diet low in vegetables,22,5.74E-05
+Mali,MLI,Africa,2019,20567424,102732,20.8631,Diet low in whole grains,1437,0.003747281
+Mali,MLI,Africa,2019,20567424,102732,20.8631,Diet low in fruits,1416,0.00369252
+Mali,MLI,Africa,2019,20567424,102732,20.8631,Diet low in nuts and seeds,251,0.000654536
+Mali,MLI,Africa,2019,20567424,102732,20.8631,Diet low in vegetables,1187,0.003095354
+Malta,MLT,Europe,2019,504062,3614,68.6423,Diet low in whole grains,242,0.000631066
+Malta,MLT,Europe,2019,504062,3614,68.6423,Diet low in fruits,57,0.00014864
+Malta,MLT,Europe,2019,504062,3614,68.6423,Diet low in nuts and seeds,27,7.04E-05
+Malta,MLT,Europe,2019,504062,3614,68.6423,Diet low in vegetables,20,5.22E-05
+Marshall Islands,MHL,Oceania,2019,44728,493,109.5511,Diet low in whole grains,20,5.22E-05
+Marshall Islands,MHL,Oceania,2019,44728,493,109.5511,Diet low in fruits,14,3.65E-05
+Marshall Islands,MHL,Oceania,2019,44728,493,109.5511,Diet low in nuts and seeds,2,5.22E-06
+Marshall Islands,MHL,Oceania,2019,44728,493,109.5511,Diet low in vegetables,13,3.39E-05
+Mauritania,MRT,Africa,2019,4383849,15573,30.0877,Diet low in whole grains,423,0.001103062
+Mauritania,MRT,Africa,2019,4383849,15573,30.0877,Diet low in fruits,391,0.001019615
+Mauritania,MRT,Africa,2019,4383849,15573,30.0877,Diet low in nuts and seeds,243,0.000633674
+Mauritania,MRT,Africa,2019,4383849,15573,30.0877,Diet low in vegetables,262,0.00068322
+Mauritius,MUS,Africa,2019,1265985,13563,76.2252,Diet low in whole grains,414,0.001079593
+Mauritius,MUS,Africa,2019,1265985,13563,76.2252,Diet low in fruits,372,0.000970069
+Mauritius,MUS,Africa,2019,1265985,13563,76.2252,Diet low in nuts and seeds,49,0.000127778
+Mauritius,MUS,Africa,2019,1265985,13563,76.2252,Diet low in vegetables,130,0.000339002
+Mexico,MEX,North America,2019,125085311,691863,29.5718,Diet low in whole grains,15806,0.041217488
+Mexico,MEX,North America,2019,125085311,691863,29.5718,Diet low in fruits,6737,0.017568153
+Mexico,MEX,North America,2019,125085311,691863,29.5718,Diet low in nuts and seeds,6842,0.017841962
+Mexico,MEX,North America,2019,125085311,691863,29.5718,Diet low in vegetables,7605,0.019831646
+Moldova,MDA,Europe,2019,2664224,49878,227.1581,Diet low in whole grains,2642,0.006889574
+Moldova,MDA,Europe,2019,2664224,49878,227.1581,Diet low in fruits,1152,0.003004084
+Moldova,MDA,Europe,2019,2664224,49878,227.1581,Diet low in nuts and seeds,1479,0.003856805
+Moldova,MDA,Europe,2019,2664224,49878,227.1581,Diet low in vegetables,779,0.002031407
+Monaco,MCO,Europe,2019,37034,385,56.7046,Diet low in whole grains,18,4.69E-05
+Monaco,MCO,Europe,2019,37034,385,56.7046,Diet low in fruits,2,5.22E-06
+Monaco,MCO,Europe,2019,37034,385,56.7046,Diet low in nuts and seeds,0,0
+Monaco,MCO,Europe,2019,37034,385,56.7046,Diet low in vegetables,1,2.61E-06
+Mongolia,MNG,Asia,2019,3232430,30623,119.5386,Diet low in whole grains,1301,0.003392633
+Mongolia,MNG,Asia,2019,3232430,30623,119.5386,Diet low in fruits,1184,0.00308753
+Mongolia,MNG,Asia,2019,3232430,30623,119.5386,Diet low in nuts and seeds,692,0.001804536
+Mongolia,MNG,Asia,2019,3232430,30623,119.5386,Diet low in vegetables,687,0.001791498
+Montenegro,MNE,Europe,2019,622028,10287,80.3822,Diet low in whole grains,319,0.00083186
+Montenegro,MNE,Europe,2019,622028,10287,80.3822,Diet low in fruits,66,0.000172109
+Montenegro,MNE,Europe,2019,622028,10287,80.3822,Diet low in nuts and seeds,102,0.000265987
+Montenegro,MNE,Europe,2019,622028,10287,80.3822,Diet low in vegetables,13,3.39E-05
+Morocco,MAR,Africa,2019,36304408,303235,78.4285,Diet low in whole grains,19647,0.051233708
+Morocco,MAR,Africa,2019,36304408,303235,78.4285,Diet low in fruits,1786,0.004657373
+Morocco,MAR,Africa,2019,36304408,303235,78.4285,Diet low in nuts and seeds,5133,0.013385383
+Morocco,MAR,Africa,2019,36304408,303235,78.4285,Diet low in vegetables,1907,0.004972906
+Mozambique,MOZ,Africa,2019,30285595,131532,24.8072,Diet low in whole grains,2092,0.005455333
+Mozambique,MOZ,Africa,2019,30285595,131532,24.8072,Diet low in fruits,2985,0.007784019
+Mozambique,MOZ,Africa,2019,30285595,131532,24.8072,Diet low in nuts and seeds,303,0.000790137
+Mozambique,MOZ,Africa,2019,30285595,131532,24.8072,Diet low in vegetables,2133,0.005562249
+Myanmar,MMR,Asia,2019,53040212,488029,48.68,Diet low in whole grains,7526,0.019625637
+Myanmar,MMR,Asia,2019,53040212,488029,48.68,Diet low in fruits,12265,0.031983582
+Myanmar,MMR,Asia,2019,53040212,488029,48.68,Diet low in nuts and seeds,134,0.000349433
+Myanmar,MMR,Asia,2019,53040212,488029,48.68,Diet low in vegetables,5895,0.015372459
+Namibia,NAM,Africa,2019,2446644,13500,39.6461,Diet low in whole grains,282,0.000735375
+Namibia,NAM,Africa,2019,2446644,13500,39.6461,Diet low in fruits,319,0.00083186
+Namibia,NAM,Africa,2019,2446644,13500,39.6461,Diet low in nuts and seeds,170,0.000443311
+Namibia,NAM,Africa,2019,2446644,13500,39.6461,Diet low in vegetables,199,0.000518935
+Nauru,NRU,Oceania,2019,12132,78,57.6986,Diet low in whole grains,3,7.82E-06
+Nauru,NRU,Oceania,2019,12132,78,57.6986,Diet low in fruits,2,5.22E-06
+Nauru,NRU,Oceania,2019,12132,78,57.6986,Diet low in nuts and seeds,0,0
+Nauru,NRU,Oceania,2019,12132,78,57.6986,Diet low in vegetables,2,5.22E-06
+Nepal,NPL,Asia,2019,28832496,205541,40.8463,Diet low in whole grains,3640,0.00949207
+Nepal,NPL,Asia,2019,28832496,205541,40.8463,Diet low in fruits,3102,0.008089121
+Nepal,NPL,Asia,2019,28832496,205541,40.8463,Diet low in nuts and seeds,2606,0.006795696
+Nepal,NPL,Asia,2019,28832496,205541,40.8463,Diet low in vegetables,2429,0.006334131
+Netherlands,NLD,Europe,2019,17344874,114041,46.5325,Diet low in whole grains,4443,0.011586062
+Netherlands,NLD,Europe,2019,17344874,114041,46.5325,Diet low in fruits,1722,0.004490479
+Netherlands,NLD,Europe,2019,17344874,114041,46.5325,Diet low in nuts and seeds,578,0.001507257
+Netherlands,NLD,Europe,2019,17344874,114041,46.5325,Diet low in vegetables,1328,0.003463041
+New Zealand,NZL,Oceania,2019,4979200,24383,44.1436,Diet low in whole grains,1306,0.003405671
+New Zealand,NZL,Oceania,2019,4979200,24383,44.1436,Diet low in fruits,406,0.001058731
+New Zealand,NZL,Oceania,2019,4979200,24383,44.1436,Diet low in nuts and seeds,145,0.000378118
+New Zealand,NZL,Oceania,2019,4979200,24383,44.1436,Diet low in vegetables,341,0.00088923
+Nicaragua,NIC,North America,2019,6663924,30201,35.7297,Diet low in whole grains,814,0.002122677
+Nicaragua,NIC,North America,2019,6663924,30201,35.7297,Diet low in fruits,709,0.001848867
+Nicaragua,NIC,North America,2019,6663924,30201,35.7297,Diet low in nuts and seeds,280,0.000730159
+Nicaragua,NIC,North America,2019,6663924,30201,35.7297,Diet low in vegetables,578,0.001507257
+Niger,NER,Africa,2019,23443393,118426,15.7742,Diet low in whole grains,1341,0.003496941
+Niger,NER,Africa,2019,23443393,118426,15.7742,Diet low in fruits,1571,0.004096715
+Niger,NER,Africa,2019,23443393,118426,15.7742,Diet low in nuts and seeds,23,6.00E-05
+Niger,NER,Africa,2019,23443393,118426,15.7742,Diet low in vegetables,763,0.001989684
+Nigeria,NGA,Africa,2019,203304492,912981,15.0877,Diet low in whole grains,13981,0.036458415
+Nigeria,NGA,Africa,2019,203304492,912981,15.0877,Diet low in fruits,9743,0.025406933
+Nigeria,NGA,Africa,2019,203304492,912981,15.0877,Diet low in nuts and seeds,313,0.000816214
+Nigeria,NGA,Africa,2019,203304492,912981,15.0877,Diet low in vegetables,6637,0.017307381
+North Macedonia,MKD,Europe,2019,2076694,37970,95.9217,Diet low in whole grains,1401,0.003653404
+North Macedonia,MKD,Europe,2019,2076694,37970,95.9217,Diet low in fruits,398,0.001037869
+North Macedonia,MKD,Europe,2019,2076694,37970,95.9217,Diet low in nuts and seeds,142,0.000370295
+North Macedonia,MKD,Europe,2019,2076694,37970,95.9217,Diet low in vegetables,51,0.000132993
+Northern Mariana Islands,MNP,Oceania,2019,49858,413,58.1652,Diet low in whole grains,15,3.91E-05
+Northern Mariana Islands,MNP,Oceania,2019,49858,413,58.1652,Diet low in fruits,6,1.56E-05
+Northern Mariana Islands,MNP,Oceania,2019,49858,413,58.1652,Diet low in nuts and seeds,0,0
+Northern Mariana Islands,MNP,Oceania,2019,49858,413,58.1652,Diet low in vegetables,8,2.09E-05
+Norway,NOR,Europe,2019,5347896,26992,51.4969,Diet low in whole grains,1555,0.004054991
+Norway,NOR,Europe,2019,5347896,26992,51.4969,Diet low in fruits,400,0.001043085
+Norway,NOR,Europe,2019,5347896,26992,51.4969,Diet low in nuts and seeds,357,0.000930953
+Norway,NOR,Europe,2019,5347896,26992,51.4969,Diet low in vegetables,442,0.001152608
+Oman,OMN,Asia,2019,4602768,14256,27.2445,Diet low in whole grains,713,0.001859298
+Oman,OMN,Asia,2019,4602768,14256,27.2445,Diet low in fruits,78,0.000203401
+Oman,OMN,Asia,2019,4602768,14256,27.2445,Diet low in nuts and seeds,336,0.000876191
+Oman,OMN,Asia,2019,4602768,14256,27.2445,Diet low in vegetables,127,0.000331179
+Pakistan,PAK,Asia,2019,223293280,1375527,56.5843,Diet low in whole grains,54778,0.142845222
+Pakistan,PAK,Asia,2019,223293280,1375527,56.5843,Diet low in fruits,29182,0.076098238
+Pakistan,PAK,Asia,2019,223293280,1375527,56.5843,Diet low in nuts and seeds,17707,0.046174748
+Pakistan,PAK,Asia,2019,223293280,1375527,56.5843,Diet low in vegetables,24682,0.064363536
+Palau,PLW,Oceania,2019,17916,237,111.6321,Diet low in whole grains,10,2.61E-05
+Palau,PLW,Oceania,2019,17916,237,111.6321,Diet low in fruits,5,1.30E-05
+Palau,PLW,Oceania,2019,17916,237,111.6321,Diet low in nuts and seeds,0,0
+Palau,PLW,Oceania,2019,17916,237,111.6321,Diet low in vegetables,5,1.30E-05
+Panama,PAN,North America,2019,4232532,15185,25.6348,Diet low in whole grains,416,0.001084808
+Panama,PAN,North America,2019,4232532,15185,25.6348,Diet low in fruits,282,0.000735375
+Panama,PAN,North America,2019,4232532,15185,25.6348,Diet low in nuts and seeds,106,0.000276417
+Panama,PAN,North America,2019,4232532,15185,25.6348,Diet low in vegetables,281,0.000732767
+Papua New Guinea,PNG,Oceania,2019,9542486,66942,48.4255,Diet low in whole grains,1875,0.004889459
+Papua New Guinea,PNG,Oceania,2019,9542486,66942,48.4255,Diet low in fruits,1361,0.003549095
+Papua New Guinea,PNG,Oceania,2019,9542486,66942,48.4255,Diet low in nuts and seeds,372,0.000970069
+Papua New Guinea,PNG,Oceania,2019,9542486,66942,48.4255,Diet low in vegetables,1013,0.002641612
+Paraguay,PRY,South America,2019,6530026,32784,30.153,Diet low in whole grains,937,0.002443426
+Paraguay,PRY,South America,2019,6530026,32784,30.153,Diet low in fruits,352,0.000917914
+Paraguay,PRY,South America,2019,6530026,32784,30.153,Diet low in nuts and seeds,145,0.000378118
+Paraguay,PRY,South America,2019,6530026,32784,30.153,Diet low in vegetables,535,0.001395126
+Peru,PER,South America,2019,32824861,95593,21.6269,Diet low in whole grains,2988,0.007791842
+Peru,PER,South America,2019,32824861,95593,21.6269,Diet low in fruits,1430,0.003729027
+Peru,PER,South America,2019,32824861,95593,21.6269,Diet low in nuts and seeds,1196,0.003118823
+Peru,PER,South America,2019,32824861,95593,21.6269,Diet low in vegetables,1485,0.003872452
+Philippines,PHL,Asia,2019,110380804,661704,33.3835,Diet low in whole grains,15316,0.03993971
+Philippines,PHL,Asia,2019,110380804,661704,33.3835,Diet low in fruits,9379,0.024457726
+Philippines,PHL,Asia,2019,110380804,661704,33.3835,Diet low in nuts and seeds,1837,0.004790366
+Philippines,PHL,Asia,2019,110380804,661704,33.3835,Diet low in vegetables,10317,0.02690376
+Poland,POL,Europe,2019,37965475,460603,104.8479,Diet low in whole grains,20129,0.052490625
+Poland,POL,Europe,2019,37965475,460603,104.8479,Diet low in fruits,8726,0.022754891
+Poland,POL,Europe,2019,37965475,460603,104.8479,Diet low in nuts and seeds,9126,0.023797975
+Poland,POL,Europe,2019,37965475,460603,104.8479,Diet low in vegetables,1825,0.004759074
+Portugal,PRT,Europe,2019,10286263,85563,57.3289,Diet low in whole grains,3580,0.009335607
+Portugal,PRT,Europe,2019,10286263,85563,57.3289,Diet low in fruits,1148,0.002993653
+Portugal,PRT,Europe,2019,10286263,85563,57.3289,Diet low in nuts and seeds,782,0.00203923
+Portugal,PRT,Europe,2019,10286263,85563,57.3289,Diet low in vegetables,387,0.001009184
+Puerto Rico,PRI,North America,2019,3193694,28480,63.4688,Diet low in whole grains,1170,0.003051022
+Puerto Rico,PRI,North America,2019,3193694,28480,63.4688,Diet low in fruits,321,0.000837075
+Puerto Rico,PRI,North America,2019,3193694,28480,63.4688,Diet low in nuts and seeds,42,0.000109524
+Puerto Rico,PRI,North America,2019,3193694,28480,63.4688,Diet low in vegetables,494,0.001288209
+Qatar,QAT,Asia,2019,2807235,4788,9.5111,Diet low in whole grains,222,0.000578912
+Qatar,QAT,Asia,2019,2807235,4788,9.5111,Diet low in fruits,14,3.65E-05
+Qatar,QAT,Asia,2019,2807235,4788,9.5111,Diet low in nuts and seeds,28,7.30E-05
+Qatar,QAT,Asia,2019,2807235,4788,9.5111,Diet low in vegetables,3,7.82E-06
+Romania,ROU,Europe,2019,19371648,324945,127.6505,Diet low in whole grains,12934,0.033728141
+Romania,ROU,Europe,2019,19371648,324945,127.6505,Diet low in fruits,5119,0.013348875
+Romania,ROU,Europe,2019,19371648,324945,127.6505,Diet low in nuts and seeds,6337,0.016525068
+Romania,ROU,Europe,2019,19371648,324945,127.6505,Diet low in vegetables,338,0.000881406
+Rwanda,RWA,Africa,2019,12835028,51184,14.5695,Diet low in whole grains,865,0.00225567
+Rwanda,RWA,Africa,2019,12835028,51184,14.5695,Diet low in fruits,28,7.30E-05
+Rwanda,RWA,Africa,2019,12835028,51184,14.5695,Diet low in nuts and seeds,232,0.000604989
+Rwanda,RWA,Africa,2019,12835028,51184,14.5695,Diet low in vegetables,745,0.001942745
+Samoa,WSM,Oceania,2019,211905,1861,72.2022,Diet low in whole grains,70,0.00018254
+Samoa,WSM,Oceania,2019,211905,1861,72.2022,Diet low in fruits,39,0.000101701
+Samoa,WSM,Oceania,2019,211905,1861,72.2022,Diet low in nuts and seeds,1,2.61E-06
+Samoa,WSM,Oceania,2019,211905,1861,72.2022,Diet low in vegetables,43,0.000112132
+San Marino,SMR,Europe,2019,34178,215,46.8137,Diet low in whole grains,10,2.61E-05
+San Marino,SMR,Europe,2019,34178,215,46.8137,Diet low in fruits,3,7.82E-06
+San Marino,SMR,Europe,2019,34178,215,46.8137,Diet low in nuts and seeds,1,2.61E-06
+San Marino,SMR,Europe,2019,34178,215,46.8137,Diet low in vegetables,2,5.22E-06
+Sao Tome and Principe,STP,Africa,2019,214599,883,25.1632,Diet low in whole grains,28,7.30E-05
+Sao Tome and Principe,STP,Africa,2019,214599,883,25.1632,Diet low in fruits,7,1.83E-05
+Sao Tome and Principe,STP,Africa,2019,214599,883,25.1632,Diet low in nuts and seeds,1,2.61E-06
+Sao Tome and Principe,STP,Africa,2019,214599,883,25.1632,Diet low in vegetables,18,4.69E-05
+Saudi Arabia,SAU,Asia,2019,35827362,154143,38.5571,Diet low in whole grains,7131,0.018595591
+Saudi Arabia,SAU,Asia,2019,35827362,154143,38.5571,Diet low in fruits,2314,0.006034244
+Saudi Arabia,SAU,Asia,2019,35827362,154143,38.5571,Diet low in nuts and seeds,2546,0.006639234
+Saudi Arabia,SAU,Asia,2019,35827362,154143,38.5571,Diet low in vegetables,1823,0.004753858
+Senegal,SEN,Africa,2019,16000781,67119,23.1614,Diet low in whole grains,1366,0.003562134
+Senegal,SEN,Africa,2019,16000781,67119,23.1614,Diet low in fruits,1435,0.003742066
+Senegal,SEN,Africa,2019,16000781,67119,23.1614,Diet low in nuts and seeds,54,0.000140816
+Senegal,SEN,Africa,2019,16000781,67119,23.1614,Diet low in vegetables,851,0.002219163
+Serbia,SRB,Europe,2019,6945235,168706,158.8283,Diet low in whole grains,6362,0.016590261
+Serbia,SRB,Europe,2019,6945235,168706,158.8283,Diet low in fruits,1458,0.003802043
+Serbia,SRB,Europe,2019,6945235,168706,158.8283,Diet low in nuts and seeds,1786,0.004657373
+Serbia,SRB,Europe,2019,6945235,168706,158.8283,Diet low in vegetables,1425,0.003715989
+Seychelles,SYC,Africa,2019,97625,740,48.1434,Diet low in whole grains,20,5.22E-05
+Seychelles,SYC,Africa,2019,97625,740,48.1434,Diet low in fruits,11,2.87E-05
+Seychelles,SYC,Africa,2019,97625,740,48.1434,Diet low in nuts and seeds,3,7.82E-06
+Seychelles,SYC,Africa,2019,97625,740,48.1434,Diet low in vegetables,13,3.39E-05
+Sierra Leone,SLE,Africa,2019,8046828,41403,24.432,Diet low in whole grains,678,0.001768028
+Sierra Leone,SLE,Africa,2019,8046828,41403,24.432,Diet low in fruits,715,0.001864514
+Sierra Leone,SLE,Africa,2019,8046828,41403,24.432,Diet low in nuts and seeds,15,3.91E-05
+Sierra Leone,SLE,Africa,2019,8046828,41403,24.432,Diet low in vegetables,558,0.001455103
+Singapore,SGP,Asia,2019,5703569,16423,20.2505,Diet low in whole grains,674,0.001757598
+Singapore,SGP,Asia,2019,5703569,16423,20.2505,Diet low in fruits,180,0.000469388
+Singapore,SGP,Asia,2019,5703569,16423,20.2505,Diet low in nuts and seeds,188,0.00049025
+Singapore,SGP,Asia,2019,5703569,16423,20.2505,Diet low in vegetables,113,0.000294671
+Slovenia,SVN,Europe,2019,2088385,18849,53.8694,Diet low in whole grains,624,0.001627212
+Slovenia,SVN,Europe,2019,2088385,18849,53.8694,Diet low in fruits,174,0.000453742
+Slovenia,SVN,Europe,2019,2088385,18849,53.8694,Diet low in nuts and seeds,151,0.000393764
+Slovenia,SVN,Europe,2019,2088385,18849,53.8694,Diet low in vegetables,176,0.000458957
+Solomon Islands,SLB,Oceania,2019,674993,8419,116.5938,Diet low in whole grains,284,0.00074059
+Solomon Islands,SLB,Oceania,2019,674993,8419,116.5938,Diet low in fruits,209,0.000545012
+Solomon Islands,SLB,Oceania,2019,674993,8419,116.5938,Diet low in nuts and seeds,62,0.000161678
+Solomon Islands,SLB,Oceania,2019,674993,8419,116.5938,Diet low in vegetables,232,0.000604989
+Somalia,SOM,Africa,2019,15981300,109541,31.5431,Diet low in whole grains,1497,0.003903744
+Somalia,SOM,Africa,2019,15981300,109541,31.5431,Diet low in fruits,1933,0.005040706
+Somalia,SOM,Africa,2019,15981300,109541,31.5431,Diet low in nuts and seeds,115,0.000299887
+Somalia,SOM,Africa,2019,15981300,109541,31.5431,Diet low in vegetables,1496,0.003901136
+South Africa,ZAF,Africa,2019,58087055,346018,36.6536,Diet low in whole grains,5243,0.013672232
+South Africa,ZAF,Africa,2019,58087055,346018,36.6536,Diet low in fruits,8375,0.021839584
+South Africa,ZAF,Africa,2019,58087055,346018,36.6536,Diet low in nuts and seeds,3773,0.009838896
+South Africa,ZAF,Africa,2019,58087055,346018,36.6536,Diet low in vegetables,3900,0.010170075
+South Sudan,SSD,Africa,2019,10447666,39825,13.2374,Diet low in whole grains,494,0.001288209
+South Sudan,SSD,Africa,2019,10447666,39825,13.2374,Diet low in fruits,391,0.001019615
+South Sudan,SSD,Africa,2019,10447666,39825,13.2374,Diet low in nuts and seeds,50,0.000130386
+South Sudan,SSD,Africa,2019,10447666,39825,13.2374,Diet low in vegetables,448,0.001168255
+Spain,ESP,Europe,2019,47134837,319980,40.2738,Diet low in whole grains,12753,0.033256145
+Spain,ESP,Europe,2019,47134837,319980,40.2738,Diet low in fruits,2332,0.006081183
+Spain,ESP,Europe,2019,47134837,319980,40.2738,Diet low in nuts and seeds,1756,0.004579141
+Spain,ESP,Europe,2019,47134837,319980,40.2738,Diet low in vegetables,2142,0.005585718
+Sri Lanka,LKA,Asia,2019,21803000,147936,48.4108,Diet low in whole grains,4224,0.011014973
+Sri Lanka,LKA,Asia,2019,21803000,147936,48.4108,Diet low in fruits,3857,0.010057943
+Sri Lanka,LKA,Asia,2019,21803000,147936,48.4108,Diet low in nuts and seeds,121,0.000315533
+Sri Lanka,LKA,Asia,2019,21803000,147936,48.4108,Diet low in vegetables,2353,0.006135945
+Sudan,SDN,Africa,2019,43232093,220694,51.1749,Diet low in whole grains,11581,0.030199907
+Sudan,SDN,Africa,2019,43232093,220694,51.1749,Diet low in fruits,3394,0.008850573
+Sudan,SDN,Africa,2019,43232093,220694,51.1749,Diet low in nuts and seeds,4042,0.01054037
+Sudan,SDN,Africa,2019,43232093,220694,51.1749,Diet low in vegetables,3107,0.00810216
+Suriname,SUR,South America,2019,600301,4240,46.8099,Diet low in whole grains,126,0.000328572
+Suriname,SUR,South America,2019,600301,4240,46.8099,Diet low in fruits,74,0.000192971
+Suriname,SUR,South America,2019,600301,4240,46.8099,Diet low in nuts and seeds,6,1.56E-05
+Suriname,SUR,South America,2019,600301,4240,46.8099,Diet low in vegetables,75,0.000195578
+Sweden,SWE,Europe,2019,10278887,73216,69.92,Diet low in whole grains,4105,0.010704656
+Sweden,SWE,Europe,2019,10278887,73216,69.92,Diet low in fruits,1225,0.003194447
+Sweden,SWE,Europe,2019,10278887,73216,69.92,Diet low in nuts and seeds,702,0.001830613
+Sweden,SWE,Europe,2019,10278887,73216,69.92,Diet low in vegetables,1155,0.003011907
+Switzerland,CHE,Europe,2019,8575280,53783,52.5114,Diet low in whole grains,2680,0.006988667
+Switzerland,CHE,Europe,2019,8575280,53783,52.5114,Diet low in fruits,795,0.002073131
+Switzerland,CHE,Europe,2019,8575280,53783,52.5114,Diet low in nuts and seeds,313,0.000816214
+Switzerland,CHE,Europe,2019,8575280,53783,52.5114,Diet low in vegetables,715,0.001864514
+Tajikistan,TJK,Asia,2019,9337003,58568,74.0602,Diet low in whole grains,3512,0.009158283
+Tajikistan,TJK,Asia,2019,9337003,58568,74.0602,Diet low in fruits,1568,0.004088892
+Tajikistan,TJK,Asia,2019,9337003,58568,74.0602,Diet low in nuts and seeds,1605,0.004185377
+Tajikistan,TJK,Asia,2019,9337003,58568,74.0602,Diet low in vegetables,230,0.000599774
+Tanzania,TZA,Africa,2019,59872579,243035,15.204,Diet low in whole grains,2933,0.007648418
+Tanzania,TZA,Africa,2019,59872579,243035,15.204,Diet low in fruits,2949,0.007690141
+Tanzania,TZA,Africa,2019,59872579,243035,15.204,Diet low in nuts and seeds,77,0.000200794
+Tanzania,TZA,Africa,2019,59872579,243035,15.204,Diet low in vegetables,3144,0.008198645
+Thailand,THA,Asia,2019,71307763,430315,26.6535,Diet low in whole grains,8064,0.021028586
+Thailand,THA,Asia,2019,71307763,430315,26.6535,Diet low in fruits,4329,0.011288783
+Thailand,THA,Asia,2019,71307763,430315,26.6535,Diet low in nuts and seeds,146,0.000380726
+Thailand,THA,Asia,2019,71307763,430315,26.6535,Diet low in vegetables,6467,0.01686407
+Togo,TGO,Africa,2019,8243094,37193,27.2228,Diet low in whole grains,699,0.00182279
+Togo,TGO,Africa,2019,8243094,37193,27.2228,Diet low in fruits,896,0.00233651
+Togo,TGO,Africa,2019,8243094,37193,27.2228,Diet low in nuts and seeds,19,4.95E-05
+Togo,TGO,Africa,2019,8243094,37193,27.2228,Diet low in vegetables,630,0.001642858
+Tonga,TON,Oceania,2019,104951,735,52.4054,Diet low in whole grains,24,6.26E-05
+Tonga,TON,Oceania,2019,104951,735,52.4054,Diet low in fruits,16,4.17E-05
+Tonga,TON,Oceania,2019,104951,735,52.4054,Diet low in nuts and seeds,2,5.22E-06
+Tonga,TON,Oceania,2019,104951,735,52.4054,Diet low in vegetables,13,3.39E-05
+Trinidad and Tobago,TTO,North America,2019,1519955,14279,75.5286,Diet low in whole grains,586,0.001528119
+Trinidad and Tobago,TTO,North America,2019,1519955,14279,75.5286,Diet low in fruits,323,0.000842291
+Trinidad and Tobago,TTO,North America,2019,1519955,14279,75.5286,Diet low in nuts and seeds,19,4.95E-05
+Trinidad and Tobago,TTO,North America,2019,1519955,14279,75.5286,Diet low in vegetables,220,0.000573697
+Tunisia,TUN,Africa,2019,12049314,85516,56.7916,Diet low in whole grains,5281,0.013771325
+Tunisia,TUN,Africa,2019,12049314,85516,56.7916,Diet low in fruits,795,0.002073131
+Tunisia,TUN,Africa,2019,12049314,85516,56.7916,Diet low in nuts and seeds,428,0.001116101
+Tunisia,TUN,Africa,2019,12049314,85516,56.7916,Diet low in vegetables,339,0.000884014
+Turkmenistan,TKM,Asia,2019,6158420,46117,89.8445,Diet low in whole grains,3032,0.007906581
+Turkmenistan,TKM,Asia,2019,6158420,46117,89.8445,Diet low in fruits,748,0.001950568
+Turkmenistan,TKM,Asia,2019,6158420,46117,89.8445,Diet low in nuts and seeds,1695,0.004420071
+Turkmenistan,TKM,Asia,2019,6158420,46117,89.8445,Diet low in vegetables,58,0.000151247
+Tuvalu,TUV,Oceania,2019,10956,124,109.529,Diet low in whole grains,5,1.30E-05
+Tuvalu,TUV,Oceania,2019,10956,124,109.529,Diet low in fruits,4,1.04E-05
+Tuvalu,TUV,Oceania,2019,10956,124,109.529,Diet low in nuts and seeds,0,0
+Tuvalu,TUV,Oceania,2019,10956,124,109.529,Diet low in vegetables,3,7.82E-06
+Uganda,UGA,Africa,2019,42949080,136163,10.3332,Diet low in whole grains,1877,0.004894675
+Uganda,UGA,Africa,2019,42949080,136163,10.3332,Diet low in fruits,523,0.001363833
+Uganda,UGA,Africa,2019,42949080,136163,10.3332,Diet low in nuts and seeds,68,0.000177324
+Uganda,UGA,Africa,2019,42949080,136163,10.3332,Diet low in vegetables,1970,0.005137192
+Ukraine,UKR,Europe,2019,44386203,856572,288.646,Diet low in whole grains,66765,0.17410386
+Ukraine,UKR,Europe,2019,44386203,856572,288.646,Diet low in fruits,25488,0.066465351
+Ukraine,UKR,Europe,2019,44386203,856572,288.646,Diet low in nuts and seeds,29883,0.077926243
+Ukraine,UKR,Europe,2019,44386203,856572,288.646,Diet low in vegetables,5983,0.015601938
+United Arab Emirates,ARE,Asia,2019,9211657,34788,22.9275,Diet low in whole grains,1470,0.003833336
+United Arab Emirates,ARE,Asia,2019,9211657,34788,22.9275,Diet low in fruits,323,0.000842291
+United Arab Emirates,ARE,Asia,2019,9211657,34788,22.9275,Diet low in nuts and seeds,26,6.78E-05
+United Arab Emirates,ARE,Asia,2019,9211657,34788,22.9275,Diet low in vegetables,293,0.000764059
+United Kingdom,GBR,Europe,2019,66836327,481831,71.8053,Diet low in whole grains,20849,0.054368178
+United Kingdom,GBR,Europe,2019,66836327,481831,71.8053,Diet low in fruits,10067,0.026251832
+United Kingdom,GBR,Europe,2019,66836327,481831,71.8053,Diet low in nuts and seeds,11140,0.029049906
+United Kingdom,GBR,Europe,2019,66836327,481831,71.8053,Diet low in vegetables,5936,0.015479376
+United States,USA,North America,2019,328329953,2549358,55.2569,Diet low in whole grains,102247,0.26663068
+United States,USA,North America,2019,328329953,2549358,55.2569,Diet low in fruits,40172,0.104756987
+United States,USA,North America,2019,328329953,2549358,55.2569,Diet low in nuts and seeds,11029,0.02876045
+United States,USA,North America,2019,328329953,2549358,55.2569,Diet low in vegetables,27977,0.072955945
+Uruguay,URY,South America,2019,3428409,25129,69.6241,Diet low in whole grains,1183,0.003084923
+Uruguay,URY,South America,2019,3428409,25129,69.6241,Diet low in fruits,396,0.001032654
+Uruguay,URY,South America,2019,3428409,25129,69.6241,Diet low in nuts and seeds,401,0.001045692
+Uruguay,URY,South America,2019,3428409,25129,69.6241,Diet low in vegetables,407,0.001061339
+Uzbekistan,UZB,Asia,2019,33580350,290223,105.6124,Diet low in whole grains,20155,0.052558426
+Uzbekistan,UZB,Asia,2019,33580350,290223,105.6124,Diet low in fruits,5139,0.01340103
+Uzbekistan,UZB,Asia,2019,33580350,290223,105.6124,Diet low in nuts and seeds,9943,0.025928476
+Uzbekistan,UZB,Asia,2019,33580350,290223,105.6124,Diet low in vegetables,228,0.000594558
+Vanuatu,VUT,Oceania,2019,304404,2975,75.886,Diet low in whole grains,103,0.000268594
+Vanuatu,VUT,Oceania,2019,304404,2975,75.886,Diet low in fruits,53,0.000138209
+Vanuatu,VUT,Oceania,2019,304404,2975,75.886,Diet low in nuts and seeds,9,2.35E-05
+Vanuatu,VUT,Oceania,2019,304404,2975,75.886,Diet low in vegetables,66,0.000172109
+Vietnam,VNM,Asia,2019,95776716,706638,35.4397,Diet low in whole grains,11915,0.031070883
+Vietnam,VNM,Asia,2019,95776716,706638,35.4397,Diet low in fruits,15136,0.039470322
+Vietnam,VNM,Asia,2019,95776716,706638,35.4397,Diet low in nuts and seeds,769,0.00200533
+Vietnam,VNM,Asia,2019,95776716,706638,35.4397,Diet low in vegetables,6123,0.015967018
+Zambia,ZMB,Africa,2019,18380477,72280,22.8558,Diet low in whole grains,873,0.002276532
+Zambia,ZMB,Africa,2019,18380477,72280,22.8558,Diet low in fruits,2056,0.005361455
+Zambia,ZMB,Africa,2019,18380477,72280,22.8558,Diet low in nuts and seeds,71,0.000185148
+Zambia,ZMB,Africa,2019,18380477,72280,22.8558,Diet low in vegetables,1201,0.003131862
+Zimbabwe,ZWE,Africa,2019,15354608,81732,33.0389,Diet low in whole grains,1475,0.003846374
+Zimbabwe,ZWE,Africa,2019,15354608,81732,33.0389,Diet low in fruits,1960,0.005111115
+Zimbabwe,ZWE,Africa,2019,15354608,81732,33.0389,Diet low in nuts and seeds,256,0.000667574
+Zimbabwe,ZWE,Africa,2019,15354608,81732,33.0389,Diet low in vegetables,1382,0.003603857
