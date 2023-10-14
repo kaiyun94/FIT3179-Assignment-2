@@ -156,8 +156,7 @@
           "condition": {
             "test": {
               "or": [
-                {"param": "hover", "empty": true},
-                {"param": "continent_legend"}
+                {"param": "hover", "empty": true}
               ]
             },
             "value": 1
